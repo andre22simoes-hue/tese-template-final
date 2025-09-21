@@ -1,14 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.4)  8 SEP 2025 14:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.5)  21 SEP 2025 17:15
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**Thesis
-(./Thesis.tex
+**c:/Users/Asus/Documents/tese/tese_final/tese-template-final/main/Thesis.tex
+(c:/Users/Asus/Documents/tese/tese_final/tese-template-final/main/Thesis.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/base/report.cls
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -23,63 +24,51 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-)
-(./Preamble/Thesis_Preamble.tex
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+) (Preamble/Thesis_Preamble.tex (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLa
-TeX and XeLaTeX
+) (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count284
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2045.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2047.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2049.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2050.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2051.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2053.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2078.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2047.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2049.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2050.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2051.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
 \U@D=\dimen149
-\l@unhyphenated=\language90
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
+\l@unhyphenated=\language79
+ (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count285
 
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/babel-english/english.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/babel/locale/en/babel-english
-.tex
+ (C:\Program Files\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 12.
 )
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language22). Reported on input line 105.
+(babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language22). Reported on input line 108.
-)) (/home/carlos/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+(babel)             (\language73). Reported on input line 108.
+)) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+) (C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+ (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count286
@@ -94,48 +83,38 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen156
 \Gm@layoutvoffset=\dimen157
 \Gm@dimlist=\toks20
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+ (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+) (C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+ (C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen158
 \Gin@req@width=\dimen159
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/06/16 v2.17y AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen160
-))
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen161
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count289
@@ -185,8 +164,7 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2949.
 LaTeX Info: Redefining \] on input line 2950.
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amscls/amsthm.sty
+) (C:\Program Files\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks26
 \thm@bodyfont=\toks27
@@ -197,17 +175,15 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip55
 \thm@headsep=\skip56
 \dth@everypar=\toks31
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+) (C:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/subfigure/subfigure.sty
-Package: subfigure 2002/03/15 v2.1.5 subfigure package
+) (C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip57
 \subfigcapskip=\skip58
 \subfigcaptopadj=\dimen169
@@ -222,20 +198,17 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+(C:\Program Files\MiKTeX\tex/latex/subfigure\subfigure.cfg)
 \subfig@top=\skip61
 \subfig@bottom=\skip62
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/subfigmat/subfigmat.sty
+) (C:\Program Files\MiKTeX\tex/latex/subfigmat\subfigmat.sty
 Package: subfigmat 1999/02/27 v1.0 Subfigure Matrix Package
 \sfm@width=\skip63
 \sfmcolsep=\skip64
 \c@sfm@count=\count305
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/tools/dcolumn.sty
+) (C:\Program Files\MiKTeX\tex/latex/tools\dcolumn.sty
 Package: dcolumn 2023/07/08 v1.06 decimal alignment package (DPC)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+ (C:\Program Files\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \col@sep=\dimen171
 \ar@mcellbox=\box55
@@ -244,44 +217,31 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \extratabsurround=\skip65
 \backup@length=\skip66
 \ar@cellbox=\box56
-))
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/nomencl/nomencl.sty
+)) (C:\Program Files\MiKTeX\tex/latex/nomencl\nomencl.sty
 Package: nomencl 2021/11/10 v5.6 Nomenclature package
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ (C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks33
 \XKV@tempa@toks=\toks34
 )
 \XKV@depth=\count306
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+)) (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/koma-script/tocbasic.sty
+) (C:\Program Files\MiKTeX\tex/latex/koma-script\tocbasic.sty
 Package: tocbasic 2025/08/28 v3.47 KOMA-Script package (handling toc-files)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2025/08/28 v3.47 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile.sty
+ (C:\Program Files\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2025/08/28 v3.47 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (C:\Program Files\MiKTeX\tex/latex/koma-script\scrlfile.sty
 Package: scrlfile 2025/08/28 v3.47 KOMA-Script package (file load hooks)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+ (C:\Program Files\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
 Package: scrlfile-hook 2025/08/28 v3.47 KOMA-Script package (using LaTeX hooks)
-
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/koma-script/scrlogo.sty
+ (C:\Program Files\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2025/08/28 v3.47 KOMA-Script package (logo)
 )))
 Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
-Already applied: [0000/00/00] Usage of raw or classic option list on input line
- 370.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 370.
 )
 \scr@dte@tocline@numberwidth=\skip67
 \scr@dte@tocline@numbox=\box57
@@ -296,13 +256,12 @@ Package tocbasic Info: setting babel extension for `nls' on input line 188.
 \openout3 = `Thesis.nlo'.
 
 Package nomencl Info: Writing nomenclature file Thesis.nlo on input line 289.
-
-(./glossary.sty
+ (glossary.sty
 Package: glossary 2006/07/20 2.4 (NLCT)
 \gls@cols=\count307
 
 No configuration file glossary.cfg found
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 \LTleft=\skip69
 \LTright=\skip70
@@ -329,78 +288,61 @@ Package: longtable 2024-12-18 v4.23 Multi-page Table package (DPC)
 
 
 Writing glossary file Thesis.glo 
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics/rotating.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
 \c@r@tfl@t=\count313
 \rotFPtop=\skip74
 \rotFPbot=\skip75
 \rot@float@box=\box63
 \rot@mess@toks=\toks36
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+ (C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/home/carlos/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-))
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+)) (C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+ (C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring
-.sty
+) (C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (/home/carlos/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count314
-) (/home/carlos/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count315
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
+) (C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen176
 \Hy@linkcounter=\count316
 \Hy@pagecounter=\count317
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count318
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -413,20 +355,16 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count319
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/url/url.sty
+ (C:\Program Files\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen177
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+ (C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count320
 \Field@Width=\dimen178
@@ -443,22 +381,16 @@ Package hyperref Info: PDF/A mode OFF on input line 6108.
 \c@Hfootnote=\count323
 )
 Package hyperref Info: Driver: hpdftex.
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count324
 \c@bookmark@seq@number=\count325
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.s
-ty
+ (C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.s
-ty
+ (C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip76
 )
@@ -473,33 +405,26 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 
 Package hyperref Info: Option `bookmarksopen' set `false' on input line 380.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 380.
-
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 380
-.
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/hypcap/hypcap.sty
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 380.
+(C:\Program Files\MiKTeX\tex/latex/hypcap\hypcap.sty
 Package: hypcap 2024-07-26 v1.13 Adjusting the anchors of captions (HO)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+ (C:\Program Files\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-))
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/natbib/natbib.sty
+)) (C:\Program Files\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip77
 \bibsep=\skip78
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count326
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/notoccite/notoccite.sty
+) (C:\Program Files\MiKTeX\tex/latex/notoccite\notoccite.sty
 Package: notoccite 2000/07/20
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
+) (C:\Program Files\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip79
 \multirow@cntb=\count327
 \multirow@dima=\skip80
 \bigstrutjot=\dimen180
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen181
 \lightrulewidth=\dimen182
@@ -518,11 +443,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count330
 \@lastruleclass=\count331
 \@thisrulewidth=\dimen193
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+) (C:\Program Files\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/tools/calc.sty
+ (C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count332
 \calc@Bcount=\count333
@@ -534,21 +457,17 @@ LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count334
 \calc@Cskip=\skip83
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+) (C:\Program Files\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 \ESO@tempdima=\dimen196
 \ESO@tempdimb=\dimen197
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+ (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -562,8 +481,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 \AM@pagewidth=\dimen198
 \AM@pageheight=\dimen199
 \AM@fboxrule=\dimen256
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/pdfpages/pppdftex.def
+ (C:\Program Files\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count335
@@ -574,12 +492,9 @@ File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks39
 \c@AM@survey=\count337
 \AM@templatesizebox=\box65
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/emptypage/emptypage.sty
-Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
-pages
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (C:\Program Files\MiKTeX\tex/latex/emptypage\emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
+) (C:\Program Files\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box66
 \beforetitleunit=\skip84
@@ -590,19 +505,338 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen259
 \titlewidthlast=\dimen260
 \titlewidthfirst=\dimen261
-))
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 7
-3.
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/psnfss/ot1phv.fd
-File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (C:\Program Files\MiKTeX\tex/latex/tabularray\tabularray.sty
+Package: tabularray 2025-08-29 v2025B Typeset tabulars and arrays with LaTeX3
+ (C:\Program Files\MiKTeX\tex/latex/ninecolors\ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
+ (C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-08-13 L3 programming layer (loader) 
+ (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count338
-) (./Thesis.aux
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+))
+\l__tblr_a_int=\count339
+\l__tblr_c_int=\count340
+\l__tblr_r_int=\count341
+\l__tblr_d_dim=\dimen262
+\l__tblr_h_dim=\dimen263
+\l__tblr_o_dim=\dimen264
+\l__tblr_p_dim=\dimen265
+\l__tblr_q_dim=\dimen266
+\l__tblr_r_dim=\dimen267
+\l__tblr_s_dim=\dimen268
+\l__tblr_t_dim=\dimen269
+\l__tblr_v_dim=\dimen270
+\l__tblr_w_dim=\dimen271
+\l__tblr_a_box=\box67
+\l__tblr_b_box=\box68
+\l__tblr_c_box=\box69
+\l__tblr_d_box=\box70
+\c@tblrcount=\count342
+\c@rownum=\count343
+\c@colnum=\count344
+\c@rowcount=\count345
+\c@colcount=\count346
+\abovesep=\dimen272
+\belowsep=\dimen273
+\leftsep=\dimen274
+\rightsep=\dimen275
+\gTblrLevelInt=\count347
+\g__tblr_data_row_key_count_int=\count348
+\g__tblr_data_column_key_count_int=\count349
+\g__tblr_data_cell_key_count_int=\count350
+\g__tblr_array_int=\count351
+\l__tblr_key_count_int=\count352
+\l__tblr_key_quotient_int=\count353
+\l__tblr_key_quotient_two_int=\count354
+\l__tblr_key_remainder_int=\count355
+\g__tblr_data_str_value_count_int=\count356
+\lTblrChildTotalInt=\count357
+\lTblrChildHtotalInt=\count358
+\lTblrChildVtotalInt=\count359
+\l__child_diff_h_int=\count360
+\l__child_diff_v_int=\count361
+\l__child_sign_h_int=\count362
+\l__child_sign_v_int=\count363
+\l__child_step_int=\count364
+\lTblrDefaultHruleWidthDim=\dimen276
+\lTblrDefaultVruleWidthDim=\dimen277
+\l__tblr_split_balance_int=\count365
+\l__tblr_strut_dp_dim=\dimen278
+\l__tblr_strut_ht_dim=\dimen279
+\g__tblr_cell_wd_dim=\dimen280
+\g__tblr_cell_ht_dim=\dimen281
+\g__tblr_cell_head_dim=\dimen282
+\g__tblr_cell_foot_dim=\dimen283
+\l__tblr_measured_cell_box=\box71
+\g__tblr_last_box=\box72
+\l__tblr_temp_box=\box73
+\l__tblr_column_target_dim=\dimen284
+\l__tblr_hfuzz_dim=\dimen285
+\l__tblr_caption_box=\box74
+\l__tblr_caption_left_box=\box75
+\lTblrRowHeadInt=\count366
+\lTblrRowFootInt=\count367
+\l__tblr_row_head_box=\box76
+\l__tblr_row_foot_box=\box77
+\l__tblr_row_head_foot_dim=\dimen286
+\lTblrTableWidthDim=\dimen287
+\l__tblr_table_firsthead_box=\box78
+\l__tblr_table_middlehead_box=\box79
+\l__tblr_table_lasthead_box=\box80
+\l__tblr_table_firstfoot_box=\box81
+\l__tblr_table_middlefoot_box=\box82
+\l__tblr_table_lastfoot_box=\box83
+\l__tblr_remain_height_dim=\dimen288
+\l__tblr_long_from_int=\count368
+\l__tblr_long_to_int=\count369
+\l__tblr_curr_i_int=\count370
+\l__tblr_prev_i_int=\count371
+\lTblrTablePageInt=\count372
+\l__tblr_table_head_box=\box84
+\l__tblr_table_foot_box=\box85
+\l__tblr_table_head_foot_dim=\dimen289
+\l__tblr_table_head_body_foot_dim=\dimen290
+\l__tblr_table_box=\box86
+\lTblrRowFirstInt=\count373
+\lTblrRowLastInt=\count374
+\l__tblr_table_hlines_box=\box87
+\l__tblr_hline_box=\box88
+\l__tblr_row_box=\box89
+\l__tblr_col_o_wd_dim=\dimen291
+\l__tblr_col_b_wd_dim=\dimen292
+\l__tblr_hline_leftskip_dim=\dimen293
+\l__tblr_hline_rightskip_dim=\dimen294
+\l__tblr_row_ht_dim=\dimen295
+\l__tblr_row_dp_dim=\dimen296
+\l__tblr_row_abovesep_dim=\dimen297
+\l__tblr_row_belowsep_dim=\dimen298
+\l__tblr_row_vlines_box=\box90
+\l__tblr_vline_box=\box91
+\l__tblr_cell_box=\box92
+\l__tblr_row_upper_dim=\dimen299
+\l__tblr_row_lower_dim=\dimen300
+\l__tblr_row_vpace_dim=\dimen301
+\l__tblr_vline_aboveskip_dim=\dimen302
+\l__tblr_vline_belowskip_dim=\dimen303
+\lTblrCellRowSpanInt=\count375
+\lTblrCellColSpanInt=\count376
+\l__tblr_cell_wd_dim=\dimen304
+\l__tblr_cell_ht_dim=\dimen305
+\lTblrCellAboveBorderWidthDim=\dimen306
+\lTblrCellBelowBorderWidthDim=\dimen307
+\lTblrCellLeftBorderWidthDim=\dimen308
+\lTblrCellRightBorderWidthDim=\dimen309
+\l__tblr_diag_box=\box93
+\l__tblr_cell_inner_wd_dim=\dimen310
+\l__tblr_cell_inner_dp_dim=\dimen311
+\l__tblr_cell_hanchor_dim=\dimen312
+\l__tblr_last_cell_table_ht_dim=\dimen313
+\l__tblr_last_cell_table_dp_dim=\dimen314
+\l__tblr_last_vline_wd_dim=\dimen315
+\l__tblr_tikz_node_box=\box94
+) (C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+\everycr=\toks41
+\minrowclearance=\skip86
+)
 
-LaTeX Warning: Label `section:overview' multiply defined.
+LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
+(LaTeX)        option "xcdraw".
+
+(C:\Program Files\MiKTeX\tex/latex/pgf-pie\pgf-pie.sty
+Package: pgf-pie 2022/06/14 v0.7 Some LaTeX macros for pie chart by using PGF/Tikz package.
+ (C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks42
+\pgfutil@tempdima=\dimen316
+\pgfutil@tempdimb=\dimen317
+) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box95
+) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks43
+\pgfkeys@temptoks=\toks44
+ (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks45
+))
+\pgf@x=\dimen318
+\pgf@y=\dimen319
+\pgf@xa=\dimen320
+\pgf@ya=\dimen321
+\pgf@xb=\dimen322
+\pgf@yb=\dimen323
+\pgf@xc=\dimen324
+\pgf@yc=\dimen325
+\pgf@xd=\dimen326
+\pgf@yd=\dimen327
+\w@pgf@writea=\write6
+\r@pgf@reada=\read3
+\c@pgf@counta=\count377
+\c@pgf@countb=\count378
+\c@pgf@countc=\count379
+\c@pgf@countd=\count380
+\t@pgf@toka=\toks46
+\t@pgf@tokb=\toks47
+\t@pgf@tokc=\toks48
+\pgf@sys@id@count=\count381
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count382
+\pgfsyssoftpath@bigbuffer@items=\count383
+) (C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen328
+\pgfmath@count=\count384
+\pgfmath@box=\box96
+\pgfmath@toks=\toks49
+\pgfmath@stack@operand=\toks50
+\pgfmath@stack@operation=\toks51
+) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count385
+)) (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen329
+\pgf@picmaxx=\dimen330
+\pgf@picminy=\dimen331
+\pgf@picmaxy=\dimen332
+\pgf@pathminx=\dimen333
+\pgf@pathmaxx=\dimen334
+\pgf@pathminy=\dimen335
+\pgf@pathmaxy=\dimen336
+\pgf@xx=\dimen337
+\pgf@xy=\dimen338
+\pgf@yx=\dimen339
+\pgf@yy=\dimen340
+\pgf@zx=\dimen341
+\pgf@zy=\dimen342
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen343
+\pgf@path@lasty=\dimen344
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen345
+\pgf@shorten@start@additional=\dimen346
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box97
+\pgf@hbox=\box98
+\pgf@layerbox@main=\box99
+\pgf@picture@serial@count=\count386
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen347
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen348
+\pgf@pt@y=\dimen349
+\pgf@pt@temp=\dimen350
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen351
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen352
+\pgf@sys@shading@range@num=\count387
+\pgf@shadingcount=\count388
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box100
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box101
+) (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen353
+\pgf@nodesepend=\dimen354
+) (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen355
+\pgffor@skip=\dimen356
+\pgffor@stack=\toks52
+\pgffor@toks=\toks53
+)) (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count389
+\pgfplotmarksize=\dimen357
+)
+\tikz@lastx=\dimen358
+\tikz@lasty=\dimen359
+\tikz@lastxsaved=\dimen360
+\tikz@lastysaved=\dimen361
+\tikz@lastmovetox=\dimen362
+\tikz@lastmovetoy=\dimen363
+\tikzleveldistance=\dimen364
+\tikzsiblingdistance=\dimen365
+\tikz@figbox=\box102
+\tikz@figbox@bg=\box103
+\tikz@tempbox=\box104
+\tikz@tempbox@bg=\box105
+\tikztreelevel=\count390
+\tikznumberofchildren=\count391
+\tikznumberofcurrentchild=\count392
+\tikz@fig@count=\count393
+ (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count394
+\pgfmatrixcurrentcolumn=\count395
+\pgf@matrix@numberofcolumns=\count396
+)
+\tikz@expandcount=\count397
+ (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Program Files\MiKTeX\tex/latex/pgf-pie\tikzlibrarypie.code.tex (C:\Program Files\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+\pgfpie@angleEnd=\dimen366
+\pgfpie@explodeLength=\count398
+\pgfpie@colorLength=\count399
+\pgfpie@sliceLength=\count400
+)))
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 73.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+) (Thesis.aux
+
+LaTeX Warning: Label `tab:t1' multiply defined.
 
 )
 \openout1 = `Thesis.aux'.
@@ -664,69 +898,55 @@ Package geometry Warning: The marginal notes overrun the paper.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/home/carlos/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count339
-\scratchdimen=\dimen262
-\scratchbox=\box67
-\nofMPsegments=\count340
-\nofMParguments=\count341
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count342
-\MPscratchDim=\dimen263
-\MPnumerator=\count343
-\makeMPintoPDFobject=\count344
-\everyMPtoPDFconversion=\toks42
-)
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count401
+\scratchdimen=\dimen367
+\scratchbox=\box106
+\nofMPsegments=\count402
+\nofMParguments=\count403
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count404
+\MPscratchDim=\dimen368
+\MPnumerator=\count405
+\makeMPintoPDFobject=\count406
+\everyMPtoPDFconversion=\toks55
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 73.
+ (Thesis.out) (Thesis.out)
+\@outlinefile=\write7
+\openout7 = `Thesis.out'.
 
-(./Thesis.out) (./Thesis.out)
-\@outlinefile=\write6
-\openout6 = `Thesis.out'.
-
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.
-sty
-Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PD
-F (HO)
- (/home/carlos/texlive/2025/texmf-dist/tex/latex/graphics/lscape.sty
+ (C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Program Files\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Program Files\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-))
-(./FrontCover/Thesis_FrontCover.tex
-<../Figures/teseue-logo.pdf, id=146, 360.34625pt x 161.10187pt>
+)) (FrontCover/Thesis_FrontCover.tex
+<../Figures/teseue-logo.pdf, id=180, 360.34625pt x 161.10187pt>
 File: ../Figures/teseue-logo.pdf Graphic file (type pdf)
 <use ../Figures/teseue-logo.pdf>
 Package pdftex.def Info: ../Figures/teseue-logo.pdf  used on input line 15.
 (pdftex.def)             Requested size: 180.17268pt x 80.55074pt.
-<../Figures/Airbus_A350.jpg, id=147, 1027.84pt x 770.88pt>
+<../Figures/Airbus_A350.jpg, id=181, 1027.84pt x 770.88pt>
 File: ../Figures/Airbus_A350.jpg Graphic file (type jpg)
 <use ../Figures/Airbus_A350.jpg>
 Package pdftex.def Info: ../Figures/Airbus_A350.jpg  used on input line 24.
 (pdftex.def)             Requested size: 189.67691pt x 142.26378pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
-
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
-
-
-(/home/carlos/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
@@ -734,11 +954,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout4 = `Thesis.ist'.
 
-{/home/carlos/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/home/
-carlos/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc} <../Figures/teseue-
-logo.pdf> <../Figures/Airbus_A350.jpg>])
+{C:/Users/Asus/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc} <../Figures/teseue-logo.pdf> <../Figures/Airbus_A350.jpg>])
 
-[2] (./Dedication/Thesis_Dedication.tex
+[2] (Dedication/Thesis_Dedication.tex
 
 [3
 
@@ -746,37 +964,89 @@ logo.pdf> <../Figures/Airbus_A350.jpg>])
 
 [4
 
-] (./Acknowledgements/Thesis_Acknowledgements.tex)
+] (Acknowledgements/Thesis_Acknowledgements.tex)
 
 [5]
 
 [6
 
-] (./Resumo/Thesis_Resumo.tex)
+] (Resumo/Thesis_Resumo.tex
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 20.
+)
 
 [7]
 
 [8
 
-] (./Abstract/Thesis_Abstract.tex)
+] (Abstract/Thesis_Abstract.tex)
 
 [9]
 
 [10
 
-] (./Thesis.toc
+] (Thesis.toc
+Overfull \hbox (1.39183pt too wide) detected at line 9
+ []\OT1/phv/m/n/12 xxiii
+ []
+
+
 
 [11
 
-])
-\tf@toc=\write7
-\openout7 = `Thesis.toc'.
+]
+Overfull \hbox (1.41573pt too wide) detected at line 92
+ []\OT1/phv/m/n/12 100
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 93
+ []\OT1/phv/m/n/12 100
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 94
+ []\OT1/phv/m/n/12 100
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 95
+ []\OT1/phv/m/n/12 101
+ []
+
+
+Overfull \hbox (1.41573pt too wide) detected at line 97
+ []\OT1/phv/m/n/12 103
+ []
+
+)
+\tf@toc=\write8
+\openout8 = `Thesis.toc'.
 
 
 
-[12] (./Thesis.lot)
-\tf@lot=\write8
-\openout8 = `Thesis.lot'.
+[12] (Thesis.lot
+Overfull \hbox (1.95554pt too wide) in paragraph at lines 6--6
+ [][] [][][]\OT1/phv/m/n/12 Distribui[][]ao da casu[]^^Pstica recol-hida em Cl[]^^Pnica M[]edica, por esp[]ecie 
+ []
+
+
+Overfull \hbox (19.4437pt too wide) in paragraph at lines 10--10
+ \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
+ []
+
+
+Overfull \hbox (12.80075pt too wide) in paragraph at lines 12--12
+ [][] [][][]\OT1/phv/m/n/12 Distribui[][]ao da casu[]^^Pstica recol-hida na es-pe-cial-i-dade de En-docrinolo- 
+ []
+
+
+Overfull \hbox (19.4437pt too wide) in paragraph at lines 12--12
+ \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
+ []
+
+
+Underfull \vbox (badness 5970) has occurred while \output is active []
 
 
 
@@ -784,22 +1054,72 @@ logo.pdf> <../Figures/Airbus_A350.jpg>])
 
 
 ]
-
-[14
-
-] (./Thesis.lof)
-\tf@lof=\write9
-\openout9 = `Thesis.lof'.
+Overfull \hbox (19.4437pt too wide) in paragraph at lines 14--14
+ \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
+ []
 
 
+Overfull \hbox (0.60884pt too wide) in paragraph at lines 17--17
+ [][] [][][]\OT1/phv/m/n/12 Distribui[][]ao da casu[]^^Pstica recol-hida na es-pe-cial-i-dade de Of-tal-molo- 
+ []
 
-[15
 
-]
+Overfull \hbox (19.4437pt too wide) in paragraph at lines 17--17
+ \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
+ []
+
+
+Overfull \hbox (11.36081pt too wide) in paragraph at lines 18--18
+ [][] [][][]\OT1/phv/m/n/12 Distribui[][]ao da casu[]^^Pstica recol-hida na es-pe-cial-i-dade de Teri-ogenolo- 
+ []
+
+
+Overfull \hbox (19.4437pt too wide) in paragraph at lines 18--18
+ \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
+ []
+
+
+Overfull \hbox (19.4437pt too wide) in paragraph at lines 21--21
+ \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
+ []
+
+
+Overfull \hbox (21.26373pt too wide) in paragraph at lines 23--23
+ \OT1/phv/m/n/12 ex-pressa em Frequ[]encia ab-so-luta por esp[]ecie an-i-mal (Fip), Frequ[]encia 
+ []
+
+
+
+[14]
+Overfull \hbox (8.95174pt too wide) in paragraph at lines 24--24
+ \OT1/phv/m/n/12 pressa em Frequ[]encia ab-so-luta por esp[]ecie an-i-mal (Fip), Frequ[]encia 
+ []
+
+
+Overfull \hbox (8.95174pt too wide) in paragraph at lines 26--26
+ \OT1/phv/m/n/12 pressa em Frequ[]encia ab-so-luta por esp[]ecie an-i-mal (Fip), Frequ[]encia 
+ []
+
+
+Overfull \hbox (21.26373pt too wide) in paragraph at lines 27--27
+ \OT1/phv/m/n/12 ex-pressa em Frequ[]encia ab-so-luta por esp[]ecie an-i-mal (Fip), Frequ[]encia 
+ []
+
+)
+\tf@lot=\write9
+\openout9 = `Thesis.lot'.
+
+
+
+[15]
 
 [16
 
-] (./Acronyms/Thesis_Acronyms.tex)
+] (Thesis.lof)
+\tf@lof=\write10
+\openout10 = `Thesis.lof'.
+
+
 
 [17
 
@@ -807,13 +1127,21 @@ logo.pdf> <../Figures/Airbus_A350.jpg>])
 
 [18
 
-] (./Nomenclature/Thesis_Nomenclature.tex) (./Thesis.nls
+] (Acronyms/Thesis_Acronyms.tex)
 
 [19
 
+]
+
+[20
+
+] (Nomenclature/Thesis_Nomenclature.tex) (Thesis.nls
+
+[21
+
 ])
 
-[20] (./Glossary/Thesis_Glossary.tex) (./Thesis.gls
+[22] (Glossary/Thesis_Glossary.tex) (Thesis.gls
 Underfull \hbox (badness 1394) in paragraph at lines 7--10
 []|\OT1/phv/m/n/12 Computational Struc-tural Me-chan-ics is a
  []
@@ -830,17 +1158,19 @@ Underfull \hbox (badness 1365) in paragraph at lines 11--14
 
 )
 
-[21
+[23
 
 
 ]
 
-[22
+[24
 
-] (./Introduction/Thesis_Introduction.tex
+] (Introduction/Thesis_Introduction.tex
 Chapter 1.
 
-Underfull \vbox (badness 1867) has occurred while \output is active []
+Overfull \hbox (5.41847pt too wide) in paragraph at lines 18--19
+[]\OT1/phv/m/n/12 A primeira com-po-nente con-siste numa an[]alise de-s-critiva da casu[]^^Pstica acom-
+ []
 
 
 
@@ -848,202 +1178,2356 @@ Underfull \vbox (badness 1867) has occurred while \output is active []
 
 ])
 
-[2] (./Background/Thesis_Background.tex
+[2] (Background/Thesis_Background.tex
 Chapter 2.
-
-Underfull \vbox (badness 1867) has occurred while \output is active []
-
 
 
 [3
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
-4.
- (/home/carlos/texlive/2025/texmf-dist/tex/latex/psnfss/ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
-
+Overfull \hbox (1.00037pt too wide) in paragraph at lines 23--25
+[]\OT1/phv/m/n/12 A con-stante dedica[][]ao e especializa[][]ao da equipa con-tribui sig-ni-fica-ti-va-mente
  []
 
-LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
-49.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 49.
 
-LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 49.
-
-)
 
 [4]
+Overfull \hbox (6.20348pt too wide) in paragraph at lines 44--45
+[]\OT1/phv/m/n/12 Cl[]^^Pnica m[]edica: Car-di-olo-gia,Hematologia, Der-ma-tolo-gia, Doen[]as In-fe-ciosas
+ []
+
+
 
 [5]
 
-[6
+[6]
+Underfull \hbox (badness 1168) in paragraph at lines 111--111
+\OT1/phv/m/n/12 cl[]^^Pnica Medic-ina Pre-ven-tiva, por esp[]ecie (Fip), frequ[]encia ab-so-luta (Fi) e
+ []
 
-] (./Implementation/Thesis_Implementation.tex
-Chapter 3.
+
+
+[7]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[8]
+
+[9]
+Underfull \vbox (badness 6741) has occurred while \output is active []
+
+
+
+[10]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (27.88353pt too wide) in paragraph at lines 285--286
+\OT1/phv/m/n/12 A es-pe-cial-i-dade de On-colo-gia dedica-se ao es-tudo de to-dos os pro-ces-sos neopl[]asicos,
+ []
+
+
+Overfull \hbox (0.20506pt too wide) in paragraph at lines 287--288
+\OT1/phv/m/n/12 De salien-tar que, nesta afe[][]ao, a preval[]encia foi ob-ser-vada uni-ca-mente em gatos.
+ []
+
+
+
+[11]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[13]
+Underfull \vbox (badness 5446) has occurred while \output is active []
+
+
+
+[14]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (7.12949pt too wide) in paragraph at lines 442--443
+\OT1/phv/m/n/12 menos im-por-tante, saber fazer um bom ex-ame or-top[]edico, []e muitas vezes ben[]efico
+ []
+
+
+Underfull \vbox (badness 2932) has occurred while \output is active []
+
+
+
+[15]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (19.9677pt too wide) in paragraph at lines 476--503
+\OT1/phv/m/n/12 doen[]as per-ten-centes ao trato res-pi-rat[]orio in-fe-rior, en-globando a traqueia, br[]onquios,
+ []
+
+
+
+[16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[17]
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <12> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 528.
+
+
+[18]
+
+[19]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[20]
+
+[21]
+Overfull \hbox (21.70316pt too wide) in paragraph at lines 664--665
+[]\OT1/phv/m/n/12 De acordo com a tabela [][]2.18[][], foram iden-ti-fca-dos tr[]es tipos dis-tin-tos de intoxica[][]ao,
+ []
+
+
+
+[22]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[23]
+
+[24]
+
+[25]
+Overfull \hbox (5.2548pt too wide) in paragraph at lines 908--908
+ []\OT1/phv/m/n/12 Imagiolo- 
+ []
+
+
+Overfull \hbox (5.2548pt too wide) in paragraph at lines 908--908
+ []\OT1/phv/m/n/12 Imagiolo- 
+ []
+
+
+Overfull \hbox (5.2548pt too wide) in paragraph at lines 908--908
+ []\OT1/phv/m/n/12 Imagiolo- 
+ []
+
+
+Overfull \hbox (12.19342pt too wide) in paragraph at lines 908--910
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 )
 
-[7
+[26]
+
+[27]
+
+[28
+
+] (Implementation/Thesis_Implementation.tex
+Chapter 3.
+
+Overfull \hbox (10.293pt too wide) in paragraph at lines 11--11
+|\OT1/phv/b/n/32 Monografia:Sialoadenose re-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[29
 
 ]
 
-[8] (./Results/Thesis_Results.tex
+Package natbib Warning: Citation `Junqueira' on page 30 undefined on input line 28.
+
+
+Package natbib Warning: Citation `Junqueira' on page 30 undefined on input line 28.
+
+
+Package natbib Warning: Citation `Junqueira' on page 30 undefined on input line 28.
+
+
+Package natbib Warning: Citation `Proctor2007' on page 30 undefined on input line 30.
+
+
+Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 30.
+
+
+Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 30.
+
+
+Package natbib Warning: Citation `TextbookPhysio' on page 30 undefined on input line 30.
+
+
+Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 30.
+
+
+Overfull \hbox (0.76631pt too wide) in paragraph at lines 30--31
+[]\OT1/phv/m/n/12 Anatomicamente, s[]ao gl[]andulas lob-u-ladas, com-postas por []acinos e re-spetivos
+ []
+
+
+Package natbib Warning: Citation `Proctor2007' on page 30 undefined on input line 32.
+
+
+Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 32.
+
+
+Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 32.
+
+
+Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 34.
+
+
+Package natbib Warning: Citation `TextbookPhysio' on page 30 undefined on input line 34.
+
+
+Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 34.
+
+
+Overfull \hbox (2.06291pt too wide) in paragraph at lines 34--35
+\OT1/phv/m/n/12 es-pe-cial-izadas, com car-ac-ter[]^^Psticas de m[]usculo liso mod-i-fi-cado.[\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ] Es-tas c[]elulas,
+ []
+
+
+
+[30]
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 44.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 44.
+
+
+Package natbib Warning: Citation `Cappai2021' on page 31 undefined on input line 44.
+
+
+Overfull \hbox (24.524pt too wide) in paragraph at lines 44--45
+[]\OT1/phv/m/n/12 As gl[]andulas sali-vares menores distribuem-se pela mu-cosa dos l[]abios, bochechas,
+ []
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 46.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 52.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 54.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 54.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 55.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 55.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 56.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 56.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 56.
+
+
+Package natbib Warning: Citation `dyce' on page 31 undefined on input line 56.
+
+
+Overfull \hbox (7.80717pt too wide) in paragraph at lines 54--57
+[]\OT1/phv/m/n/12 Anatomicamente, est[]a de-lim-i-tada cau-dal-mente pela parte mas-toide do m[]usculo
+ []
+
+
+Overfull \hbox (6.8263pt too wide) in paragraph at lines 54--57
+\OT1/phv/m/n/12 es-ter-nocef[]alico e pela parte cer-vi-cal do clei-do-cef[]alico, e ros-tral-mente pelo m[]usculo
+ []
+
+
+
+[31]
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 59.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 59.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 59.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 60.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 60.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 63.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 63.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 64.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 64.
+
+
+Package natbib Warning: Citation `dyce' on page 32 undefined on input line 64.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[32]
+
+Package natbib Warning: Citation `dyce' on page 33 undefined on input line 67.
+
+
+Package natbib Warning: Citation `dyce' on page 33 undefined on input line 67.
+
+
+Overfull \hbox (2.96931pt too wide) in paragraph at lines 67--68
+[]\OT1/phv/m/n/12 A irriga[][]ao ar-te-rial []e as-se-gu-rada maior-i-tari-a-mente pela art[]eria parot[]^^Pdea, ramo
+ []
+
+
+Package natbib Warning: Citation `dyce' on page 33 undefined on input line 70.
+
+
+Package natbib Warning: Citation `dyce' on page 33 undefined on input line 73.
+
+
+Package natbib Warning: Citation `dyce' on page 33 undefined on input line 73.
+
+
+Package natbib Warning: Citation `dyce' on page 33 undefined on input line 73.
+
+
+Package natbib Warning: Citation `dyce' on page 33 undefined on input line 76.
+
+
+Package natbib Warning: Citation `dyce' on page 33 undefined on input line 80.
+
+
+Overfull \hbox (1.42427pt too wide) in paragraph at lines 83--84
+\OT1/phv/m/n/12 est[]a em con-tacto []^^Pntimo com a ex-trem-i-dade cau-dal da gl[]andula sub-lin-gual monos-
+ []
+
+
+Overfull \hbox (11.37097pt too wide) in paragraph at lines 83--84
+\OT1/phv/m/n/12 une a por[][]ao su-per-fi-cial e pro-funda gl[]andula. A su-perf[]^^Pcie su-per-fi-cial []e arredondada
+ []
+
+
+
+[33]
+
+Package natbib Warning: Citation `dyce' on page 34 undefined on input line 86.
+
+
+Overfull \hbox (14.58401pt too wide) in paragraph at lines 97--98
+[]\OT1/phv/m/n/12 A drenagem linf[]atica da gl[]andula mandibu-lar faz-se nos lin-fon-o-dos retro-far[]^^Pngeos
+ []
+
+
+Package natbib Warning: Citation `Han2016' on page 34 undefined on input line 101.
+
+
+Package natbib Warning: Citation `Brown2016' on page 34 undefined on input line 101.
+
+
+Overfull \hbox (3.41539pt too wide) in paragraph at lines 101--102
+\OT1/phv/m/n/12 A gl[]andula sub-lin-gual []e com-posta por duas por[][]oes: a gl[]andula sub-lin-gual monos-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[34]
+Overfull \hbox (1.92091pt too wide) in paragraph at lines 104--105
+\OT1/phv/m/n/12 por um []unico ducto ex-cre-tor, o ducto sub-lin-gual maior, o qual ter-mina na car[]uncula
+ []
+
+
+Overfull \hbox (0.56429pt too wide) in paragraph at lines 104--105
+\OT1/phv/m/n/12 sub-lin-gual, ad-ja-cente []a por[][]ao ros-tral do fr[]enulo da l[]^^Pngua. (miller, dyce) Anatomi-
+ []
+
+
+Package natbib Warning: Citation `lemmons2018' on page 35 undefined on input line 110.
+
+
+Package natbib Warning: Citation `Han2016' on page 35 undefined on input line 116.
+
+
+Underfull \vbox (badness 2512) has occurred while \output is active []
+
+
+
+[35]
+Overfull \hbox (5.86295pt too wide) in paragraph at lines 123--125
+\OT1/phv/m/n/12 dal do vest[]^^Pbulo bu-cal. (lem-mons) A vasculariza[][]ao ar-te-rial da gl[]andula zigom[]atica
+ []
+
+
+
+[36]
+
+Package natbib Warning: Citation `Junqueira' on page 37 undefined on input line 138.
+
+
+Overfull \hbox (5.9375pt too wide) in paragraph at lines 137--139
+\OT1/phv/m/n/12 reg-u-lando o pH da cavi-dade oral. Do ponto de vista imu-nit[]ario, cont[]em subst[]ancias
+ []
+
+
+Package natbib Warning: Citation `serial' on page 37 undefined on input line 141.
+
+
+Package natbib Warning: Citation `Pasha2018' on page 37 undefined on input line 141.
+
+
+Package natbib Warning: Citation `Pasha2018' on page 37 undefined on input line 141.
+
+
+Overfull \hbox (27.6969pt too wide) in paragraph at lines 141--142
+\OT1/phv/m/n/12 m[]etodo n[]ao in-va-sivo na dete[][]ao de biomar-cadores, como o cor-ti-sol, cuja concentra[][]ao
+ []
+
+
+Package natbib Warning: Citation `lemmons2018' on page 37 undefined on input line 147.
+
+
+Overfull \hbox (18.96814pt too wide) in paragraph at lines 147--148
+\OT1/phv/m/n/12 A saliva []e um flu-ido sero-mu-coso com-posto por uma com-plexa mis-tura de subst[]ancias
+ []
+
+
+Package natbib Warning: Citation `textbookphysio' on page 37 undefined on input line 149.
+
+
+
+[37]
+
+Package natbib Warning: Citation `Poirier2018' on page 38 undefined on input line 161.
+
+
+Package natbib Warning: Citation `animals' on page 38 undefined on input line 161.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 38 undefined on input line 165.
+
+
+Package natbib Warning: Citation `animals' on page 38 undefined on input line 165.
+
+
+
+[38]
+
+Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 168.
+
+
+Package natbib Warning: Citation `animals' on page 39 undefined on input line 168.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 168.
+
+
+Package natbib Warning: Citation `animals' on page 39 undefined on input line 168.
+
+
+Overfull \hbox (1.6522pt too wide) in paragraph at lines 168--169
+\OT1/phv/m/n/12 g[]anglio cer-vi-cal su-pe-rior ap[]os pas-sarem a cadeia cer-vi-cal simp[]atica. Estimula[][]ao
+ []
+
+
+Package natbib Warning: Citation `Cattai2016' on page 39 undefined on input line 171.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 171.
+
+
+Package natbib Warning: Citation `animals' on page 39 undefined on input line 171.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 39 undefined on input line 182.
+
+
+Package natbib Warning: Citation `Alcoverro2014' on page 39 undefined on input line 182.
+
+
+Package natbib Warning: Citation `Ide2011' on page 39 undefined on input line 182.
+
+
+Overfull \hbox (11.13667pt too wide) in paragraph at lines 182--183
+\OT1/phv/m/n/12 quente-mente ob-ser-vada em in-div[]^^Pduos com bu-limia, anorexia ner-vosa, malnutri[][]ao,
+ []
+
+
+
+[39]
+
+Package natbib Warning: Citation `Davis2021' on page 40 undefined on input line 185.
+
+
+Package natbib Warning: Citation `Ihrler2010' on page 40 undefined on input line 185.
+
+
+Package natbib Warning: Citation `davis2021' on page 40 undefined on input line 185.
+
+
+Package natbib Warning: Citation `Ihrler2010' on page 40 undefined on input line 185.
+
+
+Overfull \hbox (6.33347pt too wide) in paragraph at lines 185--186
+\OT1/phv/m/n/12 com in-div[]^^Pduos saud[]aveis. ([\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ], patog[]enese) A contra[][]ao das c[]elulas mioepiteliais
+ []
+
+
+Package natbib Warning: Citation `Alcoverro2014' on page 40 undefined on input line 189.
+
+
+Package natbib Warning: Citation `fvets-09' on page 40 undefined on input line 196.
+
+
+Package natbib Warning: Citation `1-s2' on page 40 undefined on input line 197.
+
+
+Package natbib Warning: Citation `Packer2015' on page 40 undefined on input line 197.
+
+
+Package natbib Warning: Citation `fvets-09' on page 40 undefined on input line 197.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[40]
+
+Package natbib Warning: Citation `Packer2015' on page 41 undefined on input line 203.
+
+
+Package natbib Warning: Citation `fvets-09' on page 41 undefined on input line 207.
+
+
+Overfull \hbox (31.4332pt too wide) in paragraph at lines 207--209
+[]\OT1/phv/m/n/12 Num es-tudo ret-ro-spetivo en-vol-vendo 900 c[]aes sub-meti-dos a res-son[]ancia magn[]etica
+ []
+
+
+Package natbib Warning: Citation `Packer2015' on page 41 undefined on input line 211.
+
+
+
+[41]
+
+Package natbib Warning: Citation `Kalayanakoul2019' on page 42 undefined on input line 216.
+
+
+Package natbib Warning: Citation `alemao' on page 42 undefined on input line 216.
+
+
+Package natbib Warning: Citation `alemao' on page 42 undefined on input line 216.
+
+
+Package natbib Warning: Citation `alemao' on page 42 undefined on input line 216.
+
+
+Package natbib Warning: Citation `alemao' on page 42 undefined on input line 216.
+
+
+Package natbib Warning: Citation `Bandusena2022' on page 42 undefined on input line 216.
+
+
+Overfull \hbox (19.2435pt too wide) in paragraph at lines 216--217
+\OT1/phv/m/n/12 sialoadenose re-spon-siva a feno-bar-bi-tal (SRF) em c[]aes rep-re-sente uma manifesta[][]ao
+ []
+
+
+Package natbib Warning: Citation `Diop2025' on page 42 undefined on input line 219.
+
+
+Overfull \hbox (2.19258pt too wide) in paragraph at lines 219--220
+\OT1/phv/m/n/12 vuls[]oes au-ton[]omicas com manifesta[][]oes gas-troin-testi-nais (como []ansia de v[]omito,
+ []
+
+
+Overfull \hbox (24.87129pt too wide) in paragraph at lines 219--220
+\OT1/phv/m/n/12 sialor-reia, n[]ausea, v[]omito, de-scon-forto ab-dom-i-nal, bor-borig-mos e di-ar-reia), altera[][]oes
+ []
+
+
+Package natbib Warning: Citation `Diop2025' on page 42 undefined on input line 225.
+
+
+Package natbib Warning: Citation `alemao' on page 42 undefined on input line 226.
+
+
+Package natbib Warning: Citation `alemao' on page 42 undefined on input line 226.
+
+
+Package natbib Warning: Citation `Alcoverro2014' on page 42 undefined on input line 227.
+
+
+Package natbib Warning: Citation `alemao' on page 42 undefined on input line 227.
+
+
+Package natbib Warning: Citation `Alcoverro2014' on page 42 undefined on input line 227.
+
+
+
+[42]
+
+Package natbib Warning: Citation `papich' on page 43 undefined on input line 230.
+
+
+Package natbib Warning: Citation `scott2021' on page 43 undefined on input line 230.
+
+
+Package natbib Warning: Citation `papich' on page 43 undefined on input line 230.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 43 undefined on input line 230.
+
+
+Package natbib Warning: Citation `alemao' on page 43 undefined on input line 230.
+
+
+Package natbib Warning: Citation `alemao' on page 43 undefined on input line 230.
+
+
+Package natbib Warning: Citation `Swieton2022' on page 43 undefined on input line 233.
+
+
+Package natbib Warning: Citation `Kalayanakoul2019' on page 43 undefined on input line 233.
+
+
+Package natbib Warning: Citation `alemao' on page 43 undefined on input line 234.
+
+
+Package natbib Warning: Citation `Park2022' on page 43 undefined on input line 239.
+
+
+Overfull \hbox (7.04266pt too wide) in paragraph at lines 239--240
+\OT1/phv/m/n/12 lat-eral das gl[]andulas sali-vares, es-pe-cial-mente as gl[]andulas mandibu-lares. (BSAVA
+ []
+
+
+Overfull \hbox (7.30194pt too wide) in paragraph at lines 239--240
+\OT1/phv/m/n/12 ismo/sialorreia, lip smack-ing, perda de peso, hipor-rexia ou anorexia, v[]omito cr[]onico
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[43]
+Overfull \hbox (6.0057pt too wide) in paragraph at lines 246--247
+\OT1/phv/m/n/12 difer-en-ci-ais in-cluem sialo-cele, sialoadenose, siaload-en-ite, sialometa-pla-sia, infe[][]ao
+ []
+
+
+
+[44]
+
+Package natbib Warning: Citation `Ptyalism' on page 45 undefined on input line 258.
+
+
+Package natbib Warning: Citation `Ptyalism' on page 45 undefined on input line 258.
+
+
+Overfull \hbox (13.50475pt too wide) in paragraph at lines 258--259
+[]\OT1/phv/m/n/12 O ptial-ismo e o pseu-dop-tial-ismo po-dem ter in[]umeras poss[]^^Pveis causas poss[]^^Pveis,
+ []
+
+
+Overfull \hbox (12.31639pt too wide) in paragraph at lines 261--262
+[]\OT1/phv/m/n/12 O ptial-ismo ver-dadeiro []e fre-quente-mente ob-ser-vado em associa[][]ao com n[]ausea
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 264.
+(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+
+[45]
+
+Package natbib Warning: Citation `VomitingReview' on page 46 undefined on input line 282.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 46 undefined on input line 282.
+
+
+Package natbib Warning: Citation `McGrotty2010' on page 46 undefined on input line 282.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 46 undefined on input line 285.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 46 undefined on input line 285.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 46 undefined on input line 285.
+
+
+
+[46]
+
+Package natbib Warning: Citation `Elwood2010' on page 47 undefined on input line 288.
+
+
+Package natbib Warning: Citation `Delaney2006' on page 47 undefined on input line 299.
+
+
+
+[47]
+
+Package natbib Warning: Citation `Han2016' on page 48 undefined on input line 311.
+
+
+Overfull \hbox (13.67241pt too wide) in paragraph at lines 332--332
+ []\OT1/phv/m/n/12 Hipoadrenocorticismo 
+ []
+
+
+Overfull \hbox (13.67241pt too wide) in paragraph at lines 332--332
+ []\OT1/phv/m/n/12 Hipoadrenocorticismo 
+ []
+
+
+Overfull \hbox (13.67241pt too wide) in paragraph at lines 332--332
+ []\OT1/phv/m/n/12 Hipoadrenocorticismo 
+ []
+
+
+Overfull \hbox (6.03487pt too wide) in paragraph at lines 335--339
+\OT1/phv/m/n/12 neu-rol[]ogica ou sist[]emica. Nestes ca-sos, []e in-dis-pens[]avel re-alizar uma investiga[][]ao
+ []
+
+
+
+[48]
+
+Package natbib Warning: Citation `Han2016' on page 49 undefined on input line 345.
+
+
+Overfull \hbox (44.33803pt too wide) in paragraph at lines 345--346
+\OT1/phv/m/n/12 do es[]ofago) at-uam di-re-ta-mente so-bre os n[]ucleos sali-vat[]orios, re-sul-tando na intensifica[][]ao
+ []
+
+
+
+[49]
+
+Package natbib Warning: Citation `10.111' on page 50 undefined on input line 348.
+
+
+Overfull \hbox (7.41388pt too wide) in paragraph at lines 348--349
+[]\OT1/phv/m/n/12 Nestes ca-sos, o trata-mento da doen[]a esof[]agica []e de priv-i-le-giar, com descri[][]ao
+ []
+
+
+Package natbib Warning: Citation `de2020' on page 50 undefined on input line 354.
+
+
+Package natbib Warning: Citation `Cinti2021' on page 50 undefined on input line 354.
+
+
+Package natbib Warning: Citation `Olimpo2023' on page 50 undefined on input line 354.
+
+
+Package natbib Warning: Citation `vetrecord' on page 50 undefined on input line 354.
+
+
+Package natbib Warning: Citation `rfeu' on page 50 undefined on input line 354.
+
+
+Package natbib Warning: Citation `animals' on page 50 undefined on input line 354.
+
+
+Package natbib Warning: Citation `sa_' on page 50 undefined on input line 354.
+
+
+Package natbib Warning: Citation `animals' on page 50 undefined on input line 357.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 50 undefined on input line 357.
+
+
+Package natbib Warning: Citation `de2020' on page 50 undefined on input line 357.
+
+
+Package natbib Warning: Citation `Olimpo2023' on page 50 undefined on input line 357.
+
+
+Package natbib Warning: Citation `Cinti2021' on page 50 undefined on input line 357.
+
+
+Package natbib Warning: Citation `animals' on page 50 undefined on input line 357.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 50 undefined on input line 360.
+
+
+Package natbib Warning: Citation `Cinti2021' on page 50 undefined on input line 360.
+
+
+Package natbib Warning: Citation `sa_' on page 50 undefined on input line 360.
+
+
+
+[50]
+
+Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 364.
+
+
+Package natbib Warning: Citation `de2020' on page 51 undefined on input line 364.
+
+
+Package natbib Warning: Citation `sa_' on page 51 undefined on input line 364.
+
+
+Package natbib Warning: Citation `sa_' on page 51 undefined on input line 364.
+
+
+Package natbib Warning: Citation `sa_' on page 51 undefined on input line 364.
+
+
+Package natbib Warning: Citation `Swieton2022' on page 51 undefined on input line 364.
+
+
+Package natbib Warning: Citation `animals' on page 51 undefined on input line 368.
+
+
+Package natbib Warning: Citation `sa_' on page 51 undefined on input line 368.
+
+
+Package natbib Warning: Citation `Olimpo2023' on page 51 undefined on input line 368.
+
+
+Package natbib Warning: Citation `de2020' on page 51 undefined on input line 368.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 51 undefined on input line 368.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 368.
+
+
+Package natbib Warning: Citation `Olimpo2023' on page 51 undefined on input line 368.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 372.
+
+
+Package natbib Warning: Citation `Swieton2022' on page 51 undefined on input line 372.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 372.
+
+
+Package natbib Warning: Citation `Swieton2022' on page 51 undefined on input line 372.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 372.
+
+
+
+[51]
+
+Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `supurativa' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `11cases' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `sialadenite' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `McGill2009' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `11cases' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `sialadenite' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `Martinez2018' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `Park2022' on page 52 undefined on input line 378.
+
+
+Package natbib Warning: Citation `McGill2009' on page 52 undefined on input line 380.
+
+
+Package natbib Warning: Citation `11cases' on page 52 undefined on input line 380.
+
+
+Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 382.
+
+
+Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 382.
+
+
+Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 382.
+
+
+
+[52]
+
+Package natbib Warning: Citation `Park2022' on page 53 undefined on input line 386.
+
+
+Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 386.
+
+
+Package natbib Warning: Citation `sialadenite' on page 53 undefined on input line 386.
+
+
+Package natbib Warning: Citation `Park2022' on page 53 undefined on input line 386.
+
+
+Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 386.
+
+
+Package natbib Warning: Citation `Martinez2018' on page 53 undefined on input line 386.
+
+
+Package natbib Warning: Citation `sialadenite' on page 53 undefined on input line 389.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 53 undefined on input line 390.
+
+
+Package natbib Warning: Citation `Park2022' on page 53 undefined on input line 390.
+
+
+Package natbib Warning: Citation `Almeida2010' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `Oshikata2006' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `tsobrev' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `campos2019' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `Cray2020' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `de2020' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `Almeida2010' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `Oshikata2006' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `tsobrev' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `campos2019' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `Cray2020' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `de2020' on page 53 undefined on input line 397.
+
+
+Package natbib Warning: Citation `Cray2020' on page 53 undefined on input line 397.
+
+
+
+[53]
+
+Package natbib Warning: Citation `Oshikata2006' on page 54 undefined on input line 400.
+
+
+Package natbib Warning: Citation `Cray2020' on page 54 undefined on input line 400.
+
+
+Package natbib Warning: Citation `de2020' on page 54 undefined on input line 400.
+
+
+Overfull \hbox (29.7067pt too wide) in paragraph at lines 400--401
+[]\OT1/phv/m/n/12 A gl[]andula par[]otida []e a mais afe-tada em c[]aes, com uma tend[]encia de predisposi[][]ao
+ []
+
+
+Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 409.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 415.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 415.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 415.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 417.
+
+
+Package natbib Warning: Citation `Han2016' on page 54 undefined on input line 419.
+
+
+Package natbib Warning: Citation `tsobrev' on page 54 undefined on input line 419.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 419.
+
+
+
+[54]
+
+Package natbib Warning: Citation `tsobrev' on page 55 undefined on input line 422.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 55 undefined on input line 428.
+
+
+Overfull \hbox (26.54256pt too wide) in paragraph at lines 428--429
+\OT1/phv/m/n/12 sali-vares, car-ac-ter-i-zada his-to-logi-ca-mente por necrose isqu[]emica lob-u-lar das gl[]andulas
+ []
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+
+
+[55]
+
+Package natbib Warning: Citation `Han2016' on page 56 undefined on input line 431.
+
+
+Package natbib Warning: Citation `cvj' on page 56 undefined on input line 431.
+
+
+Package natbib Warning: Citation `schoroeder' on page 56 undefined on input line 431.
+
+
+Overfull \hbox (32.50684pt too wide) in paragraph at lines 431--432
+\OT1/phv/m/n/12 condi[][]ao acomete usual-mente as gl[]andulas mandibu-lares, as-sim como a sialoadenose,
+ []
+
+
+Overfull \hbox (5.32458pt too wide) in paragraph at lines 431--432
+\OT1/phv/m/n/12 cor-rela-cionada a anoma-lias do nervo vago e est[]a as-so-ci-ada a condi[][]oes e afe[][]oes
+ []
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 56 undefined on input line 437.
+
+
+Overfull \hbox (1.38585pt too wide) in paragraph at lines 437--438
+\OT1/phv/m/n/12 regurgita[][]ao, ptial-ismo, es-ta-lar dos l[]abios (lip smack-ing), perda de peso, anorexia,
+ []
+
+
+Overfull \hbox (0.82674pt too wide) in paragraph at lines 443--444
+\OT1/phv/m/n/12 RM e TC, de-vem ser con-sid-er-adas, as-sim como a avalia[][]ao citol[]ogica da gl[]andula
+ []
+
+
+Package natbib Warning: Citation `schoroeder' on page 56 undefined on input line 446.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 56 undefined on input line 446.
+
+
+Overfull \hbox (21.30537pt too wide) in paragraph at lines 446--447
+[]\OT1/phv/m/n/12 Deve ser con-sid-er-ada a realiza[][]ao de ra-dio-grafia tor[]acica e en-do-scopia esof[]agica,
+ []
+
+
+Overfull \hbox (10.61862pt too wide) in paragraph at lines 446--447
+\OT1/phv/m/n/12 ap-re-sente um com-por-ta-mento be-nigno em pa-cientes hu-manos e c[]aes, a ocorr[]encia
+ []
+
+
+
+[56]
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 452.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 452.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 452.
+
+
+Package natbib Warning: Citation `cvj' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Ryan2008' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `cvj' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `cvj' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Ryan2008' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 461.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 464.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 470.
+
+
+Package natbib Warning: Citation `cvj' on page 57 undefined on input line 470.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 470.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 57 undefined on input line 477.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 477.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 477.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 477.
+
+
+Package natbib Warning: Citation `cvj' on page 57 undefined on input line 477.
+
+
+
+[57]
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 483.
+
+
+Package natbib Warning: Citation `Ryan2008' on page 58 undefined on input line 483.
+
+
+Package natbib Warning: Citation `cvj' on page 58 undefined on input line 483.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 483.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 484.
+
+
+Overfull \hbox (6.98286pt too wide) in paragraph at lines 483--486
+\OT1/phv/m/n/12 geral-mente efi-caz, ap-re-sen-tando baixa taxa de recorr[]encia e pou-cas complica[][]oes
+ []
+
+
+Package natbib Warning: Citation `Leib2010' on page 58 undefined on input line 497.
+
+
+Package natbib Warning: Citation `Leib2010' on page 58 undefined on input line 497.
+
+
+
+[58]
+Overfull \hbox (15.92015pt too wide) in paragraph at lines 506--507
+[]\OT1/phv/m/n/12 Para este pro-cesso, []e essen-cial recor-rer aos seguintes ex-ames com-ple-mentares:
+ []
+
+
+Overfull \hbox (8.80385pt too wide) in paragraph at lines 506--507
+\OT1/phv/m/n/12 dom-i-nal e teste de estimula[][]ao da hor-mona adreno-cor-ti-cotr[]ofica (teste estimula[][]ao
+ []
+
+
+
+[59]
+
+Package natbib Warning: Citation `Kovarikova2015' on page 60 undefined on input line 519.
+
+
+Package natbib Warning: Citation `Gori2020' on page 60 undefined on input line 522.
+
+
+Package natbib Warning: Citation `sdma' on page 60 undefined on input line 522.
+
+
+Overfull \hbox (4.14775pt too wide) in paragraph at lines 522--523
+[]\OT1/phv/m/n/12 Nessa per-spetiva, torna-se rev-e-lante con-sid-erar mar-cadores al-ter-na-tivos como
+ []
+
+
+Overfull \hbox (0.94261pt too wide) in paragraph at lines 534--535
+[]\OT1/phv/m/n/12 As en-z-i-mas ALP e GGT s[]ao con-sid-er-adas mar-cadores de colestase, re-fletindo
+ []
+
+
+Overfull \hbox (4.17232pt too wide) in paragraph at lines 534--535
+\OT1/phv/m/n/12 sentes na mem-brana canalic-u-lar dos hepat[]ocitos e s[]ao fun-da-men-tais na avalia[][]ao
+ []
+
+
+
+[60]
+
+Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 541.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 61 undefined on input line 541.
+
+
+Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 541.
+
+
+Package natbib Warning: Citation `Yadav2020' on page 61 undefined on input line 541.
+
+
+Package natbib Warning: Citation `Reine2005' on page 61 undefined on input line 541.
+
+
+Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 541.
+
+
+Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 544.
+
+
+Package natbib Warning: Citation `Parrah2013' on page 61 undefined on input line 547.
+
+
+Package natbib Warning: Citation `Reine2005' on page 61 undefined on input line 548.
+
+
+Overfull \hbox (16.66139pt too wide) in paragraph at lines 547--549
+[]\OT1/phv/m/n/12 Este ex-ame per-mite iden-ti-ficar altera[][]oes com-pat[]^^Pveis com doen[]as metab[]olicas,
+ []
+
+
+Package natbib Warning: Citation `Kim2024' on page 61 undefined on input line 553.
+
+
+Package natbib Warning: Citation `Lim2022' on page 61 undefined on input line 553.
+
+
+Package natbib Warning: Citation `Lim2022' on page 61 undefined on input line 553.
+
+
+Overfull \hbox (8.78969pt too wide) in paragraph at lines 553--554
+[]\OT1/phv/m/n/12 Lipase pan-cre[]atica can-ina []e con-sid-er-ada um dos biomar-cadores mais sens[]^^Pveis
+ []
+
+
+Overfull \hbox (5.35037pt too wide) in paragraph at lines 553--554
+\OT1/phv/m/n/12 restante 1% difunde-se pela mem-brana ba-so-lat-eral das c[]elulas acinares, atingindo
+ []
+
+
+Package natbib Warning: Citation `Lim2022' on page 61 undefined on input line 556.
+
+
+Overfull \hbox (2.01424pt too wide) in paragraph at lines 556--558
+[]\OT1/phv/m/n/12 Durante pro-ces-sos in-fla-mat[]orios pan-cre[]aticos, como a pan-cre-atite, a secre[][]ao
+ []
+
+
+Overfull \hbox (15.5129pt too wide) in paragraph at lines 556--558
+\OT1/phv/m/n/12 mecan-ismo ex-plica os n[]^^Pveis s[]ericos au-men-ta-dos de l[]^^Ppase em c[]aes com inflama[][]ao
+ []
+
+
+
+[61]
+
+Package natbib Warning: Citation `Cridge2021' on page 62 undefined on input line 560.
+
+
+Package natbib Warning: Citation `Kim2024' on page 62 undefined on input line 560.
+
+
+Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 560.
+
+
+Package natbib Warning: Citation `Cridge2021' on page 62 undefined on input line 563.
+
+
+Package natbib Warning: Citation `Kim2024' on page 62 undefined on input line 563.
+
+
+Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 563.
+
+
+Package natbib Warning: Citation `Liu2025' on page 62 undefined on input line 563.
+
+
+Package natbib Warning: Citation `s40' on page 62 undefined on input line 569.
+
+
+Package natbib Warning: Citation `Wakayama2017' on page 62 undefined on input line 569.
+
+
+Package natbib Warning: Citation `Botsford2018' on page 62 undefined on input line 569.
+
+
+Package natbib Warning: Citation `Spence2018' on page 62 undefined on input line 569.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 569.
+
+
+Package natbib Warning: Citation `s40' on page 62 undefined on input line 572.
+
+
+Package natbib Warning: Citation `Wakayama2017' on page 62 undefined on input line 572.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 572.
+
+
+Package natbib Warning: Citation `Botsford2018' on page 62 undefined on input line 572.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 572.
+
+
+Package natbib Warning: Citation `Wakayama2017' on page 62 undefined on input line 575.
+
+
+Package natbib Warning: Citation `Spence2018' on page 62 undefined on input line 575.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 575.
+
+
+Package natbib Warning: Citation `s40' on page 62 undefined on input line 578.
+
+
+Overfull \hbox (6.27438pt too wide) in paragraph at lines 578--579
+[]\OT1/phv/m/n/12 Clinicamente, os an-i-mais afe-ta-dos ap-re-sen-tam sinais pouco es-pec[]^^Pficos, sendo
+ []
+
+
+
+[62]
+
+Package natbib Warning: Citation `Spence2018' on page 63 undefined on input line 581.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 581.
+
+
+Package natbib Warning: Citation `Spence2018' on page 63 undefined on input line 581.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 582.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 582.
+
+
+Package natbib Warning: Citation `Wakayama2017' on page 63 undefined on input line 582.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 582.
+
+
+Package natbib Warning: Citation `s40' on page 63 undefined on input line 582.
+
+
+Overfull \hbox (3.47806pt too wide) in paragraph at lines 581--583
+\OT1/phv/m/n/12 amostra basal de sangue, seguida da administra[][]ao de 5 \TS1/phv/m/n/12 µ\OT1/phv/m/n/12 g/kg de ACTH sint[]etico,
+ []
+
+
+Overfull \hbox (8.9215pt too wide) in paragraph at lines 587--589
+[]\OT1/phv/m/n/12 No es-tudo com o maior n[]umero de pa-cientes di-ag-nos-ti-ca-dos com sialoadenose,
+ []
+
+
+Overfull \hbox (22.74089pt too wide) in paragraph at lines 587--589
+\OT1/phv/m/n/12 (12ca-sos) No en-tanto, n[]ao s[]ao ap-re-sen-ta-dos da-dos num[]ericos, tabelas ou descri[][]oes
+ []
+
+
+Overfull \hbox (8.80688pt too wide) in paragraph at lines 587--589
+\OT1/phv/m/n/12 de-tal-hadas que cor-ro-borem esta afirma[][]ao, nem []e es-clare-cida a even-tual presen[]a
+ []
+
+
+Overfull \hbox (8.34334pt too wide) in paragraph at lines 600--601
+\OT1/phv/m/n/12 cr[]onico, como es-ofagite, h[]ernia do hi-ato, cor-pos es-tran-hos esof[]agicos ou g[]astricos,
+ []
+
+
+Overfull \hbox (35.73395pt too wide) in paragraph at lines 600--601
+\OT1/phv/m/n/12 re-al-izada en-do-scopia di-ges-tiva alta, pro-ced-i-mento am-pla-mente uti-lizado na investiga[][]ao
+ []
+
+
+
+[63]
+
+Package natbib Warning: Citation `Sum2009' on page 64 undefined on input line 603.
+
+
+Package natbib Warning: Citation `applications' on page 64 undefined on input line 603.
+
+
+Package natbib Warning: Citation `Rychlik2020' on page 64 undefined on input line 603.
+
+
+Package natbib Warning: Citation `Rychlik2020' on page 64 undefined on input line 603.
+
+
+Package natbib Warning: Citation `Jergens2016' on page 64 undefined on input line 603.
+
+
+Package natbib Warning: Citation `Bsavaendo' on page 64 undefined on input line 606.
+
+
+Package natbib Warning: Citation `Bsavaendo' on page 64 undefined on input line 609.
+
+
+Package natbib Warning: Citation `Bsavaendo' on page 64 undefined on input line 609.
+
+
+Package natbib Warning: Citation `Kim2021' on page 64 undefined on input line 609.
+
+
+Package natbib Warning: Citation `Broux2018' on page 64 undefined on input line 609.
+
+
+Package natbib Warning: Citation `vander' on page 64 undefined on input line 609.
+
+
+Package natbib Warning: Citation `file' on page 64 undefined on input line 609.
+
+
+Package natbib Warning: Citation `Cerquetella2010' on page 64 undefined on input line 609.
+
+
+Overfull \hbox (0.9765pt too wide) in paragraph at lines 609--610
+[]\OT1/phv/m/n/12 A en-do-scopia di-ges-tiva alta per-mite a visualiza[][]ao di-reta da mu-cosa esof[]agica
+ []
+
+
+Overfull \hbox (3.16641pt too wide) in paragraph at lines 609--610
+\OT1/phv/m/n/12 e g[]astrica, sendo uma fer-ra-menta fun-da-men-tal na ex-clus[]ao de v[]arios di-agn[]osticos
+ []
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+
+
+[64]
+
+Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
+
+
+Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
+
+
+Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
+
+
+Package natbib Warning: Citation `frontiersdiagntest' on page 65 undefined on input line 616.
+
+
+Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
+
+
+Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
+
+
+Overfull \hbox (4.08557pt too wide) in paragraph at lines 615--617
+[]\OT1/phv/m/n/12 Ecografia Ecografia ab-dom-i-nal []e um meio de di-agn[]ostico in-di-cado na avalia[][]ao
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[65]
+
+Package natbib Warning: Citation `Gil2018' on page 66 undefined on input line 619.
+
+
+Overfull \hbox (15.96545pt too wide) in paragraph at lines 619--620
+[]\OT1/phv/m/n/12 Ultrassonografia pode tamb[]em ser us-ada na avalia[][]ao mor-fol[]ogica das gl[]andulas
+ []
+
+
+Package natbib Warning: Citation `Sharma2011' on page 66 undefined on input line 627.
+
+
+Package natbib Warning: Citation `Jaikumar2013' on page 66 undefined on input line 627.
+
+
+Overfull \hbox (28.22192pt too wide) in paragraph at lines 627--628
+\OT1/phv/m/n/12 altera[][]oes gas-troin-testi-nais, con-tinua a ser fun-da-men-tal na identifica[][]ao de obstru[][]oes
+ []
+
+
+
+[66]
+Overfull \hbox (32.10985pt too wide) in paragraph at lines 639--640
+\OT1/phv/m/n/12 t[]ecnicas de im-agem por corte transver-sal, como a TC e RM, elim-i-nam a superimposi[][]ao
+ []
+
+
+
+[67]
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+
+
+[68]
+Overfull \hbox (7.49857pt too wide) in paragraph at lines 668--669
+\OT1/phv/m/n/12 cr[]onico por metais pe-sa-dos, ter-apia far-ma-col[]ogica cr[]onica (in-clud-ing iso-pro-terenol,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[69]
+
+Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 673.
+
+
+Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 673.
+
+
+Package natbib Warning: Citation `Luca2023' on page 70 undefined on input line 676.
+
+
+Overfull \hbox (10.20479pt too wide) in paragraph at lines 676--677
+[]\OT1/phv/m/n/12 Eletroencefalografia as-sume um pa-pel im-por-tante na diferencia[][]ao en-tre epilep-
+ []
+
+
+Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 679.
+
+
+Package natbib Warning: Citation `Luca2023' on page 70 undefined on input line 679.
+
+
+Package natbib Warning: Citation `Animalmodel' on page 70 undefined on input line 682.
+
+
+
+[70]
+
+Package natbib Warning: Citation `Animalmodel' on page 71 undefined on input line 692.
+
+
+Package natbib Warning: Citation `Animalmodel' on page 71 undefined on input line 693.
+
+
+Package natbib Warning: Citation `Animalmodel' on page 71 undefined on input line 693.
+
+
+Package natbib Warning: Citation `Royaux2017' on page 71 undefined on input line 696.
+
+
+Overfull \hbox (29.64655pt too wide) in paragraph at lines 699--700
+[]\OT1/phv/m/n/12 O trata-mento da epilep-sia id-iop[]atica, in-cluindo os ca-sos as-so-ci-a-dos []a sialoadenose,
+ []
+
+
+Overfull \hbox (1.93346pt too wide) in paragraph at lines 699--700
+\OT1/phv/m/n/12 re-cidi-vas graves, in-cluindo o de-sen-volvi-mento de sta-tus epilep-ti-cus, uma condi[][]ao
+ []
+
+
+
+[71]
+
+Package natbib Warning: Citation `katzung' on page 72 undefined on input line 705.
+
+
+Package natbib Warning: Citation `katzung' on page 72 undefined on input line 713.
+
+
+Overfull \hbox (8.15295pt too wide) in paragraph at lines 713--714
+[]\OT1/phv/m/n/12 Estas a[][]oes de-vem ser in-ter-pre-tadas no con-texto de equil[]^^Pbrio en-tre a excita[][]ao
+ []
+
+
+Overfull \hbox (3.40656pt too wide) in paragraph at lines 713--714
+\OT1/phv/m/n/12 equil[]^^Pbrio []e com-pro-metido, fa-vore-cendo a excita[][]ao- quer por au-mento da mesma,
+ []
+
+
+Package natbib Warning: Citation `Kelly2017' on page 72 undefined on input line 716.
+
+
+Package natbib Warning: Citation `Yasiry2012' on page 72 undefined on input line 720.
+
+
+Package natbib Warning: Citation `Jukier2023' on page 72 undefined on input line 720.
+
+
+Package natbib Warning: Citation `papich' on page 72 undefined on input line 720.
+
+
+Package natbib Warning: Citation `Scott2021' on page 72 undefined on input line 720.
+
+
+Package natbib Warning: Citation `papich' on page 72 undefined on input line 722.
+
+
+Package natbib Warning: Citation `papich' on page 72 undefined on input line 723.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 72 undefined on input line 723.
+
+
+
+[72]
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 726.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 726.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 726.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 726.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 727.
+
+
+Overfull \hbox (10.54593pt too wide) in paragraph at lines 727--728
+[]\OT1/phv/m/n/12 Em con-traste, as ben-zo-di-azepinas ligam-se na in-ter-face en-tre as sub-unidades
+ []
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 730.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 730.
+
+
+Package natbib Warning: Citation `mechanism' on page 73 undefined on input line 730.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 730.
+
+
+Overfull \hbox (21.98842pt too wide) in paragraph at lines 730--731
+[]\OT1/phv/m/n/12 Outro mecan-ismo po-ten-cial-mente im-por-tante dos bar-bit[]uricos em sta-tus epil[]eptico
+ []
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 736.
+
+
+Package natbib Warning: Citation `Podell2016' on page 73 undefined on input line 736.
+
+
+Package natbib Warning: Citation `Jukier2023' on page 73 undefined on input line 739.
+
+
+Package natbib Warning: Citation `Jukier2023' on page 73 undefined on input line 739.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 746.
+
+
+Package natbib Warning: Citation `10.11' on page 73 undefined on input line 746.
+
+
+
+[73]
+
+Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 749.
+
+
+Package natbib Warning: Citation `10.11' on page 74 undefined on input line 749.
+
+
+Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 749.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 749.
+
+
+Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 749.
+
+
+Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 749.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 749.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 750.
+
+
+Package natbib Warning: Citation `10.11' on page 74 undefined on input line 750.
+
+
+Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 750.
+
+
+Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 750.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 750.
+
+
+Overfull \hbox (12.78777pt too wide) in paragraph at lines 750--751
+[]\OT1/phv/m/n/12 tipo B [\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ][\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ] (rea[][]oes id-ioss-incr[]aticas, in-de-pen-dentes da dose) (Scott,pheno)
+ []
+
+
+
+[74]
+
+Package natbib Warning: Citation `10.11' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `Podell2016' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `10.11' on page 75 undefined on input line 760.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 75 undefined on input line 760.
+
+
+Package natbib Warning: Citation `10.11' on page 75 undefined on input line 760.
+
+
+Package natbib Warning: Citation `Jukier2023' on page 75 undefined on input line 760.
+
+
+Package natbib Warning: Citation `Chandler2011' on page 75 undefined on input line 760.
+
+
+Package natbib Warning: Citation `Gieger2000' on page 75 undefined on input line 763.
+
+
+Package natbib Warning: Citation `hep' on page 75 undefined on input line 763.
+
+
+Package natbib Warning: Citation `Chandler2011' on page 75 undefined on input line 766.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 769.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 771.
+
+
+Package natbib Warning: Citation `10.11' on page 75 undefined on input line 774.
+
+
+
+[75]
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Fantinati2021' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Dr' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `vol16' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Dr' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 780.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 783.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 783.
+
+
+Overfull \hbox (23.72064pt too wide) in paragraph at lines 783--784
+\OT1/phv/m/n/12 com os efeitos ad-ver-sos do feno-bar-bi-tal e []as restri[][]oes as-so-ci-adas []a sua classifica[][]ao
+ []
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `Fantinati2021' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `Fantinati2021' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 789.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 792.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 792.
+
+
+Overfull \hbox (6.33131pt too wide) in paragraph at lines 792--793
+[]\OT1/phv/m/n/12 Ap[]os administra[][]ao, o brometo distribui-se pelo l[]^^Pquido ce-falor-raquid-i-ano (LCR)
+ []
+
+
+
+[76]
+
+Package natbib Warning: Citation `Fantinati2021' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 77 undefined on input line 806.
+
+
+Package natbib Warning: Citation `foi' on page 77 undefined on input line 806.
+
+
+Package natbib Warning: Citation `foi' on page 77 undefined on input line 806.
+
+
+
+[77]
+
+Package natbib Warning: Citation `Fantinati2021' on page 78 undefined on input line 812.
+
+
+Overfull \hbox (13.22145pt too wide) in paragraph at lines 812--813
+[]\OT1/phv/m/n/12 A tox-i-ci-dade in-duzida por brometo, con-hecida como \bromismo", []e uma condi[][]ao
+ []
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 818.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 818.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 818.
+
+
+Package natbib Warning: Citation `Volk2008' on page 78 undefined on input line 824.
+
+
+Package natbib Warning: Citation `Erath2020' on page 78 undefined on input line 824.
+
+
+Package natbib Warning: Citation `ajvr' on page 78 undefined on input line 824.
+
+
+Package natbib Warning: Citation `Volk2008' on page 78 undefined on input line 824.
+
+
+Package natbib Warning: Citation `Erath2020' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `ajvr' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `contreras' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `Deshpande2014' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `Kelly2017' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `celdran' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `celdran' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `Volk2008' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `contreras' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `Kelly2017' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `Packer2015' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `Linder2024' on page 78 undefined on input line 827.
+
+
+Package natbib Warning: Citation `Volk2008' on page 78 undefined on input line 827.
+
+
+
+[78]
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 830.
+
+
+Package natbib Warning: Citation `Kelly2017' on page 79 undefined on input line 830.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 830.
+
+
+Package natbib Warning: Citation `Linder2024' on page 79 undefined on input line 830.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 830.
+
+
+Package natbib Warning: Citation `Kelly2017' on page 79 undefined on input line 831.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 831.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 831.
+
+
+Package natbib Warning: Citation `Packer2015' on page 79 undefined on input line 834.
+
+
+Package natbib Warning: Citation `Diop2025' on page 79 undefined on input line 834.
+
+
+Package natbib Warning: Citation `ajvr' on page 79 undefined on input line 837.
+
+
+Overfull \hbox (30.41615pt too wide) in paragraph at lines 842--843
+\OT1/phv/m/n/12 cientes acabam por ser eu-tanasi-a-dos de-v-ido a uma re-sposta sub-o-timizada/insuficiente.
+ []
+
+
+
+[79]
+Overfull \hbox (2.98288pt too wide) in paragraph at lines 866--867
+[]\OT1/phv/m/n/12 O pa-ciente foi ref-er-en-ci-ado para avalia[][]ao es-pe-cial-izada, de-v-ido []a per-sist[]encia
+ []
+
+
+Overfull \hbox (12.62035pt too wide) in paragraph at lines 866--867
+\OT1/phv/m/n/12 dos sinais cl[]^^Pnicos e []a aus[]encia de mel-ho-ria cl[]^^Pnica com as abor-da-gens terap[]euticas
+ []
+
+
+
+[80]
+Overfull \hbox (7.61809pt too wide) in paragraph at lines 883--884
+\OT1/phv/m/n/12 tant. Face []a aus[]encia de re-sposta terap[]eutica ad-e-quada, procedeu-se []a realiza[][]ao
+ []
+
+
+
+[81]
+Overfull \hbox (13.43591pt too wide) in paragraph at lines 900--902
+[]\OT1/phv/m/n/12 Ap[]os a rece[][]ao e troca de informa[][]oes com os tu-tores, procedeu-se []a realiza[][]ao
+ []
+
+
+Overfull \hbox (18.10281pt too wide) in paragraph at lines 907--911
+\OT1/phv/m/n/12 n[]ao ap-re-sen-tou altera[][]oes rel-e-vantes. \TS1/phv/m/n/12 ˆ \OT1/phv/m/n/12 Citolo-gia: n[]ao foram iden-ti-fi-cadas altera[][]oes
+ []
+
+
+
+[82]
+
+[83]
+Overfull \hbox (15.11826pt too wide) in paragraph at lines 976--977
+\OT1/phv/m/n/12 ligeira-mente au-men-tada, biomar-cador es-pec[]^^Pfico de doen[]a hep[]atica e hipocalemia.
+ []
+
+
+
+[84]
+
+Package natbib Warning: Citation `Amorim2016' on page 85 undefined on input line 979.
+
+
+Package natbib Warning: Citation `Jergens2012' on page 85 undefined on input line 979.
+
+
+Overfull \hbox (3.54585pt too wide) in paragraph at lines 979--980
+[]\OT1/phv/m/n/12 Realizaram-se ex-ames de imagem- ecografia ab-dom-i-nal e ra-dio-grafia tor[]acica-
+ []
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+
+
+[85]
+
+Package natbib Warning: Citation `Diop2025' on page 86 undefined on input line 988.
+
+
+Package natbib Warning: Citation `Diop2025' on page 86 undefined on input line 999.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[86]
+
+Package natbib Warning: Citation `Diop2025' on page 87 undefined on input line 1005.
+
+
+Package natbib Warning: Citation `Wang2025' on page 87 undefined on input line 1008.
+
+
+Package natbib Warning: Citation `Lyon2024' on page 87 undefined on input line 1008.
+
+
+Package natbib Warning: Citation `Lyon2024' on page 87 undefined on input line 1008.
+
+
+Package natbib Warning: Citation `Everest2024' on page 87 undefined on input line 1008.
+
+
+Package natbib Warning: Citation `Luca2023' on page 87 undefined on input line 1008.
+
+
+Overfull \hbox (9.05894pt too wide) in paragraph at lines 1008--1009
+\OT1/phv/m/n/12 manece pouco uti-lizada de-v-ido []a aus[]encia de pro-to-co-los padroniza-dos, (2016wrzo)
+ []
+
+
+Package natbib Warning: Citation `Wang2025' on page 87 undefined on input line 1011.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[87]
+
+Package natbib Warning: Citation `Deshpande2014' on page 88 undefined on input line 1017.
+
+
+Package natbib Warning: Citation `ajvr' on page 88 undefined on input line 1017.
+
+
+Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1020.
+
+
+Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1020.
+
+
+Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1020.
+
+
+Overfull \hbox (3.83502pt too wide) in paragraph at lines 1023--1024
+[]\OT1/phv/m/n/12 Paralelamente, o di-agn[]ostico pre-sun-tivo de gas-tro-duo-den-ite lin-fo-plas-mocit[]aria,
+ []
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+
+
+[88])
+
+[89]
+
+[90
+
+] (Results/Thesis_Results.tex
 Chapter 4.
 
 Underfull \vbox (badness 1867) has occurred while \output is active []
 
 
 
-[9
-
+[91
 
 ]
 File: ../Figures/Airbus_A350.jpg Graphic file (type jpg)
 <use ../Figures/Airbus_A350.jpg>
 Package pdftex.def Info: ../Figures/Airbus_A350.jpg  used on input line 53.
 (pdftex.def)             Requested size: 106.69783pt x 80.02141pt.
-<../Figures/Bombardier_CRJ200.png, id=366, 803.0pt x 602.25pt>
+<../Figures/Bombardier_CRJ200.png, id=885, 803.0pt x 602.25pt>
 File: ../Figures/Bombardier_CRJ200.png Graphic file (type png)
 <use ../Figures/Bombardier_CRJ200.png>
-Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 6
-0.
+Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 60.
 (pdftex.def)             Requested size: 426.79135pt x 320.10074pt.
 File: ../Figures/Bombardier_CRJ200.png Graphic file (type png)
 <use ../Figures/Bombardier_CRJ200.png>
-Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 6
-1.
+Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 61.
 (pdftex.def)             Requested size: 209.1301pt x 156.8478pt.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 69.
 
 Overfull \hbox (54.12527pt too wide) in paragraph at lines 69--70
-[]\OT1/phv/m/n/12 By de-fault, the sup-ported file types are \OT1/phv/m/sl/12 .
-png,.pdf,.jpg,.mps,.jpeg,.PNG,.PDF,.JPG,.JPEG\OT1/phv/m/n/12 . 
+[]\OT1/phv/m/n/12 By de-fault, the sup-ported file types are \OT1/phv/m/sl/12 .png,.pdf,.jpg,.mps,.jpeg,.PNG,.PDF,.JPG,.JPEG\OT1/phv/m/n/12 . 
  []
 
 
 Overfull \hbox (1.91321pt too wide) in paragraph at lines 71--72
-[]\OT1/phv/m/n/12 See [][]$\OT1/cmtt/m/n/12 http : / / mactex-[]wiki . tug . or
-g / wiki / index . php / Graphics _ inclusion$[][] \OT1/phv/m/n/12 for
+[]\OT1/phv/m/n/12 See [][]$\OT1/cmtt/m/n/12 http : / / mactex-[]wiki . tug . org / wiki / index . php / Graphics _ inclusion$[][] \OT1/phv/m/n/12 for
  []
 
 
 
-[10]
+[92]
 
-[11 <../Figures/Bombardier_CRJ200.png>]
+[93 <../Figures/Bombardier_CRJ200.png>]
 
-[12]
+[94]
 File: ../Figures/Bombardier_CRJ200.png Graphic file (type png)
 <use ../Figures/Bombardier_CRJ200.png>
-Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 2
-94.
+Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 294.
 (pdftex.def)             Requested size: 256.07741pt x 192.06229pt.
 )
 
-[13]
+[95]
 
-[14] (./Conclusions/Thesis_Conclusions.tex
+[96] (Conclusions/Thesis_Conclusions.tex
 Chapter 5.
 )
 Underfull \vbox (badness 1867) has occurred while \output is active []
 
 
 
-[15
+[97
 
 
 ]
 
-[16] (./Thesis.bbl)
-
-[17
-
-
-]
-
-[18
-
-] (./Appendix_A/Thesis_Appendix_A.tex
+[98] (Thesis.bbl) (Appendix_A/Thesis_Appendix_A.tex
 Appendix A.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[19
+[99
 
-])
 
-[20] (./Appendix_B/Thesis_Appendix_B.tex
+
+]
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 51.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 52.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 53.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 54.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 55.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 56.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 57.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 58.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 59.
+
+
+Package natbib Warning: Citation `jameson:adjointns' on page 100 undefined on input line 60.
+
+
+Package natbib Warning: Citation `nocedal:opt' on page 100 undefined on input line 63.
+
+
+Package natbib Warning: Citation `marta:ijcfd' on page 100 undefined on input line 63.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 66.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 66.
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 66.
+
+
+
+[100])
+
+[101]
+
+[102
+
+] (Appendix_B/Thesis_Appendix_B.tex
 Appendix B.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=448, 597.50829pt x 845.0471pt>
+<../Figures/SolarCell_Sunpower_C60.pdf, id=964, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf  used on input l
-ine 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf  used on input line 22.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=450, page=1, 597.50829pt x 845.0471p
-t>
+<../Figures/SolarCell_Sunpower_C60.pdf, id=966, page=1, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on 
-input line 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on 
-input line 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
 
 
-[21
-
+[103
 
 ]
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on 
-input line 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on 
-input line 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=456, page=2, 597.50829pt x 845.0471p
-t>
+<../Figures/SolarCell_Sunpower_C60.pdf, id=972, page=2, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 2>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page2 used on 
-input line 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page2 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 2>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page2 used on 
-input line 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page2 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
 
 
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on 
-input line 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 2>
-Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page2 used on 
-input line 22.
+Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page2 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
-[22
+[104
 
- <../Figures/SolarCell_Sunpower_C60.pdf> <../Figures/SolarCell_Sunpower_C60.pdf
->]) (./Thesis.aux)
+ <../Figures/SolarCell_Sunpower_C60.pdf> <../Figures/SolarCell_Sunpower_C60.pdf>])
+
+Package natbib Warning: There were undefined citations.
+
+(Thesis.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -1056,36 +3540,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F2F481578729D34C69F5B425EACA2ED1;4907.
+(rerunfilecheck)             Checksum: C35305CF3B62448F0374C1D4DF735502;7393.
  ) 
 Here is how much of TeX's memory you used:
- 15784 strings out of 467800
- 257076 string characters out of 5430847
- 748919 words of memory out of 5000000
- 43958 multiletter control sequences out of 15000+600000
- 657005 words of font info for 100 fonts, out of 8000000 for 9000
+ 30696 strings out of 468132
+ 592278 string characters out of 5440762
+ 1154364 words of memory out of 5000000
+ 58457 multiletter control sequences out of 15000+600000
+ 658764 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,17n,110p,539b,655s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.p
-fb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.
-pfb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.
-pfb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
-pfb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.p
-fb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
-b></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.
-pfb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/latxfont/
-lcircle1.pfb></home/carlos/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/
-latxfont/line10.pfb></home/carlos/texlive/2025/texmf-dist/fonts/type1/urw/helve
-tic/uhvb8a.pfb></home/carlos/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/u
-hvr8a.pfb></home/carlos/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvro8
-a.pfb>
-Output written on Thesis.pdf (44 pages, 1993621 bytes).
+ 115i,17n,110p,2046b,2631s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Thesis.pdf (128 pages, 2368866 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 480 compressed objects within 5 object streams
- 108 named destinations out of 1000 (max. 500000)
- 324 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1139 PDF objects out of 1200 (max. 8388607)
+ 239 named destinations out of 1000 (max. 500000)
+ 400 words of extra memory for PDF output out of 10000 (max. 10000000)
 

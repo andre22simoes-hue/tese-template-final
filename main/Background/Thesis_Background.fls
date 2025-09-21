@@ -1,0 +1,6 @@
+PWD c:\Users\Asus\Documents\tese\tese_final\tese-template-final\main\Background
+INPUT C:\Users\Asus\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Asus\Documents\tese\tese_final\tese-template-final\main\Background\Thesis_Background.tex
+OUTPUT Thesis_Background.log
+OUTPUT Thesis_Background.pdf
+INPUT C:\Users\Asus\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
