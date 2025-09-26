@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.5)  21 SEP 2025 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.5)  23 SEP 2025 16:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -256,7 +256,7 @@ Package tocbasic Info: setting babel extension for `nls' on input line 188.
 \openout3 = `Thesis.nlo'.
 
 Package nomencl Info: Writing nomenclature file Thesis.nlo on input line 289.
- (glossary.sty
+ (C:\Program Files\MiKTeX\tex/latex/glossary\glossary.sty
 Package: glossary 2006/07/20 2.4 (NLCT)
 \gls@cols=\count307
 
@@ -505,6 +505,11 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen259
 \titlewidthlast=\dimen260
 \titlewidthfirst=\dimen261
+) (C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+\everycr=\toks41
+\minrowclearance=\skip86
+\rownum=\count338
 ) (C:\Program Files\MiKTeX\tex/latex/tabularray\tabularray.sty
 Package: tabularray 2025-08-29 v2025B Typeset tabulars and arrays with LaTeX3
  (C:\Program Files\MiKTeX\tex/latex/ninecolors\ninecolors.sty
@@ -513,13 +518,13 @@ Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 Package: expl3 2025-08-13 L3 programming layer (loader) 
  (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count338
+\l__color_backend_stack_int=\count339
 ))
 Package: xparse 2024-08-16 L3 Experimental document command parser
 ))
-\l__tblr_a_int=\count339
-\l__tblr_c_int=\count340
-\l__tblr_r_int=\count341
+\l__tblr_a_int=\count340
+\l__tblr_c_int=\count341
+\l__tblr_r_int=\count342
 \l__tblr_d_dim=\dimen262
 \l__tblr_h_dim=\dimen263
 \l__tblr_o_dim=\dimen264
@@ -534,8 +539,7 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 \l__tblr_b_box=\box68
 \l__tblr_c_box=\box69
 \l__tblr_d_box=\box70
-\c@tblrcount=\count342
-\c@rownum=\count343
+\c@tblrcount=\count343
 \c@colnum=\count344
 \c@rowcount=\count345
 \c@colcount=\count346
@@ -637,10 +641,6 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 \l__tblr_last_cell_table_dp_dim=\dimen314
 \l__tblr_last_vline_wd_dim=\dimen315
 \l__tblr_tikz_node_box=\box94
-) (C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty
-Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-\everycr=\toks41
-\minrowclearance=\skip86
 )
 
 LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
@@ -986,11 +986,6 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
 [10
 
 ] (Thesis.toc
-Overfull \hbox (1.39183pt too wide) detected at line 9
- []\OT1/phv/m/n/12 xxiii
- []
-
-
 
 [11
 
@@ -1135,37 +1130,11 @@ Overfull \hbox (21.26373pt too wide) in paragraph at lines 27--27
 
 [20
 
-] (Nomenclature/Thesis_Nomenclature.tex) (Thesis.nls
-
-[21
-
-])
-
-[22] (Glossary/Thesis_Glossary.tex) (Thesis.gls
-Underfull \hbox (badness 1394) in paragraph at lines 7--10
-[]|\OT1/phv/m/n/12 Computational Struc-tural Me-chan-ics is a
- []
-
-
-Underfull \hbox (badness 1735) in paragraph at lines 11--14
-[]|\OT1/phv/m/n/12 Multi-Disciplinar Op-ti-miza-tion is an en-gi-
- []
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 11--14
-\OT1/phv/m/n/12 neer-ing tech-nique that uses op-ti-miza-tion
- []
-
-)
-
-[23
-
-
-]
-
-[24
-
-] (Introduction/Thesis_Introduction.tex
+] (Nomenclature/Thesis_Nomenclature.tex)
+No file Thesis.nls.
+(Glossary/Thesis_Glossary.tex)
+No file Thesis.gls.
+(Introduction/Thesis_Introduction.tex
 Chapter 1.
 
 Overfull \hbox (5.41847pt too wide) in paragraph at lines 18--19
@@ -1175,6 +1144,8 @@ Overfull \hbox (5.41847pt too wide) in paragraph at lines 18--19
 
 
 [1
+
+
 
 ])
 
@@ -1191,6 +1162,11 @@ Overfull \hbox (1.00037pt too wide) in paragraph at lines 23--25
  []
 
 
+Overfull \hbox (2.17284pt too wide) in paragraph at lines 28--29
+\OT1/phv/m/n/12 de in-ter-na-mento (c[]aes de grande porte, restantes c[]aes, gatos e an-i-mais ex[]oticos),
+ []
+
+
 
 [4]
 Overfull \hbox (6.20348pt too wide) in paragraph at lines 44--45
@@ -1202,9 +1178,12 @@ Overfull \hbox (6.20348pt too wide) in paragraph at lines 44--45
 [5]
 
 [6]
-Underfull \hbox (badness 1168) in paragraph at lines 111--111
+Underfull \hbox (badness 1168) in paragraph at lines 97--97
 \OT1/phv/m/n/12 cl[]^^Pnica Medic-ina Pre-ven-tiva, por esp[]ecie (Fip), frequ[]encia ab-so-luta (Fi) e
  []
+
+
+Underfull \vbox (badness 1533) has occurred while \output is active []
 
 
 
@@ -1220,7 +1199,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [8]
 
 [9]
-Underfull \vbox (badness 6741) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1234,27 +1213,24 @@ Overfull \hbox (27.88353pt too wide) in paragraph at lines 285--286
  []
 
 
-Overfull \hbox (0.20506pt too wide) in paragraph at lines 287--288
-\OT1/phv/m/n/12 De salien-tar que, nesta afe[][]ao, a preval[]encia foi ob-ser-vada uni-ca-mente em gatos.
- []
-
-
 
 [11]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+Overfull \hbox (2.85442pt too wide) in paragraph at lines 346--347
+\OT1/phv/m/n/12 r[]apidos de di-agn[]ostico, nomeada-mente para FIV, FELV, Coro-nav[]^^Prus e Par-vov[]^^Prus,
+ []
+
+
 
 [12]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1895) has occurred while \output is active []
 
 
 
 [13]
-Underfull \vbox (badness 5446) has occurred while \output is active []
-
-
 
 [14]
 
@@ -1275,8 +1251,8 @@ Underfull \vbox (badness 2932) has occurred while \output is active []
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (19.9677pt too wide) in paragraph at lines 476--503
-\OT1/phv/m/n/12 doen[]as per-ten-centes ao trato res-pi-rat[]orio in-fe-rior, en-globando a traqueia, br[]onquios,
+Overfull \hbox (23.85585pt too wide) in paragraph at lines 476--503
+\OT1/phv/m/n/12 doen[]as per-ten-centes ao trato res-pi-rat[]orio in-fe-rior, en-globando a Traqueia, Br[]onquios,
  []
 
 
@@ -1288,7 +1264,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [17]
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <12> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 528.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 531.
 
 
 [18]
@@ -1300,44 +1276,49 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 [20]
-
-[21]
-Overfull \hbox (21.70316pt too wide) in paragraph at lines 664--665
-[]\OT1/phv/m/n/12 De acordo com a tabela [][]2.18[][], foram iden-ti-fca-dos tr[]es tipos dis-tin-tos de intoxica[][]ao,
+Overfull \hbox (22.37508pt too wide) in paragraph at lines 664--665
+[]\OT1/phv/m/n/12 De acordo com a tabela [][]2.18[][], foram iden-ti-fca-dos tr[]es tipos dis-tin-tos de Intoxica[][]ao,
  []
 
 
+
+[21]
 
 [22]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+
+[23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[23]
-
 [24]
+Overfull \hbox (6.03278pt too wide) in paragraph at lines 812--813
+[]\OT1/phv/m/n/12 Importa, no en-tanto, salien-tar que o HVP disp[]oe de to-dos os meios necess[]arios
+ []
+
+
 
 [25]
-Overfull \hbox (5.2548pt too wide) in paragraph at lines 908--908
+Overfull \hbox (5.2548pt too wide) in paragraph at lines 911--911
  []\OT1/phv/m/n/12 Imagiolo- 
  []
 
 
-Overfull \hbox (5.2548pt too wide) in paragraph at lines 908--908
+Overfull \hbox (5.2548pt too wide) in paragraph at lines 911--911
  []\OT1/phv/m/n/12 Imagiolo- 
  []
 
 
-Overfull \hbox (5.2548pt too wide) in paragraph at lines 908--908
+Overfull \hbox (5.2548pt too wide) in paragraph at lines 911--911
  []\OT1/phv/m/n/12 Imagiolo- 
  []
 
 
-Overfull \hbox (12.19342pt too wide) in paragraph at lines 908--910
+Overfull \hbox (12.19342pt too wide) in paragraph at lines 911--912
  [][] 
  []
 
@@ -1853,7 +1834,7 @@ Overfull \hbox (7.04266pt too wide) in paragraph at lines 239--240
 
 
 Overfull \hbox (7.30194pt too wide) in paragraph at lines 239--240
-\OT1/phv/m/n/12 ismo/sialorreia, lip smack-ing, perda de peso, hipor-rexia ou anorexia, v[]omito cr[]onico
+\OT1/phv/m/n/12 ismo/sialorreia, \OT1/phv/m/sl/12 lip smack-ing\OT1/phv/m/n/12 , perda de peso, hipor-rexia ou anorexia, v[]omito cr[]onico
  []
 
 
@@ -2275,8 +2256,8 @@ Overfull \hbox (5.32458pt too wide) in paragraph at lines 431--432
 Package natbib Warning: Citation `Mukaratirwa2015' on page 56 undefined on input line 437.
 
 
-Overfull \hbox (1.38585pt too wide) in paragraph at lines 437--438
-\OT1/phv/m/n/12 regurgita[][]ao, ptial-ismo, es-ta-lar dos l[]abios (lip smack-ing), perda de peso, anorexia,
+Overfull \hbox (2.03375pt too wide) in paragraph at lines 437--438
+\OT1/phv/m/n/12 regurgita[][]ao, ptial-ismo, es-ta-lar dos l[]abios (\OT1/phv/m/sl/12 lip smack-ing\OT1/phv/m/n/12 ), perda de peso, anorexia,
  []
 
 
@@ -3251,13 +3232,10 @@ Overfull \hbox (15.11826pt too wide) in paragraph at lines 976--977
  []
 
 
-
-[84]
-
-Package natbib Warning: Citation `Amorim2016' on page 85 undefined on input line 979.
+Package natbib Warning: Citation `Amorim2016' on page 84 undefined on input line 979.
 
 
-Package natbib Warning: Citation `Jergens2012' on page 85 undefined on input line 979.
+Package natbib Warning: Citation `Jergens2012' on page 84 undefined on input line 979.
 
 
 Overfull \hbox (3.54585pt too wide) in paragraph at lines 979--980
@@ -3265,7 +3243,9 @@ Overfull \hbox (3.54585pt too wide) in paragraph at lines 979--980
  []
 
 
-Underfull \vbox (badness 3514) has occurred while \output is active []
+
+[84]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -3275,9 +3255,6 @@ Package natbib Warning: Citation `Diop2025' on page 86 undefined on input line 9
 
 
 Package natbib Warning: Citation `Diop2025' on page 86 undefined on input line 999.
-
-
-Underfull \vbox (badness 1478) has occurred while \output is active []
 
 
 
@@ -3359,7 +3336,7 @@ File: ../Figures/Airbus_A350.jpg Graphic file (type jpg)
 <use ../Figures/Airbus_A350.jpg>
 Package pdftex.def Info: ../Figures/Airbus_A350.jpg  used on input line 53.
 (pdftex.def)             Requested size: 106.69783pt x 80.02141pt.
-<../Figures/Bombardier_CRJ200.png, id=885, 803.0pt x 602.25pt>
+<../Figures/Bombardier_CRJ200.png, id=863, 803.0pt x 602.25pt>
 File: ../Figures/Bombardier_CRJ200.png Graphic file (type png)
 <use ../Figures/Bombardier_CRJ200.png>
 Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 60.
@@ -3405,7 +3382,7 @@ Underfull \vbox (badness 1867) has occurred while \output is active []
 
 ]
 
-[98] (Thesis.bbl) (Appendix_A/Thesis_Appendix_A.tex
+[98] (Appendix_A/Thesis_Appendix_A.tex
 Appendix A.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3475,12 +3452,12 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 
 ] (Appendix_B/Thesis_Appendix_B.tex
 Appendix B.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=964, 597.50829pt x 845.0471pt>
+<../Figures/SolarCell_Sunpower_C60.pdf, id=946, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf>
 Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf  used on input line 22.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=966, page=1, 597.50829pt x 845.0471pt>
+<../Figures/SolarCell_Sunpower_C60.pdf, id=948, page=1, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
 Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
@@ -3502,7 +3479,7 @@ File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
 Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=972, page=2, 597.50829pt x 845.0471pt>
+<../Figures/SolarCell_Sunpower_C60.pdf, id=953, page=2, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 2>
 Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page2 used on input line 22.
@@ -3540,20 +3517,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C35305CF3B62448F0374C1D4DF735502;7393.
+(rerunfilecheck)             Checksum: 014FE11E63F287FD75BF5AD512AA0C48;7392.
  ) 
 Here is how much of TeX's memory you used:
- 30696 strings out of 468132
- 592278 string characters out of 5440762
- 1154364 words of memory out of 5000000
- 58457 multiletter control sequences out of 15000+600000
+ 30666 strings out of 468132
+ 591656 string characters out of 5440762
+ 1155160 words of memory out of 5000000
+ 58442 multiletter control sequences out of 15000+600000
  658764 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,17n,110p,2046b,2631s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,17n,110p,2046b,2639s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Thesis.pdf (128 pages, 2368866 bytes).
+Output written on Thesis.pdf (124 pages, 2363349 bytes).
 PDF statistics:
- 1139 PDF objects out of 1200 (max. 8388607)
- 239 named destinations out of 1000 (max. 500000)
+ 1119 PDF objects out of 1200 (max. 8388607)
+ 232 named destinations out of 1000 (max. 500000)
  400 words of extra memory for PDF output out of 10000 (max. 10000000)
 

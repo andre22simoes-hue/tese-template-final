@@ -5,8 +5,8 @@
 \contentsline {section}{List of Tables}{xiii}{section*.2}%
 \contentsline {section}{List of Figures}{xvii}{section*.4}%
 \contentsline {chapter}{List of Acronyms}{xix}{chapter*.6}%
-\contentsline {section}{Nomenclature}{xxi}{section*.7}%
-\contentsline {section}{Glossary}{xxiii}{section*.9}%
+\contentsline {section}{Nomenclature}{1}{section*.7}%
+\contentsline {section}{Glossary}{1}{section*.8}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Casuística}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Descrição do local de estágio}{3}{section.2.1}%
@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {2.4}Distribuição da Casuística por área clínica}{6}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Medicina Preventiva}{7}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2.4.2}Clínica Médica}{8}{subsection.2.4.2}%
-\contentsline {subsubsection}{Gastroenterologia e Glândulas anexas}{8}{table.2.3}%
+\contentsline {subsubsection}{Gastroenterologia e Glândulas Anexas}{8}{table.2.3}%
 \contentsline {subsubsection}{Nefrologia e Urologia}{9}{table.2.4}%
 \contentsline {subsubsection}{Cardiologia}{11}{table.2.5}%
 \contentsline {subsubsection}{Oncologia}{11}{table.2.6}%
@@ -32,7 +32,7 @@
 \contentsline {subsubsection}{Toxicologia}{21}{table.2.17}%
 \contentsline {subsection}{\numberline {2.4.3}Clínica Cirúrgica}{22}{subsection.2.4.3}%
 \contentsline {subsubsection}{Cirurgia de Tecidos Moles}{23}{table.2.19}%
-\contentsline {subsubsection}{Cirurgia odontológica}{24}{table.2.20}%
+\contentsline {subsubsection}{Cirurgia odontológica}{23}{table.2.20}%
 \contentsline {subsubsection}{Neurocirurgia}{25}{table.2.21}%
 \contentsline {subsubsection}{Cirurgia Ortopédica}{25}{table.2.22}%
 \contentsline {subsection}{\numberline {2.4.4}Procedimentos Médicos}{26}{subsection.2.4.4}%
@@ -87,7 +87,7 @@
 \contentsline {chapter}{\numberline {5}Conclusions}{97}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Achievements}{97}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Future Work}{98}{section.5.2}%
-\contentsline {chapter}{Bibliography}{99}{section*.11}%
+\contentsline {chapter}{Bibliography}{99}{section*.9}%
 \contentsline {chapter}{\numberline {A}Vector calculus}{99}{appendix.A}%
 \contentsline {section}{\numberline {A.1}Vector identities}{100}{section.A.1}%
 \contentsline {section}{\numberline {A.2}Theoretical Overview}{100}{section.A.2}%

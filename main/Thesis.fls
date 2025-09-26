@@ -98,8 +98,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\koma-script\scrlogo.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\koma-script\scrlogo.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\caption\caption.sty
 OUTPUT Thesis.nlo
-INPUT .\glossary.sty
-INPUT glossary.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\glossary\glossary.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\glossary\glossary.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\longtable.sty
 OUTPUT Thesis.glo
@@ -189,6 +189,8 @@ INPUT C:\Program Files\MiKTeX\tex\latex\emptypage\emptypage.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\emptypage\emptypage.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\colortbl\colortbl.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tabularray\tabularray.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tabularray\tabularray.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\ninecolors\ninecolors.sty
@@ -199,8 +201,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Program Files\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\colortbl\colortbl.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf-pie\pgf-pie.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf-pie\pgf-pie.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
@@ -449,20 +449,11 @@ INPUT .\Nomenclature\Thesis_Nomenclature.tex
 INPUT .\Nomenclature\Thesis_Nomenclature.tex
 INPUT .\Nomenclature\Thesis_Nomenclature.tex
 INPUT Nomenclature\Thesis_Nomenclature.tex
-INPUT .\Thesis.nls
-INPUT .\Thesis.nls
-INPUT Thesis.nls
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
 INPUT .\Glossary\Thesis_Glossary.tex
 INPUT .\Glossary\Thesis_Glossary.tex
 INPUT .\Glossary\Thesis_Glossary.tex
 INPUT .\Glossary\Thesis_Glossary.tex
 INPUT Glossary\Thesis_Glossary.tex
-INPUT .\Thesis.gls
-INPUT .\Thesis.gls
-INPUT Thesis.gls
 INPUT .\Introduction\Thesis_Introduction.tex
 INPUT .\Introduction\Thesis_Introduction.tex
 INPUT .\Introduction\Thesis_Introduction.tex
@@ -514,9 +505,12 @@ INPUT ..\Figures\Bombardier_CRJ200.png
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\helvetic\phvr7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\helvetic\phvr7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\helvetic\phvr7t.vf
@@ -529,9 +523,6 @@ INPUT .\Conclusions\Thesis_Conclusions.tex
 INPUT .\Conclusions\Thesis_Conclusions.tex
 INPUT .\Conclusions\Thesis_Conclusions.tex
 INPUT Conclusions\Thesis_Conclusions.tex
-INPUT .\Thesis.bbl
-INPUT .\Thesis.bbl
-INPUT Thesis.bbl
 INPUT .\Appendix_A\Thesis_Appendix_A.tex
 INPUT .\Appendix_A\Thesis_Appendix_A.tex
 INPUT .\Appendix_A\Thesis_Appendix_A.tex
