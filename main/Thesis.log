@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.5)  23 SEP 2025 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.5)  26 SEP 2025 17:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -49,18 +49,13 @@ LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) o
 *
 (C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
- (C:\Program Files\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 12.
+) (C:\Program Files\MiKTeX\tex/latex/babel-portuges\portuguese.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+ (C:\Program Files\MiKTeX\tex/generic/babel/locale/pt\babel-portuguese.tex
+Package babel Info: Importing font and identification data for portuguese
+(babel)             from babel-pt.ini. Reported on input line 12.
 )
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
+Package babel Info: Making " an active character on input line 143.
 )) (C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
@@ -505,11 +500,6 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen259
 \titlewidthlast=\dimen260
 \titlewidthfirst=\dimen261
-) (C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty
-Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-\everycr=\toks41
-\minrowclearance=\skip86
-\rownum=\count338
 ) (C:\Program Files\MiKTeX\tex/latex/tabularray\tabularray.sty
 Package: tabularray 2025-08-29 v2025B Typeset tabulars and arrays with LaTeX3
  (C:\Program Files\MiKTeX\tex/latex/ninecolors\ninecolors.sty
@@ -518,13 +508,13 @@ Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 Package: expl3 2025-08-13 L3 programming layer (loader) 
  (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count339
+\l__color_backend_stack_int=\count338
 ))
 Package: xparse 2024-08-16 L3 Experimental document command parser
 ))
-\l__tblr_a_int=\count340
-\l__tblr_c_int=\count341
-\l__tblr_r_int=\count342
+\l__tblr_a_int=\count339
+\l__tblr_c_int=\count340
+\l__tblr_r_int=\count341
 \l__tblr_d_dim=\dimen262
 \l__tblr_h_dim=\dimen263
 \l__tblr_o_dim=\dimen264
@@ -539,7 +529,8 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 \l__tblr_b_box=\box68
 \l__tblr_c_box=\box69
 \l__tblr_d_box=\box70
-\c@tblrcount=\count343
+\c@tblrcount=\count342
+\c@rownum=\count343
 \c@colnum=\count344
 \c@rowcount=\count345
 \c@colcount=\count346
@@ -641,6 +632,10 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 \l__tblr_last_cell_table_dp_dim=\dimen314
 \l__tblr_last_vline_wd_dim=\dimen315
 \l__tblr_tikz_node_box=\box94
+) (C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+\everycr=\toks41
+\minrowclearance=\skip86
 )
 
 LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
@@ -834,11 +829,7 @@ File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 73.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
-) (Thesis.aux
-
-LaTeX Warning: Label `tab:t1' multiply defined.
-
-)
+) (Thesis.aux)
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
@@ -859,6 +850,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
+Package babel Info: 'portuguese' activates 'portuges' shorthands.
+(babel)             Reported on input line 73.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -918,7 +911,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 73.
- (Thesis.out) (Thesis.out)
 \@outlinefile=\write7
 \openout7 = `Thesis.out'.
 
@@ -931,12 +923,12 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )) (FrontCover/Thesis_FrontCover.tex
-<../Figures/teseue-logo.pdf, id=180, 360.34625pt x 161.10187pt>
+<../Figures/teseue-logo.pdf, id=6, 360.34625pt x 161.10187pt>
 File: ../Figures/teseue-logo.pdf Graphic file (type pdf)
 <use ../Figures/teseue-logo.pdf>
 Package pdftex.def Info: ../Figures/teseue-logo.pdf  used on input line 15.
 (pdftex.def)             Requested size: 180.17268pt x 80.55074pt.
-<../Figures/Airbus_A350.jpg, id=181, 1027.84pt x 770.88pt>
+<../Figures/Airbus_A350.jpg, id=7, 1027.84pt x 770.88pt>
 File: ../Figures/Airbus_A350.jpg Graphic file (type jpg)
 <use ../Figures/Airbus_A350.jpg>
 Package pdftex.def Info: ../Figures/Airbus_A350.jpg  used on input line 24.
@@ -985,136 +977,46 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
 
 [10
 
-] (Thesis.toc
-
-[11
-
 ]
-Overfull \hbox (1.41573pt too wide) detected at line 92
- []\OT1/phv/m/n/12 100
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 93
- []\OT1/phv/m/n/12 100
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 94
- []\OT1/phv/m/n/12 100
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 95
- []\OT1/phv/m/n/12 101
- []
-
-
-Overfull \hbox (1.41573pt too wide) detected at line 97
- []\OT1/phv/m/n/12 103
- []
-
-)
+No file Thesis.toc.
 \tf@toc=\write8
 \openout8 = `Thesis.toc'.
 
 
 
-[12] (Thesis.lot
-Overfull \hbox (1.95554pt too wide) in paragraph at lines 6--6
- [][] [][][]\OT1/phv/m/n/12 Distribui[][]ao da casu[]^^Pstica recol-hida em Cl[]^^Pnica M[]edica, por esp[]ecie 
- []
-
-
-Overfull \hbox (19.4437pt too wide) in paragraph at lines 10--10
- \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
- []
-
-
-Overfull \hbox (12.80075pt too wide) in paragraph at lines 12--12
- [][] [][][]\OT1/phv/m/n/12 Distribui[][]ao da casu[]^^Pstica recol-hida na es-pe-cial-i-dade de En-docrinolo- 
- []
-
-
-Overfull \hbox (19.4437pt too wide) in paragraph at lines 12--12
- \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
- []
-
-
-Underfull \vbox (badness 5970) has occurred while \output is active []
-
-
-
-[13
-
+[11
 
 ]
-Overfull \hbox (19.4437pt too wide) in paragraph at lines 14--14
- \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
- []
 
+[12
 
-Overfull \hbox (0.60884pt too wide) in paragraph at lines 17--17
- [][] [][][]\OT1/phv/m/n/12 Distribui[][]ao da casu[]^^Pstica recol-hida na es-pe-cial-i-dade de Of-tal-molo- 
- []
-
-
-Overfull \hbox (19.4437pt too wide) in paragraph at lines 17--17
- \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
- []
-
-
-Overfull \hbox (11.36081pt too wide) in paragraph at lines 18--18
- [][] [][][]\OT1/phv/m/n/12 Distribui[][]ao da casu[]^^Pstica recol-hida na es-pe-cial-i-dade de Teri-ogenolo- 
- []
-
-
-Overfull \hbox (19.4437pt too wide) in paragraph at lines 18--18
- \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
- []
-
-
-Overfull \hbox (19.4437pt too wide) in paragraph at lines 21--21
- \OT1/phv/m/n/12 gia, por esp[]ecie an-i-mal (Fip), por frequ[]encia ab-so-luta (Fi), e frequ[]encia 
- []
-
-
-Overfull \hbox (21.26373pt too wide) in paragraph at lines 23--23
- \OT1/phv/m/n/12 ex-pressa em Frequ[]encia ab-so-luta por esp[]ecie an-i-mal (Fip), Frequ[]encia 
- []
-
-
-
-[14]
-Overfull \hbox (8.95174pt too wide) in paragraph at lines 24--24
- \OT1/phv/m/n/12 pressa em Frequ[]encia ab-so-luta por esp[]ecie an-i-mal (Fip), Frequ[]encia 
- []
-
-
-Overfull \hbox (8.95174pt too wide) in paragraph at lines 26--26
- \OT1/phv/m/n/12 pressa em Frequ[]encia ab-so-luta por esp[]ecie an-i-mal (Fip), Frequ[]encia 
- []
-
-
-Overfull \hbox (21.26373pt too wide) in paragraph at lines 27--27
- \OT1/phv/m/n/12 ex-pressa em Frequ[]encia ab-so-luta por esp[]ecie an-i-mal (Fip), Frequ[]encia 
- []
-
-)
+]
+No file Thesis.lot.
 \tf@lot=\write9
 \openout9 = `Thesis.lot'.
 
 
 
-[15]
+[13
 
-[16
+]
 
-] (Thesis.lof)
+[14
+
+]
+No file Thesis.lof.
 \tf@lof=\write10
 \openout10 = `Thesis.lof'.
 
 
+
+[15
+
+]
+
+[16
+
+] (Acronyms/Thesis_Acronyms.tex)
 
 [17
 
@@ -1122,23 +1024,15 @@ Overfull \hbox (21.26373pt too wide) in paragraph at lines 27--27
 
 [18
 
-] (Acronyms/Thesis_Acronyms.tex)
-
-[19
-
-]
-
-[20
-
 ] (Nomenclature/Thesis_Nomenclature.tex)
 No file Thesis.nls.
 (Glossary/Thesis_Glossary.tex)
 No file Thesis.gls.
 (Introduction/Thesis_Introduction.tex
-Chapter 1.
+Cap\'{\i }tulo 1.
 
 Overfull \hbox (5.41847pt too wide) in paragraph at lines 18--19
-[]\OT1/phv/m/n/12 A primeira com-po-nente con-siste numa an[]alise de-s-critiva da casu[]^^Pstica acom-
+[]\OT1/phv/m/n/12 A pri-meira com-po-nente con-siste numa an[]alise des-cri-tiva da casu[]^^Pstica acom-
  []
 
 
@@ -1150,7 +1044,7 @@ Overfull \hbox (5.41847pt too wide) in paragraph at lines 18--19
 ])
 
 [2] (Background/Thesis_Background.tex
-Chapter 2.
+Cap\'{\i }tulo 2.
 
 
 [3
@@ -1158,28 +1052,27 @@ Chapter 2.
 
 ]
 Overfull \hbox (1.00037pt too wide) in paragraph at lines 23--25
-[]\OT1/phv/m/n/12 A con-stante dedica[][]ao e especializa[][]ao da equipa con-tribui sig-ni-fica-ti-va-mente
+[]\OT1/phv/m/n/12 A cons-tante dedica[][]ao e especializa[][]ao da equipa con-tri-bui sig-ni-fi-ca-ti-va-mente
  []
 
 
 Overfull \hbox (2.17284pt too wide) in paragraph at lines 28--29
-\OT1/phv/m/n/12 de in-ter-na-mento (c[]aes de grande porte, restantes c[]aes, gatos e an-i-mais ex[]oticos),
+\OT1/phv/m/n/12 de in-ter-na-mento (c[]aes de grande porte, res-tan-tes c[]aes, ga-tos e ani-mais ex[]oticos),
  []
 
 
 
 [4]
-Overfull \hbox (6.20348pt too wide) in paragraph at lines 44--45
-[]\OT1/phv/m/n/12 Cl[]^^Pnica m[]edica: Car-di-olo-gia,Hematologia, Der-ma-tolo-gia, Doen[]as In-fe-ciosas
- []
-
-
 
 [5]
 
+LaTeX Warning: Reference `tab:t1' on page 6 undefined on input line 68.
+
+
+
 [6]
 Underfull \hbox (badness 1168) in paragraph at lines 97--97
-\OT1/phv/m/n/12 cl[]^^Pnica Medic-ina Pre-ven-tiva, por esp[]ecie (Fip), frequ[]encia ab-so-luta (Fi) e
+\OT1/phv/m/n/12 cl[]^^Pnica Me-di-cina Pre-ven-tiva, por esp[]ecie (Fip), frequ[]encia ab-so-luta (Fi) e
  []
 
 
@@ -1189,7 +1082,13 @@ Underfull \vbox (badness 1533) has occurred while \output is active []
 
 [7]
 
+LaTeX Warning: Reference `tab:t3' on page 8 undefined on input line 121.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:t4' on page 8 undefined on input line 159.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1199,47 +1098,59 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [8]
 
 [9]
+
+LaTeX Warning: Reference `tab:t5' on page 10 undefined on input line 215.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [10]
 
+LaTeX Warning: Reference `tab:t6' on page 11 undefined on input line 250.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Overfull \hbox (27.88353pt too wide) in paragraph at lines 285--286
-\OT1/phv/m/n/12 A es-pe-cial-i-dade de On-colo-gia dedica-se ao es-tudo de to-dos os pro-ces-sos neopl[]asicos,
+\OT1/phv/m/n/12 A es-pe-ci-a-li-dade de On-co-lo-gia dedica-se ao es-tudo de to-dos os pro-ces-sos neopl[]asicos,
  []
 
 
 
 [11]
 
+LaTeX Warning: Reference `tab:t7' on page 12 undefined on input line 287.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Overfull \hbox (2.85442pt too wide) in paragraph at lines 346--347
-\OT1/phv/m/n/12 r[]apidos de di-agn[]ostico, nomeada-mente para FIV, FELV, Coro-nav[]^^Prus e Par-vov[]^^Prus,
+\OT1/phv/m/n/12 r[]apidos de di-agn[]ostico, no-me-a-da-mente para FIV, FELV, Co-ro-nav[]^^Prus e Par-vov[]^^Prus,
  []
+
+
+LaTeX Warning: Reference `tab:t8' on page 12 undefined on input line 348.
 
 
 
 [12]
-Underfull \vbox (badness 1895) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [13]
 
+LaTeX Warning: Reference `tab:t9' on page 14 undefined on input line 385.
+
+
+
 [14]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Overfull \hbox (7.12949pt too wide) in paragraph at lines 442--443
-\OT1/phv/m/n/12 menos im-por-tante, saber fazer um bom ex-ame or-top[]edico, []e muitas vezes ben[]efico
- []
 
 
 Underfull \vbox (badness 2932) has occurred while \output is active []
@@ -1248,11 +1159,17 @@ Underfull \vbox (badness 2932) has occurred while \output is active []
 
 [15]
 
+LaTeX Warning: Reference `tab:t11' on page 16 undefined on input line 444.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+LaTeX Warning: Reference `tab:t12' on page 16 undefined on input line 478.
+
+
 Overfull \hbox (23.85585pt too wide) in paragraph at lines 476--503
-\OT1/phv/m/n/12 doen[]as per-ten-centes ao trato res-pi-rat[]orio in-fe-rior, en-globando a Traqueia, Br[]onquios,
+\OT1/phv/m/n/12 doen[]as per-ten-cen-tes ao trato res-pi-rat[]orio in-fe-rior, en-glo-bando a Tra-queia, Br[]onquios,
  []
 
 
@@ -1263,21 +1180,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [17]
+
+LaTeX Warning: Reference `tab:t13' on page 18 undefined on input line 507.
+
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <12> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 531.
 
 
 [18]
 
+LaTeX Warning: Reference `tab:t14' on page 19 undefined on input line 540.
+
+
+LaTeX Warning: Reference `tab:t15' on page 19 undefined on input line 575.
+
+
+
 [19]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
+LaTeX Warning: Reference `tab:t17' on page 20 undefined on input line 635.
+
+
 
 [20]
-Overfull \hbox (22.37508pt too wide) in paragraph at lines 664--665
-[]\OT1/phv/m/n/12 De acordo com a tabela [][]2.18[][], foram iden-ti-fca-dos tr[]es tipos dis-tin-tos de Intoxica[][]ao,
+
+LaTeX Warning: Reference `tab:t18' on page 21 undefined on input line 664.
+
+
+Overfull \hbox (13.68741pt too wide) in paragraph at lines 664--665
+[]\OT1/phv/m/n/12 De acordo com a ta-bela [], fo-ram iden-tif-ca-dos tr[]es ti-pos dis-tin-tos de Intoxica[][]ao,
  []
 
 
@@ -1286,19 +1220,43 @@ Overfull \hbox (22.37508pt too wide) in paragraph at lines 664--665
 
 [22]
 
+LaTeX Warning: Reference `tab:t19' on page 23 undefined on input line 701.
+
+
+Overfull \hbox (9.60747pt too wide) in paragraph at lines 701--702
+[]\OT1/phv/m/n/12 De acordo com a ta-bela [], que apre-senta a distribui[][]ao da casu[]^^Pstica cir[]urgica,
+ []
+
+
+LaTeX Warning: Reference `tab:t20' on page 23 undefined on input line 727.
+
+
 LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:t21' on page 23 undefined on input line 761.
 
 
 
 [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Warning: Reference `tab:t22' on page 24 undefined on input line 786.
 
 
 
 [24]
 Overfull \hbox (6.03278pt too wide) in paragraph at lines 812--813
-[]\OT1/phv/m/n/12 Importa, no en-tanto, salien-tar que o HVP disp[]oe de to-dos os meios necess[]arios
+[]\OT1/phv/m/n/12 Importa, no en-tanto, sa-li-en-tar que o HVP disp[]oe de to-dos os meios ne-cess[]arios
  []
+
+
+LaTeX Warning: Reference `tab:t24' on page 25 undefined on input line 835.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: Reference `tab:t25' on page 25 undefined on input line 864.
 
 
 
@@ -1334,10 +1292,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [28
 
 ] (Implementation/Thesis_Implementation.tex
-Chapter 3.
+Cap\'{\i }tulo 3.
 
-Overfull \hbox (10.293pt too wide) in paragraph at lines 11--11
-|\OT1/phv/b/n/32 Monografia:Sialoadenose re-
+Overfull \hbox (28.08481pt too wide) in paragraph at lines 11--11
+|\OT1/phv/b/n/32 Monografia:Sialoadenose res-
  []
 
 
@@ -1349,13 +1307,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 
-Package natbib Warning: Citation `Junqueira' on page 30 undefined on input line 28.
+Package natbib Warning: Citation `Mescher2018' on page 30 undefined on input line 28.
 
 
-Package natbib Warning: Citation `Junqueira' on page 30 undefined on input line 28.
+Package natbib Warning: Citation `Mescher2018' on page 30 undefined on input line 28.
 
 
-Package natbib Warning: Citation `Junqueira' on page 30 undefined on input line 28.
+Package natbib Warning: Citation `Mescher2018' on page 30 undefined on input line 28.
 
 
 Package natbib Warning: Citation `Proctor2007' on page 30 undefined on input line 30.
@@ -1367,15 +1325,10 @@ Package natbib Warning: Citation `cunningham' on page 30 undefined on input line
 Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 30.
 
 
-Package natbib Warning: Citation `TextbookPhysio' on page 30 undefined on input line 30.
+Package natbib Warning: Citation `Das_Textbook' on page 30 undefined on input line 30.
 
 
 Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 30.
-
-
-Overfull \hbox (0.76631pt too wide) in paragraph at lines 30--31
-[]\OT1/phv/m/n/12 Anatomicamente, s[]ao gl[]andulas lob-u-ladas, com-postas por []acinos e re-spetivos
- []
 
 
 Package natbib Warning: Citation `Proctor2007' on page 30 undefined on input line 32.
@@ -1390,1925 +1343,2075 @@ Package natbib Warning: Citation `cunningham' on page 30 undefined on input line
 Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 34.
 
 
-Package natbib Warning: Citation `TextbookPhysio' on page 30 undefined on input line 34.
+Package natbib Warning: Citation `Das_Textbook' on page 30 undefined on input line 34.
 
 
 Package natbib Warning: Citation `cunningham' on page 30 undefined on input line 34.
 
 
 Overfull \hbox (2.06291pt too wide) in paragraph at lines 34--35
-\OT1/phv/m/n/12 es-pe-cial-izadas, com car-ac-ter[]^^Psticas de m[]usculo liso mod-i-fi-cado.[\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ] Es-tas c[]elulas,
+\OT1/phv/m/n/12 es-pe-ci-a-li-za-das, com ca-rac-ter[]^^Psticas de m[]usculo liso mo-di-fi-cado.[\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ] Es-tas c[]elulas,
  []
 
 
 
 [30]
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 44.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 44.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 44.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 44.
 
 
 Package natbib Warning: Citation `Cappai2021' on page 31 undefined on input line 44.
 
 
-Overfull \hbox (24.524pt too wide) in paragraph at lines 44--45
-[]\OT1/phv/m/n/12 As gl[]andulas sali-vares menores distribuem-se pela mu-cosa dos l[]abios, bochechas,
- []
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 46.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 46.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 52.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 52.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 54.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 54.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 54.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 54.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 55.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 55.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 55.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 55.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 56.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 56.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 56.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 56.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 56.
 
 
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 56.
-
-
-Package natbib Warning: Citation `dyce' on page 31 undefined on input line 56.
+Package natbib Warning: Citation `Singh2017' on page 31 undefined on input line 56.
 
 
 Overfull \hbox (7.80717pt too wide) in paragraph at lines 54--57
-[]\OT1/phv/m/n/12 Anatomicamente, est[]a de-lim-i-tada cau-dal-mente pela parte mas-toide do m[]usculo
+[]\OT1/phv/m/n/12 Anatomicamente, est[]a de-li-mi-tada cau-dal-mente pela parte mas-toide do m[]usculo
  []
 
 
 Overfull \hbox (6.8263pt too wide) in paragraph at lines 54--57
-\OT1/phv/m/n/12 es-ter-nocef[]alico e pela parte cer-vi-cal do clei-do-cef[]alico, e ros-tral-mente pelo m[]usculo
+\OT1/phv/m/n/12 es-ter-no-cef[]alico e pela parte cer-vi-cal do clei-do-cef[]alico, e ros-tral-mente pelo m[]usculo
  []
 
 
 
 [31]
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 59.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 59.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 59.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 59.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 59.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 59.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 60.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 60.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 60.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 60.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 63.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 63.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 63.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 63.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 64.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 64.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 64.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 64.
 
 
-Package natbib Warning: Citation `dyce' on page 32 undefined on input line 64.
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 64.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 67.
+
+
+Package natbib Warning: Citation `Singh2017' on page 32 undefined on input line 67.
+
+
+Overfull \hbox (2.96931pt too wide) in paragraph at lines 67--68
+[]\OT1/phv/m/n/12 A irriga[][]ao ar-te-rial []e as-se-gu-rada mai-o-ri-ta-ri-a-mente pela art[]eria pa-rot[]^^Pdea, ramo
+ []
+
+
+Underfull \vbox (badness 3514) has occurred while \output is active []
 
 
 
 [32]
 
-Package natbib Warning: Citation `dyce' on page 33 undefined on input line 67.
+Package natbib Warning: Citation `Singh2017' on page 33 undefined on input line 70.
 
 
-Package natbib Warning: Citation `dyce' on page 33 undefined on input line 67.
+Package natbib Warning: Citation `Singh2017' on page 33 undefined on input line 73.
 
 
-Overfull \hbox (2.96931pt too wide) in paragraph at lines 67--68
-[]\OT1/phv/m/n/12 A irriga[][]ao ar-te-rial []e as-se-gu-rada maior-i-tari-a-mente pela art[]eria parot[]^^Pdea, ramo
- []
+Package natbib Warning: Citation `Singh2017' on page 33 undefined on input line 73.
 
 
-Package natbib Warning: Citation `dyce' on page 33 undefined on input line 70.
+Package natbib Warning: Citation `Singh2017' on page 33 undefined on input line 73.
 
 
-Package natbib Warning: Citation `dyce' on page 33 undefined on input line 73.
+Package natbib Warning: Citation `Singh2017' on page 33 undefined on input line 76.
 
 
-Package natbib Warning: Citation `dyce' on page 33 undefined on input line 73.
+Package natbib Warning: Citation `evans_millers_2012' on page 33 undefined on input line 80.
 
 
-Package natbib Warning: Citation `dyce' on page 33 undefined on input line 73.
+Package natbib Warning: Citation `Singh2017' on page 33 undefined on input line 80.
 
 
-Package natbib Warning: Citation `dyce' on page 33 undefined on input line 76.
-
-
-Package natbib Warning: Citation `dyce' on page 33 undefined on input line 80.
-
-
-Overfull \hbox (1.42427pt too wide) in paragraph at lines 83--84
-\OT1/phv/m/n/12 est[]a em con-tacto []^^Pntimo com a ex-trem-i-dade cau-dal da gl[]andula sub-lin-gual monos-
- []
-
-
-Overfull \hbox (11.37097pt too wide) in paragraph at lines 83--84
-\OT1/phv/m/n/12 une a por[][]ao su-per-fi-cial e pro-funda gl[]andula. A su-perf[]^^Pcie su-per-fi-cial []e arredondada
+Overfull \hbox (4.60603pt too wide) in paragraph at lines 80--81
+[]\OT1/phv/m/n/12 angulo da mand[]^^Pbula, en-tre as veias ma-xi-lar e lin-guo-fa-cial. Ge-ral-mente apresenta-
  []
 
 
 
 [33]
 
-Package natbib Warning: Citation `dyce' on page 34 undefined on input line 86.
+Package natbib Warning: Citation `evans_millers_2012' on page 34 undefined on input line 86.
+
+
+Package natbib Warning: Citation `Singh2017' on page 34 undefined on input line 86.
 
 
 Overfull \hbox (14.58401pt too wide) in paragraph at lines 97--98
-[]\OT1/phv/m/n/12 A drenagem linf[]atica da gl[]andula mandibu-lar faz-se nos lin-fon-o-dos retro-far[]^^Pngeos
+[]\OT1/phv/m/n/12 A dre-na-gem linf[]atica da gl[]andula man-di-bu-lar faz-se nos lin-fo-no-dos re-tro-far[]^^Pngeos
  []
 
+<../Figures/glls.jpg, id=287, 366.61969pt x 317.68687pt>
+File: ../Figures/glls.jpg Graphic file (type jpg)
+<use ../Figures/glls.jpg>
+Package pdftex.def Info: ../Figures/glls.jpg  used on input line 102.
+(pdftex.def)             Requested size: 422.52577pt x 366.15143pt.
 
-Package natbib Warning: Citation `Han2016' on page 34 undefined on input line 101.
-
-
-Package natbib Warning: Citation `Brown2016' on page 34 undefined on input line 101.
-
-
-Overfull \hbox (3.41539pt too wide) in paragraph at lines 101--102
-\OT1/phv/m/n/12 A gl[]andula sub-lin-gual []e com-posta por duas por[][]oes: a gl[]andula sub-lin-gual monos-
- []
+Package natbib Warning: Citation `Han2016' on page 34 undefined on input line 109.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `evans_millers_2012' on page 34 undefined on input line 109.
+
+
+Package natbib Warning: Citation `Brown2016' on page 34 undefined on input line 109.
+
+
+Package natbib Warning: Citation `evans_millers_2012' on page 34 undefined on input line 109.
 
 
 
 [34]
-Overfull \hbox (1.92091pt too wide) in paragraph at lines 104--105
-\OT1/phv/m/n/12 por um []unico ducto ex-cre-tor, o ducto sub-lin-gual maior, o qual ter-mina na car[]uncula
+
+Package natbib Warning: Citation `evans_millers_2012' on page 35 undefined on input line 112.
+
+
+Package natbib Warning: Citation `evans_millers_2012' on page 35 undefined on input line 112.
+
+
+Overfull \hbox (6.87486pt too wide) in paragraph at lines 112--113
+\OT1/phv/m/n/12 mais mas-sas lo-bu-la-res, cuja ex-tre-mi-dade se es-tende ros-tro-me-di-al-mente. Localiza-
  []
 
 
-Overfull \hbox (0.56429pt too wide) in paragraph at lines 104--105
-\OT1/phv/m/n/12 sub-lin-gual, ad-ja-cente []a por[][]ao ros-tral do fr[]enulo da l[]^^Pngua. (miller, dyce) Anatomi-
- []
-
-
-Package natbib Warning: Citation `lemmons2018' on page 35 undefined on input line 110.
-
-
-Package natbib Warning: Citation `Han2016' on page 35 undefined on input line 116.
-
-
-Underfull \vbox (badness 2512) has occurred while \output is active []
+Underfull \vbox (badness 3439) has occurred while \output is active []
 
 
 
-[35]
-Overfull \hbox (5.86295pt too wide) in paragraph at lines 123--125
-\OT1/phv/m/n/12 dal do vest[]^^Pbulo bu-cal. (lem-mons) A vasculariza[][]ao ar-te-rial da gl[]andula zigom[]atica
- []
+[35 <../Figures/glls.jpg>]
+
+Package natbib Warning: Citation `evans_millers_2012' on page 36 undefined on input line 115.
+
+
+Package natbib Warning: Citation `lobprise_oral_2019' on page 36 undefined on input line 118.
+
+
+Package natbib Warning: Citation `evans_millers_2012' on page 36 undefined on input line 118.
+
+
+Package natbib Warning: Citation `evans_millers_2012' on page 36 undefined on input line 121.
+
+
+Package natbib Warning: Citation `Han2016' on page 36 undefined on input line 124.
+
+
+Package natbib Warning: Citation `evans_millers_2012' on page 36 undefined on input line 124.
+
+
+Package natbib Warning: Citation `lobprise_oral_2019' on page 36 undefined on input line 128.
+
+
+Package natbib Warning: Citation `evans_millers_2012' on page 36 undefined on input line 128.
+
+
+Package natbib Warning: Citation `lobprise_oral_2019' on page 36 undefined on input line 131.
+
+
+Package natbib Warning: Citation `evans_millers_2012' on page 36 undefined on input line 132.
 
 
 
 [36]
 
-Package natbib Warning: Citation `Junqueira' on page 37 undefined on input line 138.
+Package natbib Warning: Citation `evans_millers_2012' on page 37 undefined on input line 134.
 
 
-Overfull \hbox (5.9375pt too wide) in paragraph at lines 137--139
-\OT1/phv/m/n/12 reg-u-lando o pH da cavi-dade oral. Do ponto de vista imu-nit[]ario, cont[]em subst[]ancias
+Package natbib Warning: Citation `Mescher2018' on page 37 undefined on input line 146.
+
+
+Overfull \hbox (5.9375pt too wide) in paragraph at lines 145--147
+\OT1/phv/m/n/12 re-gu-lando o pH da ca-vi-dade oral. Do ponto de vista imu-nit[]ario, cont[]em subst[]ancias
  []
 
 
-Package natbib Warning: Citation `serial' on page 37 undefined on input line 141.
+Package natbib Warning: Citation `damian_serial_2018' on page 37 undefined on input line 149.
 
 
-Package natbib Warning: Citation `Pasha2018' on page 37 undefined on input line 141.
+Package natbib Warning: Citation `Pasha2018' on page 37 undefined on input line 149.
 
 
-Package natbib Warning: Citation `Pasha2018' on page 37 undefined on input line 141.
+Package natbib Warning: Citation `Pasha2018' on page 37 undefined on input line 149.
 
 
-Overfull \hbox (27.6969pt too wide) in paragraph at lines 141--142
-\OT1/phv/m/n/12 m[]etodo n[]ao in-va-sivo na dete[][]ao de biomar-cadores, como o cor-ti-sol, cuja concentra[][]ao
+Overfull \hbox (27.6969pt too wide) in paragraph at lines 149--150
+\OT1/phv/m/n/12 m[]etodo n[]ao in-va-sivo na dete[][]ao de bi-o-mar-ca-do-res, como o cor-ti-sol, cuja concentra[][]ao
  []
-
-
-Package natbib Warning: Citation `lemmons2018' on page 37 undefined on input line 147.
-
-
-Overfull \hbox (18.96814pt too wide) in paragraph at lines 147--148
-\OT1/phv/m/n/12 A saliva []e um flu-ido sero-mu-coso com-posto por uma com-plexa mis-tura de subst[]ancias
- []
-
-
-Package natbib Warning: Citation `textbookphysio' on page 37 undefined on input line 149.
 
 
 
 [37]
 
-Package natbib Warning: Citation `Poirier2018' on page 38 undefined on input line 161.
+Package natbib Warning: Citation `lobprise_oral_2019' on page 38 undefined on input line 155.
 
 
-Package natbib Warning: Citation `animals' on page 38 undefined on input line 161.
+Overfull \hbox (18.96814pt too wide) in paragraph at lines 155--156
+\OT1/phv/m/n/12 A sa-liva []e um fluido se-ro-mu-coso com-posto por uma com-plexa mis-tura de subst[]ancias
+ []
 
 
-Package natbib Warning: Citation `Poirier2018' on page 38 undefined on input line 165.
-
-
-Package natbib Warning: Citation `animals' on page 38 undefined on input line 165.
+Package natbib Warning: Citation `Das_Textbook' on page 38 undefined on input line 157.
 
 
 
 [38]
 
-Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 168.
+Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 169.
 
 
-Package natbib Warning: Citation `animals' on page 39 undefined on input line 168.
+Package natbib Warning: Citation `Bae2024' on page 39 undefined on input line 169.
 
 
-Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 168.
+Package natbib Warning: Citation `lobprise_oral_2019' on page 39 undefined on input line 169.
 
 
-Package natbib Warning: Citation `animals' on page 39 undefined on input line 168.
+Package natbib Warning: Citation `lobprise_oral_2019' on page 39 undefined on input line 170.
 
 
-Overfull \hbox (1.6522pt too wide) in paragraph at lines 168--169
-\OT1/phv/m/n/12 g[]anglio cer-vi-cal su-pe-rior ap[]os pas-sarem a cadeia cer-vi-cal simp[]atica. Estimula[][]ao
+Overfull \hbox (12.75111pt too wide) in paragraph at lines 169--171
+\OT1/phv/m/n/12 com pre-do-min[]ancia da com-po-nente pa-ras-simp[]atica. ([\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ] his-to-lo-gic [\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ],Singh2017)
  []
 
 
-Package natbib Warning: Citation `Cattai2016' on page 39 undefined on input line 171.
+Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 173.
 
 
-Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 171.
+Package natbib Warning: Citation `Bae2024' on page 39 undefined on input line 173.
 
 
-Package natbib Warning: Citation `animals' on page 39 undefined on input line 171.
+Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 176.
 
 
-Package natbib Warning: Citation `Trinka2023' on page 39 undefined on input line 182.
+Package natbib Warning: Citation `Bae2024' on page 39 undefined on input line 176.
 
 
-Package natbib Warning: Citation `Alcoverro2014' on page 39 undefined on input line 182.
+Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 176.
 
 
-Package natbib Warning: Citation `Ide2011' on page 39 undefined on input line 182.
+Package natbib Warning: Citation `Bae2024' on page 39 undefined on input line 176.
 
 
-Overfull \hbox (11.13667pt too wide) in paragraph at lines 182--183
-\OT1/phv/m/n/12 quente-mente ob-ser-vada em in-div[]^^Pduos com bu-limia, anorexia ner-vosa, malnutri[][]ao,
- []
+Package natbib Warning: Citation `lobprise_oral_2019' on page 39 undefined on input line 176.
+
+
+Package natbib Warning: Citation `Cattai2016' on page 39 undefined on input line 179.
+
+
+Package natbib Warning: Citation `Poirier2018' on page 39 undefined on input line 179.
+
+
+Package natbib Warning: Citation `Bae2024' on page 39 undefined on input line 179.
 
 
 
 [39]
 
-Package natbib Warning: Citation `Davis2021' on page 40 undefined on input line 185.
+Package natbib Warning: Citation `boydell_sialadenosis_2000' on page 40 undefined on input line 190.
 
 
-Package natbib Warning: Citation `Ihrler2010' on page 40 undefined on input line 185.
+Package natbib Warning: Citation `Trinka2023' on page 40 undefined on input line 190.
 
 
-Package natbib Warning: Citation `davis2021' on page 40 undefined on input line 185.
+Package natbib Warning: Citation `Alcoverro2014' on page 40 undefined on input line 190.
 
 
-Package natbib Warning: Citation `Ihrler2010' on page 40 undefined on input line 185.
+Package natbib Warning: Citation `Ide2011' on page 40 undefined on input line 190.
 
 
-Overfull \hbox (6.33347pt too wide) in paragraph at lines 185--186
-\OT1/phv/m/n/12 com in-div[]^^Pduos saud[]aveis. ([\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ], patog[]enese) A contra[][]ao das c[]elulas mioepiteliais
- []
+Package natbib Warning: Citation `Davis2021' on page 40 undefined on input line 193.
 
 
-Package natbib Warning: Citation `Alcoverro2014' on page 40 undefined on input line 189.
+Package natbib Warning: Citation `Ihrler2010' on page 40 undefined on input line 193.
 
 
-Package natbib Warning: Citation `fvets-09' on page 40 undefined on input line 196.
+Package natbib Warning: Citation `Davis2021' on page 40 undefined on input line 193.
 
 
-Package natbib Warning: Citation `1-s2' on page 40 undefined on input line 197.
-
-
-Package natbib Warning: Citation `Packer2015' on page 40 undefined on input line 197.
-
-
-Package natbib Warning: Citation `fvets-09' on page 40 undefined on input line 197.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Ihrler2010' on page 40 undefined on input line 193.
 
 
 
 [40]
 
-Package natbib Warning: Citation `Packer2015' on page 41 undefined on input line 203.
+Package natbib Warning: Citation `Alcoverro2014' on page 41 undefined on input line 197.
 
 
-Package natbib Warning: Citation `fvets-09' on page 41 undefined on input line 207.
+Package natbib Warning: Citation `loscher_dogs_2022' on page 41 undefined on input line 204.
 
 
-Overfull \hbox (31.4332pt too wide) in paragraph at lines 207--209
-[]\OT1/phv/m/n/12 Num es-tudo ret-ro-spetivo en-vol-vendo 900 c[]aes sub-meti-dos a res-son[]ancia magn[]etica
- []
+Package natbib Warning: Citation `von_ruden_role_2023' on page 41 undefined on input line 205.
 
 
-Package natbib Warning: Citation `Packer2015' on page 41 undefined on input line 211.
+Package natbib Warning: Citation `Packer2015' on page 41 undefined on input line 205.
+
+
+Package natbib Warning: Citation `loscher_dogs_2022' on page 41 undefined on input line 205.
 
 
 
 [41]
 
-Package natbib Warning: Citation `Kalayanakoul2019' on page 42 undefined on input line 216.
+Package natbib Warning: Citation `Packer2015' on page 42 undefined on input line 211.
 
 
-Package natbib Warning: Citation `alemao' on page 42 undefined on input line 216.
+Package natbib Warning: Citation `loscher_dogs_2022' on page 42 undefined on input line 215.
 
 
-Package natbib Warning: Citation `alemao' on page 42 undefined on input line 216.
-
-
-Package natbib Warning: Citation `alemao' on page 42 undefined on input line 216.
-
-
-Package natbib Warning: Citation `alemao' on page 42 undefined on input line 216.
-
-
-Package natbib Warning: Citation `Bandusena2022' on page 42 undefined on input line 216.
-
-
-Overfull \hbox (19.2435pt too wide) in paragraph at lines 216--217
-\OT1/phv/m/n/12 sialoadenose re-spon-siva a feno-bar-bi-tal (SRF) em c[]aes rep-re-sente uma manifesta[][]ao
+Overfull \hbox (31.4332pt too wide) in paragraph at lines 215--217
+[]\OT1/phv/m/n/12 Num es-tudo re-tros-pe-tivo en-vol-vendo 900 c[]aes sub-me-ti-dos a res-son[]ancia magn[]etica
  []
 
 
-Package natbib Warning: Citation `Diop2025' on page 42 undefined on input line 219.
+Package natbib Warning: Citation `Packer2015' on page 42 undefined on input line 219.
 
 
-Overfull \hbox (2.19258pt too wide) in paragraph at lines 219--220
-\OT1/phv/m/n/12 vuls[]oes au-ton[]omicas com manifesta[][]oes gas-troin-testi-nais (como []ansia de v[]omito,
+Package natbib Warning: Citation `Kalayanakoul2019' on page 42 undefined on input line 224.
+
+
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 42 undefined on input line 224.
+
+
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 42 undefined on input line 224.
+
+
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 42 undefined on input line 224.
+
+
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 42 undefined on input line 224.
+
+
+Package natbib Warning: Citation `Bandusena2022' on page 42 undefined on input line 224.
+
+
+Overfull \hbox (10.57954pt too wide) in paragraph at lines 224--225
+\OT1/phv/m/n/12 a-lo-a-de-nose res-pon-siva a fe-no-bar-bi-tal (SRF) em c[]aes re-pre-sente uma manifesta[][]ao
  []
 
 
-Overfull \hbox (24.87129pt too wide) in paragraph at lines 219--220
-\OT1/phv/m/n/12 sialor-reia, n[]ausea, v[]omito, de-scon-forto ab-dom-i-nal, bor-borig-mos e di-ar-reia), altera[][]oes
+Package natbib Warning: Citation `Diop2025' on page 42 undefined on input line 227.
+
+
+Overfull \hbox (2.19258pt too wide) in paragraph at lines 227--228
+\OT1/phv/m/n/12 vuls[]oes au-ton[]omicas com manifesta[][]oes gas-tro-in-tes-ti-nais (como []ansia de v[]omito,
  []
 
 
-Package natbib Warning: Citation `Diop2025' on page 42 undefined on input line 225.
-
-
-Package natbib Warning: Citation `alemao' on page 42 undefined on input line 226.
-
-
-Package natbib Warning: Citation `alemao' on page 42 undefined on input line 226.
-
-
-Package natbib Warning: Citation `Alcoverro2014' on page 42 undefined on input line 227.
-
-
-Package natbib Warning: Citation `alemao' on page 42 undefined on input line 227.
-
-
-Package natbib Warning: Citation `Alcoverro2014' on page 42 undefined on input line 227.
+Overfull \hbox (24.87129pt too wide) in paragraph at lines 227--228
+\OT1/phv/m/n/12 si-a-lor-reia, n[]ausea, v[]omito, des-con-forto ab-do-mi-nal, bor-bo-rig-mos e di-ar-reia), altera[][]oes
+ []
 
 
 
 [42]
 
-Package natbib Warning: Citation `papich' on page 43 undefined on input line 230.
+Package natbib Warning: Citation `Diop2025' on page 43 undefined on input line 233.
 
 
-Package natbib Warning: Citation `scott2021' on page 43 undefined on input line 230.
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 43 undefined on input line 234.
 
 
-Package natbib Warning: Citation `papich' on page 43 undefined on input line 230.
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 43 undefined on input line 234.
 
 
-Package natbib Warning: Citation `Trinka2023' on page 43 undefined on input line 230.
+Package natbib Warning: Citation `Alcoverro2014' on page 43 undefined on input line 235.
 
 
-Package natbib Warning: Citation `alemao' on page 43 undefined on input line 230.
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 43 undefined on input line 235.
 
 
-Package natbib Warning: Citation `alemao' on page 43 undefined on input line 230.
+Package natbib Warning: Citation `Alcoverro2014' on page 43 undefined on input line 235.
 
 
-Package natbib Warning: Citation `Swieton2022' on page 43 undefined on input line 233.
+Package natbib Warning: Citation `Papich2021' on page 43 undefined on input line 238.
 
 
-Package natbib Warning: Citation `Kalayanakoul2019' on page 43 undefined on input line 233.
+Package natbib Warning: Citation `Scott2021' on page 43 undefined on input line 238.
 
 
-Package natbib Warning: Citation `alemao' on page 43 undefined on input line 234.
+Package natbib Warning: Citation `Papich2021' on page 43 undefined on input line 238.
 
 
-Package natbib Warning: Citation `Park2022' on page 43 undefined on input line 239.
+Package natbib Warning: Citation `Trinka2023' on page 43 undefined on input line 238.
 
 
-Overfull \hbox (7.04266pt too wide) in paragraph at lines 239--240
-\OT1/phv/m/n/12 lat-eral das gl[]andulas sali-vares, es-pe-cial-mente as gl[]andulas mandibu-lares. (BSAVA
- []
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 43 undefined on input line 238.
 
 
-Overfull \hbox (7.30194pt too wide) in paragraph at lines 239--240
-\OT1/phv/m/n/12 ismo/sialorreia, \OT1/phv/m/sl/12 lip smack-ing\OT1/phv/m/n/12 , perda de peso, hipor-rexia ou anorexia, v[]omito cr[]onico
- []
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 43 undefined on input line 238.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3514) has occurred while \output is active []
 
 
 
 [43]
-Overfull \hbox (6.0057pt too wide) in paragraph at lines 246--247
-\OT1/phv/m/n/12 difer-en-ci-ais in-cluem sialo-cele, sialoadenose, siaload-en-ite, sialometa-pla-sia, infe[][]ao
- []
+
+Package natbib Warning: Citation `Swieton2022' on page 44 undefined on input line 241.
+
+
+Package natbib Warning: Citation `Kalayanakoul2019' on page 44 undefined on input line 241.
+
+
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 44 undefined on input line 242.
+
+
+Package natbib Warning: Citation `bsava_2020_gastro' on page 44 undefined on input line 247.
+
+
+Package natbib Warning: Citation `Park2022' on page 44 undefined on input line 247.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [44]
 
-Package natbib Warning: Citation `Ptyalism' on page 45 undefined on input line 258.
+Package natbib Warning: Citation `bsava_2020_gastro' on page 45 undefined on input line 263.
 
 
-Package natbib Warning: Citation `Ptyalism' on page 45 undefined on input line 258.
+Package natbib Warning: Citation `_canine_gastro_2013' on page 45 undefined on input line 266.
 
 
-Overfull \hbox (13.50475pt too wide) in paragraph at lines 258--259
-[]\OT1/phv/m/n/12 O ptial-ismo e o pseu-dop-tial-ismo po-dem ter in[]umeras poss[]^^Pveis causas poss[]^^Pveis,
+Package natbib Warning: Citation `_canine_gastro_2013' on page 45 undefined on input line 266.
+
+
+Package natbib Warning: Citation `Kook2013' on page 45 undefined on input line 266.
+
+
+Package natbib Warning: Citation `Kook2013' on page 45 undefined on input line 266.
+
+
+Overfull \hbox (13.50475pt too wide) in paragraph at lines 266--267
+[]\OT1/phv/m/n/12 O pti-a-lismo e o pseu-dop-ti-a-lismo po-dem ter in[]umeras poss[]^^Pveis cau-sas poss[]^^Pveis,
  []
 
 
-Overfull \hbox (12.31639pt too wide) in paragraph at lines 261--262
-[]\OT1/phv/m/n/12 O ptial-ismo ver-dadeiro []e fre-quente-mente ob-ser-vado em associa[][]ao com n[]ausea
+Overfull \hbox (22.51793pt too wide) in paragraph at lines 266--267
+\OT1/phv/m/n/12 dist[]urbios me-tab[]olicos, infe[][]oes, doen[]as au-to-i-mu-nes, cau-sas cong[]enitas, altera[][]oes
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 264.
-(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1phv.fd
+
+Package natbib Warning: Citation `ettinger_textbook_2010' on page 45 undefined on input line 269.
+
+
+Overfull \hbox (12.31639pt too wide) in paragraph at lines 269--270
+[]\OT1/phv/m/n/12 O pti-a-lismo ver-da-deiro []e fre-quen-te-mente ob-ser-vado em associa[][]ao com n[]ausea
+ []
+
+
+
+[45]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 272.
+ (C:\Program Files\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 
-[45]
-
-Package natbib Warning: Citation `VomitingReview' on page 46 undefined on input line 282.
+Package natbib Warning: Citation `ettinger_textbook_2010' on page 46 undefined on input line 273.
 
 
-Package natbib Warning: Citation `Elwood2010' on page 46 undefined on input line 282.
+Package natbib Warning: Citation `Das_Textbook' on page 46 undefined on input line 287.
 
 
-Package natbib Warning: Citation `McGrotty2010' on page 46 undefined on input line 282.
-
-
-Package natbib Warning: Citation `Elwood2010' on page 46 undefined on input line 285.
-
-
-Package natbib Warning: Citation `Elwood2010' on page 46 undefined on input line 285.
-
-
-Package natbib Warning: Citation `Elwood2010' on page 46 undefined on input line 285.
+Package natbib Warning: Citation `Das_Textbook' on page 46 undefined on input line 287.
 
 
 
 [46]
 
-Package natbib Warning: Citation `Elwood2010' on page 47 undefined on input line 288.
+Package natbib Warning: Citation `Das_Textbook' on page 47 undefined on input line 290.
 
 
-Package natbib Warning: Citation `Delaney2006' on page 47 undefined on input line 299.
+Package natbib Warning: Citation `bsava_2020_gastro' on page 47 undefined on input line 290.
+
+
+Package natbib Warning: Citation `Dixit2022' on page 47 undefined on input line 290.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 47 undefined on input line 290.
+
+
+Package natbib Warning: Citation `McGrotty2010' on page 47 undefined on input line 290.
+
+
+Package natbib Warning: Citation `Das_Textbook' on page 47 undefined on input line 290.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 47 undefined on input line 293.
+
+
+Package natbib Warning: Citation `Das_Textbook' on page 47 undefined on input line 293.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 47 undefined on input line 293.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 47 undefined on input line 293.
+
+
+Package natbib Warning: Citation `Elwood2010' on page 47 undefined on input line 296.
+
+
+Package natbib Warning: Citation `Das_Textbook' on page 47 undefined on input line 296.
+
+
+Package natbib Warning: Citation `bsava_2020_gastro' on page 47 undefined on input line 301.
+
+
+Package natbib Warning: Citation `_canine_gastro_2013' on page 47 undefined on input line 301.
+
+
+Package natbib Warning: Citation `_canine_gastro_2013' on page 47 undefined on input line 301.
+
+
+Package natbib Warning: Citation `bsava_2020_gastro' on page 47 undefined on input line 301.
+
+
+Package natbib Warning: Citation `_canine_gastro_2013' on page 47 undefined on input line 302.
+
+
+Package natbib Warning: Citation `_canine_gastro_2013' on page 47 undefined on input line 302.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [47]
 
-Package natbib Warning: Citation `Han2016' on page 48 undefined on input line 311.
+Package natbib Warning: Citation `Delaney2006' on page 48 undefined on input line 307.
 
 
-Overfull \hbox (13.67241pt too wide) in paragraph at lines 332--332
- []\OT1/phv/m/n/12 Hipoadrenocorticismo 
- []
+Package natbib Warning: Citation `_canine_gastro_2013' on page 48 undefined on input line 308.
 
 
-Overfull \hbox (13.67241pt too wide) in paragraph at lines 332--332
- []\OT1/phv/m/n/12 Hipoadrenocorticismo 
- []
+Package natbib Warning: Citation `_canine_gastro_2013' on page 48 undefined on input line 308.
 
 
-Overfull \hbox (13.67241pt too wide) in paragraph at lines 332--332
- []\OT1/phv/m/n/12 Hipoadrenocorticismo 
- []
+Package natbib Warning: Citation `_canine_gastro_2013' on page 48 undefined on input line 309.
 
 
-Overfull \hbox (6.03487pt too wide) in paragraph at lines 335--339
-\OT1/phv/m/n/12 neu-rol[]ogica ou sist[]emica. Nestes ca-sos, []e in-dis-pens[]avel re-alizar uma investiga[][]ao
- []
+Package natbib Warning: Citation `_canine_gastro_2013' on page 48 undefined on input line 312.
 
 
 
 [48]
 
-Package natbib Warning: Citation `Han2016' on page 49 undefined on input line 345.
+Package natbib Warning: Citation `Han2016' on page 49 undefined on input line 319.
 
 
-Overfull \hbox (44.33803pt too wide) in paragraph at lines 345--346
-\OT1/phv/m/n/12 do es[]ofago) at-uam di-re-ta-mente so-bre os n[]ucleos sali-vat[]orios, re-sul-tando na intensifica[][]ao
+Overfull \hbox (13.67241pt too wide) in paragraph at lines 340--340
+ []\OT1/phv/m/n/12 Hipoadrenocorticismo 
  []
+
+
+Overfull \hbox (13.67241pt too wide) in paragraph at lines 340--340
+ []\OT1/phv/m/n/12 Hipoadrenocorticismo 
+ []
+
+
+Overfull \hbox (13.67241pt too wide) in paragraph at lines 340--340
+ []\OT1/phv/m/n/12 Hipoadrenocorticismo 
+ []
+
+
+Package natbib Warning: Citation `ettinger_textbook_2010' on page 49 undefined on input line 343.
+
+
+Package natbib Warning: Citation `ettinger_textbook_2010' on page 49 undefined on input line 344.
+
+
+Package natbib Warning: Citation `ettinger_textbook_2010' on page 49 undefined on input line 346.
 
 
 
 [49]
 
-Package natbib Warning: Citation `10.111' on page 50 undefined on input line 348.
+Package natbib Warning: Citation `Han2016' on page 50 undefined on input line 353.
 
 
-Overfull \hbox (7.41388pt too wide) in paragraph at lines 348--349
-[]\OT1/phv/m/n/12 Nestes ca-sos, o trata-mento da doen[]a esof[]agica []e de priv-i-le-giar, com descri[][]ao
+Overfull \hbox (44.33803pt too wide) in paragraph at lines 353--354
+\OT1/phv/m/n/12 do es[]ofago) atuam di-re-ta-mente so-bre os n[]ucleos sa-li-vat[]orios, re-sul-tando na intensifica[][]ao
  []
 
 
-Package natbib Warning: Citation `de2020' on page 50 undefined on input line 354.
+Package natbib Warning: Citation `Walton-Clark2022' on page 50 undefined on input line 356.
 
 
-Package natbib Warning: Citation `Cinti2021' on page 50 undefined on input line 354.
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 50 undefined on input line 356.
 
 
-Package natbib Warning: Citation `Olimpo2023' on page 50 undefined on input line 354.
+Overfull \hbox (7.41388pt too wide) in paragraph at lines 356--357
+[]\OT1/phv/m/n/12 Nestes ca-sos, o tra-ta-mento da doen[]a esof[]agica []e de pri-vi-le-giar, com descri[][]ao
+ []
 
 
-Package natbib Warning: Citation `vetrecord' on page 50 undefined on input line 354.
+Package natbib Warning: Citation `deLaPuerta2020' on page 50 undefined on input line 362.
 
 
-Package natbib Warning: Citation `rfeu' on page 50 undefined on input line 354.
+Package natbib Warning: Citation `Cinti2021' on page 50 undefined on input line 362.
 
 
-Package natbib Warning: Citation `animals' on page 50 undefined on input line 354.
+Package natbib Warning: Citation `Olimpo2023' on page 50 undefined on input line 362.
 
 
-Package natbib Warning: Citation `sa_' on page 50 undefined on input line 354.
+Package natbib Warning: Citation `Zadeh2025' on page 50 undefined on input line 362.
 
 
-Package natbib Warning: Citation `animals' on page 50 undefined on input line 357.
+Package natbib Warning: Citation `rfeu' on page 50 undefined on input line 362.
 
 
-Package natbib Warning: Citation `Kumar2017' on page 50 undefined on input line 357.
+Package natbib Warning: Citation `Bae2024' on page 50 undefined on input line 362.
 
 
-Package natbib Warning: Citation `de2020' on page 50 undefined on input line 357.
+Package natbib Warning: Citation `sa_' on page 50 undefined on input line 362.
 
 
-Package natbib Warning: Citation `Olimpo2023' on page 50 undefined on input line 357.
-
-
-Package natbib Warning: Citation `Cinti2021' on page 50 undefined on input line 357.
-
-
-Package natbib Warning: Citation `animals' on page 50 undefined on input line 357.
-
-
-Package natbib Warning: Citation `Poirier2018' on page 50 undefined on input line 360.
-
-
-Package natbib Warning: Citation `Cinti2021' on page 50 undefined on input line 360.
-
-
-Package natbib Warning: Citation `sa_' on page 50 undefined on input line 360.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [50]
 
-Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 364.
+Package natbib Warning: Citation `Bae2024' on page 51 undefined on input line 365.
 
 
-Package natbib Warning: Citation `de2020' on page 51 undefined on input line 364.
+Package natbib Warning: Citation `Kumar2017' on page 51 undefined on input line 365.
 
 
-Package natbib Warning: Citation `sa_' on page 51 undefined on input line 364.
+Package natbib Warning: Citation `deLaPuerta2020' on page 51 undefined on input line 365.
 
 
-Package natbib Warning: Citation `sa_' on page 51 undefined on input line 364.
+Package natbib Warning: Citation `Olimpo2023' on page 51 undefined on input line 365.
 
 
-Package natbib Warning: Citation `sa_' on page 51 undefined on input line 364.
+Package natbib Warning: Citation `Cinti2021' on page 51 undefined on input line 365.
 
 
-Package natbib Warning: Citation `Swieton2022' on page 51 undefined on input line 364.
-
-
-Package natbib Warning: Citation `animals' on page 51 undefined on input line 368.
-
-
-Package natbib Warning: Citation `sa_' on page 51 undefined on input line 368.
-
-
-Package natbib Warning: Citation `Olimpo2023' on page 51 undefined on input line 368.
-
-
-Package natbib Warning: Citation `de2020' on page 51 undefined on input line 368.
-
-
-Package natbib Warning: Citation `Kumar2017' on page 51 undefined on input line 368.
+Package natbib Warning: Citation `Bae2024' on page 51 undefined on input line 365.
 
 
 Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 368.
 
 
-Package natbib Warning: Citation `Olimpo2023' on page 51 undefined on input line 368.
+Package natbib Warning: Citation `Cinti2021' on page 51 undefined on input line 368.
+
+
+Package natbib Warning: Citation `sa_' on page 51 undefined on input line 368.
 
 
 Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 372.
+
+
+Package natbib Warning: Citation `deLaPuerta2020' on page 51 undefined on input line 372.
+
+
+Package natbib Warning: Citation `sa_' on page 51 undefined on input line 372.
+
+
+Package natbib Warning: Citation `sa_' on page 51 undefined on input line 372.
+
+
+Package natbib Warning: Citation `sa_' on page 51 undefined on input line 372.
 
 
 Package natbib Warning: Citation `Swieton2022' on page 51 undefined on input line 372.
-
-
-Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 372.
-
-
-Package natbib Warning: Citation `Swieton2022' on page 51 undefined on input line 372.
-
-
-Package natbib Warning: Citation `Poirier2018' on page 51 undefined on input line 372.
 
 
 
 [51]
 
-Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Bae2024' on page 52 undefined on input line 376.
 
 
-Package natbib Warning: Citation `supurativa' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `sa_' on page 52 undefined on input line 376.
 
 
-Package natbib Warning: Citation `11cases' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Olimpo2023' on page 52 undefined on input line 376.
 
 
-Package natbib Warning: Citation `sialadenite' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `deLaPuerta2020' on page 52 undefined on input line 376.
 
 
-Package natbib Warning: Citation `McGill2009' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Kumar2017' on page 52 undefined on input line 376.
 
 
-Package natbib Warning: Citation `Kumar2017' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Poirier2018' on page 52 undefined on input line 376.
 
 
-Package natbib Warning: Citation `11cases' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Olimpo2023' on page 52 undefined on input line 376.
 
 
-Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Poirier2018' on page 52 undefined on input line 380.
 
 
-Package natbib Warning: Citation `sialadenite' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Swieton2022' on page 52 undefined on input line 380.
 
 
-Package natbib Warning: Citation `Martinez2018' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Poirier2018' on page 52 undefined on input line 380.
 
 
-Package natbib Warning: Citation `Park2022' on page 52 undefined on input line 378.
+Package natbib Warning: Citation `Swieton2022' on page 52 undefined on input line 380.
 
 
-Package natbib Warning: Citation `McGill2009' on page 52 undefined on input line 380.
+Package natbib Warning: Citation `Poirier2018' on page 52 undefined on input line 380.
 
 
-Package natbib Warning: Citation `11cases' on page 52 undefined on input line 380.
+Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 386.
 
 
-Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 382.
+Package natbib Warning: Citation `supurativa' on page 52 undefined on input line 386.
 
 
-Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 382.
+Package natbib Warning: Citation `11cases' on page 52 undefined on input line 386.
 
 
-Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 382.
+Package natbib Warning: Citation `sialadenite' on page 52 undefined on input line 386.
+
+
+Package natbib Warning: Citation `McGill2009' on page 52 undefined on input line 386.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 52 undefined on input line 386.
+
+
+Package natbib Warning: Citation `11cases' on page 52 undefined on input line 386.
+
+
+Package natbib Warning: Citation `Enache2025' on page 52 undefined on input line 386.
+
+
+Package natbib Warning: Citation `sialadenite' on page 52 undefined on input line 386.
+
+
+Package natbib Warning: Citation `Martinez2018' on page 52 undefined on input line 386.
+
+
+Package natbib Warning: Citation `Park2022' on page 52 undefined on input line 386.
 
 
 
 [52]
 
-Package natbib Warning: Citation `Park2022' on page 53 undefined on input line 386.
+Package natbib Warning: Citation `McGill2009' on page 53 undefined on input line 388.
 
 
-Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 386.
+Package natbib Warning: Citation `11cases' on page 53 undefined on input line 388.
 
 
-Package natbib Warning: Citation `sialadenite' on page 53 undefined on input line 386.
+Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 390.
 
 
-Package natbib Warning: Citation `Park2022' on page 53 undefined on input line 386.
+Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 390.
 
 
-Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 386.
+Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 390.
 
 
-Package natbib Warning: Citation `Martinez2018' on page 53 undefined on input line 386.
+Package natbib Warning: Citation `Park2022' on page 53 undefined on input line 394.
 
 
-Package natbib Warning: Citation `sialadenite' on page 53 undefined on input line 389.
+Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 394.
 
 
-Package natbib Warning: Citation `Kumar2017' on page 53 undefined on input line 390.
+Package natbib Warning: Citation `sialadenite' on page 53 undefined on input line 394.
 
 
-Package natbib Warning: Citation `Park2022' on page 53 undefined on input line 390.
+Package natbib Warning: Citation `Park2022' on page 53 undefined on input line 394.
 
 
-Package natbib Warning: Citation `Almeida2010' on page 53 undefined on input line 397.
+Package natbib Warning: Citation `Enache2025' on page 53 undefined on input line 394.
 
 
-Package natbib Warning: Citation `Oshikata2006' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `tsobrev' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `campos2019' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `Cray2020' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `de2020' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `Almeida2010' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `Oshikata2006' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `tsobrev' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `campos2019' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `Cray2020' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `de2020' on page 53 undefined on input line 397.
-
-
-Package natbib Warning: Citation `Cray2020' on page 53 undefined on input line 397.
+Package natbib Warning: Citation `Martinez2018' on page 53 undefined on input line 394.
 
 
 
 [53]
 
-Package natbib Warning: Citation `Oshikata2006' on page 54 undefined on input line 400.
+Package natbib Warning: Citation `sialadenite' on page 54 undefined on input line 397.
 
 
-Package natbib Warning: Citation `Cray2020' on page 54 undefined on input line 400.
+Package natbib Warning: Citation `Kumar2017' on page 54 undefined on input line 398.
 
 
-Package natbib Warning: Citation `de2020' on page 54 undefined on input line 400.
+Package natbib Warning: Citation `Park2022' on page 54 undefined on input line 398.
 
 
-Overfull \hbox (29.7067pt too wide) in paragraph at lines 400--401
+Package natbib Warning: Citation `Almeida2010' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Oshikata2006' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Hammer2001' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `campos2019' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Cray2020' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `deLaPuerta2020' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Almeida2010' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Oshikata2006' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Hammer2001' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `campos2019' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Cray2020' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `deLaPuerta2020' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Cray2020' on page 54 undefined on input line 405.
+
+
+Package natbib Warning: Citation `Oshikata2006' on page 54 undefined on input line 408.
+
+
+Package natbib Warning: Citation `Cray2020' on page 54 undefined on input line 408.
+
+
+Package natbib Warning: Citation `deLaPuerta2020' on page 54 undefined on input line 408.
+
+
+Overfull \hbox (29.7067pt too wide) in paragraph at lines 408--409
 []\OT1/phv/m/n/12 A gl[]andula par[]otida []e a mais afe-tada em c[]aes, com uma tend[]encia de predisposi[][]ao
  []
-
-
-Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 409.
-
-
-Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 415.
-
-
-Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 415.
-
-
-Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 415.
-
-
-Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 417.
-
-
-Package natbib Warning: Citation `Han2016' on page 54 undefined on input line 419.
-
-
-Package natbib Warning: Citation `tsobrev' on page 54 undefined on input line 419.
-
-
-Package natbib Warning: Citation `Dobson2011' on page 54 undefined on input line 419.
-
-
-
-[54]
-
-Package natbib Warning: Citation `tsobrev' on page 55 undefined on input line 422.
-
-
-Package natbib Warning: Citation `Mukaratirwa2015' on page 55 undefined on input line 428.
-
-
-Overfull \hbox (26.54256pt too wide) in paragraph at lines 428--429
-\OT1/phv/m/n/12 sali-vares, car-ac-ter-i-zada his-to-logi-ca-mente por necrose isqu[]emica lob-u-lar das gl[]andulas
- []
-
-
-Underfull \vbox (badness 3514) has occurred while \output is active []
-
-
-
-[55]
-
-Package natbib Warning: Citation `Han2016' on page 56 undefined on input line 431.
-
-
-Package natbib Warning: Citation `cvj' on page 56 undefined on input line 431.
-
-
-Package natbib Warning: Citation `schoroeder' on page 56 undefined on input line 431.
-
-
-Overfull \hbox (32.50684pt too wide) in paragraph at lines 431--432
-\OT1/phv/m/n/12 condi[][]ao acomete usual-mente as gl[]andulas mandibu-lares, as-sim como a sialoadenose,
- []
-
-
-Overfull \hbox (5.32458pt too wide) in paragraph at lines 431--432
-\OT1/phv/m/n/12 cor-rela-cionada a anoma-lias do nervo vago e est[]a as-so-ci-ada a condi[][]oes e afe[][]oes
- []
-
-
-Package natbib Warning: Citation `Mukaratirwa2015' on page 56 undefined on input line 437.
-
-
-Overfull \hbox (2.03375pt too wide) in paragraph at lines 437--438
-\OT1/phv/m/n/12 regurgita[][]ao, ptial-ismo, es-ta-lar dos l[]abios (\OT1/phv/m/sl/12 lip smack-ing\OT1/phv/m/n/12 ), perda de peso, anorexia,
- []
-
-
-Overfull \hbox (0.82674pt too wide) in paragraph at lines 443--444
-\OT1/phv/m/n/12 RM e TC, de-vem ser con-sid-er-adas, as-sim como a avalia[][]ao citol[]ogica da gl[]andula
- []
-
-
-Package natbib Warning: Citation `schoroeder' on page 56 undefined on input line 446.
-
-
-Package natbib Warning: Citation `Mukaratirwa2015' on page 56 undefined on input line 446.
-
-
-Overfull \hbox (21.30537pt too wide) in paragraph at lines 446--447
-[]\OT1/phv/m/n/12 Deve ser con-sid-er-ada a realiza[][]ao de ra-dio-grafia tor[]acica e en-do-scopia esof[]agica,
- []
-
-
-Overfull \hbox (10.61862pt too wide) in paragraph at lines 446--447
-\OT1/phv/m/n/12 ap-re-sente um com-por-ta-mento be-nigno em pa-cientes hu-manos e c[]aes, a ocorr[]encia
- []
-
-
-
-[56]
-
-Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 452.
-
-
-Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 452.
-
-
-Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 452.
-
-
-Package natbib Warning: Citation `cvj' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `Ryan2008' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `cvj' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `cvj' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `Ryan2008' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 460.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 461.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 464.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 470.
-
-
-Package natbib Warning: Citation `cvj' on page 57 undefined on input line 470.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 470.
-
-
-Package natbib Warning: Citation `Kumar2017' on page 57 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 477.
-
-
-Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 477.
-
-
-Package natbib Warning: Citation `cvj' on page 57 undefined on input line 477.
-
-
-
-[57]
-
-Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 483.
-
-
-Package natbib Warning: Citation `Ryan2008' on page 58 undefined on input line 483.
-
-
-Package natbib Warning: Citation `cvj' on page 58 undefined on input line 483.
-
-
-Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 483.
-
-
-Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 484.
-
-
-Overfull \hbox (6.98286pt too wide) in paragraph at lines 483--486
-\OT1/phv/m/n/12 geral-mente efi-caz, ap-re-sen-tando baixa taxa de recorr[]encia e pou-cas complica[][]oes
- []
-
-
-Package natbib Warning: Citation `Leib2010' on page 58 undefined on input line 497.
-
-
-Package natbib Warning: Citation `Leib2010' on page 58 undefined on input line 497.
-
-
-
-[58]
-Overfull \hbox (15.92015pt too wide) in paragraph at lines 506--507
-[]\OT1/phv/m/n/12 Para este pro-cesso, []e essen-cial recor-rer aos seguintes ex-ames com-ple-mentares:
- []
-
-
-Overfull \hbox (8.80385pt too wide) in paragraph at lines 506--507
-\OT1/phv/m/n/12 dom-i-nal e teste de estimula[][]ao da hor-mona adreno-cor-ti-cotr[]ofica (teste estimula[][]ao
- []
-
-
-
-[59]
-
-Package natbib Warning: Citation `Kovarikova2015' on page 60 undefined on input line 519.
-
-
-Package natbib Warning: Citation `Gori2020' on page 60 undefined on input line 522.
-
-
-Package natbib Warning: Citation `sdma' on page 60 undefined on input line 522.
-
-
-Overfull \hbox (4.14775pt too wide) in paragraph at lines 522--523
-[]\OT1/phv/m/n/12 Nessa per-spetiva, torna-se rev-e-lante con-sid-erar mar-cadores al-ter-na-tivos como
- []
-
-
-Overfull \hbox (0.94261pt too wide) in paragraph at lines 534--535
-[]\OT1/phv/m/n/12 As en-z-i-mas ALP e GGT s[]ao con-sid-er-adas mar-cadores de colestase, re-fletindo
- []
-
-
-Overfull \hbox (4.17232pt too wide) in paragraph at lines 534--535
-\OT1/phv/m/n/12 sentes na mem-brana canalic-u-lar dos hepat[]ocitos e s[]ao fun-da-men-tais na avalia[][]ao
- []
-
-
-
-[60]
-
-Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 541.
-
-
-Package natbib Warning: Citation `Kumar2017' on page 61 undefined on input line 541.
-
-
-Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 541.
-
-
-Package natbib Warning: Citation `Yadav2020' on page 61 undefined on input line 541.
-
-
-Package natbib Warning: Citation `Reine2005' on page 61 undefined on input line 541.
-
-
-Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 541.
-
-
-Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 544.
-
-
-Package natbib Warning: Citation `Parrah2013' on page 61 undefined on input line 547.
-
-
-Package natbib Warning: Citation `Reine2005' on page 61 undefined on input line 548.
-
-
-Overfull \hbox (16.66139pt too wide) in paragraph at lines 547--549
-[]\OT1/phv/m/n/12 Este ex-ame per-mite iden-ti-ficar altera[][]oes com-pat[]^^Pveis com doen[]as metab[]olicas,
- []
-
-
-Package natbib Warning: Citation `Kim2024' on page 61 undefined on input line 553.
-
-
-Package natbib Warning: Citation `Lim2022' on page 61 undefined on input line 553.
-
-
-Package natbib Warning: Citation `Lim2022' on page 61 undefined on input line 553.
-
-
-Overfull \hbox (8.78969pt too wide) in paragraph at lines 553--554
-[]\OT1/phv/m/n/12 Lipase pan-cre[]atica can-ina []e con-sid-er-ada um dos biomar-cadores mais sens[]^^Pveis
- []
-
-
-Overfull \hbox (5.35037pt too wide) in paragraph at lines 553--554
-\OT1/phv/m/n/12 restante 1% difunde-se pela mem-brana ba-so-lat-eral das c[]elulas acinares, atingindo
- []
-
-
-Package natbib Warning: Citation `Lim2022' on page 61 undefined on input line 556.
-
-
-Overfull \hbox (2.01424pt too wide) in paragraph at lines 556--558
-[]\OT1/phv/m/n/12 Durante pro-ces-sos in-fla-mat[]orios pan-cre[]aticos, como a pan-cre-atite, a secre[][]ao
- []
-
-
-Overfull \hbox (15.5129pt too wide) in paragraph at lines 556--558
-\OT1/phv/m/n/12 mecan-ismo ex-plica os n[]^^Pveis s[]ericos au-men-ta-dos de l[]^^Ppase em c[]aes com inflama[][]ao
- []
-
-
-
-[61]
-
-Package natbib Warning: Citation `Cridge2021' on page 62 undefined on input line 560.
-
-
-Package natbib Warning: Citation `Kim2024' on page 62 undefined on input line 560.
-
-
-Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 560.
-
-
-Package natbib Warning: Citation `Cridge2021' on page 62 undefined on input line 563.
-
-
-Package natbib Warning: Citation `Kim2024' on page 62 undefined on input line 563.
-
-
-Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 563.
-
-
-Package natbib Warning: Citation `Liu2025' on page 62 undefined on input line 563.
-
-
-Package natbib Warning: Citation `s40' on page 62 undefined on input line 569.
-
-
-Package natbib Warning: Citation `Wakayama2017' on page 62 undefined on input line 569.
-
-
-Package natbib Warning: Citation `Botsford2018' on page 62 undefined on input line 569.
-
-
-Package natbib Warning: Citation `Spence2018' on page 62 undefined on input line 569.
-
-
-Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 569.
-
-
-Package natbib Warning: Citation `s40' on page 62 undefined on input line 572.
-
-
-Package natbib Warning: Citation `Wakayama2017' on page 62 undefined on input line 572.
-
-
-Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 572.
-
-
-Package natbib Warning: Citation `Botsford2018' on page 62 undefined on input line 572.
-
-
-Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 572.
-
-
-Package natbib Warning: Citation `Wakayama2017' on page 62 undefined on input line 575.
-
-
-Package natbib Warning: Citation `Spence2018' on page 62 undefined on input line 575.
-
-
-Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 575.
-
-
-Package natbib Warning: Citation `s40' on page 62 undefined on input line 578.
-
-
-Overfull \hbox (6.27438pt too wide) in paragraph at lines 578--579
-[]\OT1/phv/m/n/12 Clinicamente, os an-i-mais afe-ta-dos ap-re-sen-tam sinais pouco es-pec[]^^Pficos, sendo
- []
-
-
-
-[62]
-
-Package natbib Warning: Citation `Spence2018' on page 63 undefined on input line 581.
-
-
-Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 581.
-
-
-Package natbib Warning: Citation `Spence2018' on page 63 undefined on input line 581.
-
-
-Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 582.
-
-
-Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 582.
-
-
-Package natbib Warning: Citation `Wakayama2017' on page 63 undefined on input line 582.
-
-
-Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 582.
-
-
-Package natbib Warning: Citation `s40' on page 63 undefined on input line 582.
-
-
-Overfull \hbox (3.47806pt too wide) in paragraph at lines 581--583
-\OT1/phv/m/n/12 amostra basal de sangue, seguida da administra[][]ao de 5 \TS1/phv/m/n/12 µ\OT1/phv/m/n/12 g/kg de ACTH sint[]etico,
- []
-
-
-Overfull \hbox (8.9215pt too wide) in paragraph at lines 587--589
-[]\OT1/phv/m/n/12 No es-tudo com o maior n[]umero de pa-cientes di-ag-nos-ti-ca-dos com sialoadenose,
- []
-
-
-Overfull \hbox (22.74089pt too wide) in paragraph at lines 587--589
-\OT1/phv/m/n/12 (12ca-sos) No en-tanto, n[]ao s[]ao ap-re-sen-ta-dos da-dos num[]ericos, tabelas ou descri[][]oes
- []
-
-
-Overfull \hbox (8.80688pt too wide) in paragraph at lines 587--589
-\OT1/phv/m/n/12 de-tal-hadas que cor-ro-borem esta afirma[][]ao, nem []e es-clare-cida a even-tual presen[]a
- []
-
-
-Overfull \hbox (8.34334pt too wide) in paragraph at lines 600--601
-\OT1/phv/m/n/12 cr[]onico, como es-ofagite, h[]ernia do hi-ato, cor-pos es-tran-hos esof[]agicos ou g[]astricos,
- []
-
-
-Overfull \hbox (35.73395pt too wide) in paragraph at lines 600--601
-\OT1/phv/m/n/12 re-al-izada en-do-scopia di-ges-tiva alta, pro-ced-i-mento am-pla-mente uti-lizado na investiga[][]ao
- []
-
-
-
-[63]
-
-Package natbib Warning: Citation `Sum2009' on page 64 undefined on input line 603.
-
-
-Package natbib Warning: Citation `applications' on page 64 undefined on input line 603.
-
-
-Package natbib Warning: Citation `Rychlik2020' on page 64 undefined on input line 603.
-
-
-Package natbib Warning: Citation `Rychlik2020' on page 64 undefined on input line 603.
-
-
-Package natbib Warning: Citation `Jergens2016' on page 64 undefined on input line 603.
-
-
-Package natbib Warning: Citation `Bsavaendo' on page 64 undefined on input line 606.
-
-
-Package natbib Warning: Citation `Bsavaendo' on page 64 undefined on input line 609.
-
-
-Package natbib Warning: Citation `Bsavaendo' on page 64 undefined on input line 609.
-
-
-Package natbib Warning: Citation `Kim2021' on page 64 undefined on input line 609.
-
-
-Package natbib Warning: Citation `Broux2018' on page 64 undefined on input line 609.
-
-
-Package natbib Warning: Citation `vander' on page 64 undefined on input line 609.
-
-
-Package natbib Warning: Citation `file' on page 64 undefined on input line 609.
-
-
-Package natbib Warning: Citation `Cerquetella2010' on page 64 undefined on input line 609.
-
-
-Overfull \hbox (0.9765pt too wide) in paragraph at lines 609--610
-[]\OT1/phv/m/n/12 A en-do-scopia di-ges-tiva alta per-mite a visualiza[][]ao di-reta da mu-cosa esof[]agica
- []
-
-
-Overfull \hbox (3.16641pt too wide) in paragraph at lines 609--610
-\OT1/phv/m/n/12 e g[]astrica, sendo uma fer-ra-menta fun-da-men-tal na ex-clus[]ao de v[]arios di-agn[]osticos
- []
-
-
-Underfull \vbox (badness 3514) has occurred while \output is active []
-
-
-
-[64]
-
-Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
-
-
-Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
-
-
-Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
-
-
-Package natbib Warning: Citation `frontiersdiagntest' on page 65 undefined on input line 616.
-
-
-Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
-
-
-Package natbib Warning: Citation `atlasultra' on page 65 undefined on input line 616.
-
-
-Overfull \hbox (4.08557pt too wide) in paragraph at lines 615--617
-[]\OT1/phv/m/n/12 Ecografia Ecografia ab-dom-i-nal []e um meio de di-agn[]ostico in-di-cado na avalia[][]ao
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[65]
-
-Package natbib Warning: Citation `Gil2018' on page 66 undefined on input line 619.
-
-
-Overfull \hbox (15.96545pt too wide) in paragraph at lines 619--620
-[]\OT1/phv/m/n/12 Ultrassonografia pode tamb[]em ser us-ada na avalia[][]ao mor-fol[]ogica das gl[]andulas
- []
-
-
-Package natbib Warning: Citation `Sharma2011' on page 66 undefined on input line 627.
-
-
-Package natbib Warning: Citation `Jaikumar2013' on page 66 undefined on input line 627.
-
-
-Overfull \hbox (28.22192pt too wide) in paragraph at lines 627--628
-\OT1/phv/m/n/12 altera[][]oes gas-troin-testi-nais, con-tinua a ser fun-da-men-tal na identifica[][]ao de obstru[][]oes
- []
-
-
-
-[66]
-Overfull \hbox (32.10985pt too wide) in paragraph at lines 639--640
-\OT1/phv/m/n/12 t[]ecnicas de im-agem por corte transver-sal, como a TC e RM, elim-i-nam a superimposi[][]ao
- []
-
-
-
-[67]
-Underfull \vbox (badness 3514) has occurred while \output is active []
-
-
-
-[68]
-Overfull \hbox (7.49857pt too wide) in paragraph at lines 668--669
-\OT1/phv/m/n/12 cr[]onico por metais pe-sa-dos, ter-apia far-ma-col[]ogica cr[]onica (in-clud-ing iso-pro-terenol,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[69]
-
-Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 673.
-
-
-Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 673.
-
-
-Package natbib Warning: Citation `Luca2023' on page 70 undefined on input line 676.
-
-
-Overfull \hbox (10.20479pt too wide) in paragraph at lines 676--677
-[]\OT1/phv/m/n/12 Eletroencefalografia as-sume um pa-pel im-por-tante na diferencia[][]ao en-tre epilep-
- []
-
-
-Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 679.
-
-
-Package natbib Warning: Citation `Luca2023' on page 70 undefined on input line 679.
-
-
-Package natbib Warning: Citation `Animalmodel' on page 70 undefined on input line 682.
-
-
-
-[70]
-
-Package natbib Warning: Citation `Animalmodel' on page 71 undefined on input line 692.
-
-
-Package natbib Warning: Citation `Animalmodel' on page 71 undefined on input line 693.
-
-
-Package natbib Warning: Citation `Animalmodel' on page 71 undefined on input line 693.
-
-
-Package natbib Warning: Citation `Royaux2017' on page 71 undefined on input line 696.
-
-
-Overfull \hbox (29.64655pt too wide) in paragraph at lines 699--700
-[]\OT1/phv/m/n/12 O trata-mento da epilep-sia id-iop[]atica, in-cluindo os ca-sos as-so-ci-a-dos []a sialoadenose,
- []
-
-
-Overfull \hbox (1.93346pt too wide) in paragraph at lines 699--700
-\OT1/phv/m/n/12 re-cidi-vas graves, in-cluindo o de-sen-volvi-mento de sta-tus epilep-ti-cus, uma condi[][]ao
- []
-
-
-
-[71]
-
-Package natbib Warning: Citation `katzung' on page 72 undefined on input line 705.
-
-
-Package natbib Warning: Citation `katzung' on page 72 undefined on input line 713.
-
-
-Overfull \hbox (8.15295pt too wide) in paragraph at lines 713--714
-[]\OT1/phv/m/n/12 Estas a[][]oes de-vem ser in-ter-pre-tadas no con-texto de equil[]^^Pbrio en-tre a excita[][]ao
- []
-
-
-Overfull \hbox (3.40656pt too wide) in paragraph at lines 713--714
-\OT1/phv/m/n/12 equil[]^^Pbrio []e com-pro-metido, fa-vore-cendo a excita[][]ao- quer por au-mento da mesma,
- []
-
-
-Package natbib Warning: Citation `Kelly2017' on page 72 undefined on input line 716.
-
-
-Package natbib Warning: Citation `Yasiry2012' on page 72 undefined on input line 720.
-
-
-Package natbib Warning: Citation `Jukier2023' on page 72 undefined on input line 720.
-
-
-Package natbib Warning: Citation `papich' on page 72 undefined on input line 720.
-
-
-Package natbib Warning: Citation `Scott2021' on page 72 undefined on input line 720.
-
-
-Package natbib Warning: Citation `papich' on page 72 undefined on input line 722.
-
-
-Package natbib Warning: Citation `papich' on page 72 undefined on input line 723.
-
-
-Package natbib Warning: Citation `Trinka2023' on page 72 undefined on input line 723.
-
-
-
-[72]
-
-Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 726.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 726.
-
-
-Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 726.
-
-
-Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 726.
-
-
-Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 727.
-
-
-Overfull \hbox (10.54593pt too wide) in paragraph at lines 727--728
-[]\OT1/phv/m/n/12 Em con-traste, as ben-zo-di-azepinas ligam-se na in-ter-face en-tre as sub-unidades
- []
-
-
-Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 730.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 730.
-
-
-Package natbib Warning: Citation `mechanism' on page 73 undefined on input line 730.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 730.
-
-
-Overfull \hbox (21.98842pt too wide) in paragraph at lines 730--731
-[]\OT1/phv/m/n/12 Outro mecan-ismo po-ten-cial-mente im-por-tante dos bar-bit[]uricos em sta-tus epil[]eptico
- []
-
-
-Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 736.
-
-
-Package natbib Warning: Citation `Podell2016' on page 73 undefined on input line 736.
-
-
-Package natbib Warning: Citation `Jukier2023' on page 73 undefined on input line 739.
-
-
-Package natbib Warning: Citation `Jukier2023' on page 73 undefined on input line 739.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 746.
-
-
-Package natbib Warning: Citation `10.11' on page 73 undefined on input line 746.
-
-
-
-[73]
-
-Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 749.
-
-
-Package natbib Warning: Citation `10.11' on page 74 undefined on input line 749.
-
-
-Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 749.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 749.
-
-
-Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 749.
-
-
-Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 749.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 749.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 750.
-
-
-Package natbib Warning: Citation `10.11' on page 74 undefined on input line 750.
-
-
-Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 750.
-
-
-Package natbib Warning: Citation `Scott2021' on page 74 undefined on input line 750.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 750.
-
-
-Overfull \hbox (12.78777pt too wide) in paragraph at lines 750--751
-[]\OT1/phv/m/n/12 tipo B [\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ][\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ] (rea[][]oes id-ioss-incr[]aticas, in-de-pen-dentes da dose) (Scott,pheno)
- []
-
-
-
-[74]
-
-Package natbib Warning: Citation `10.11' on page 75 undefined on input line 757.
-
-
-Package natbib Warning: Citation `Podell2016' on page 75 undefined on input line 757.
-
-
-Package natbib Warning: Citation `10.11' on page 75 undefined on input line 760.
-
-
-Package natbib Warning: Citation `Trinka2023' on page 75 undefined on input line 760.
-
-
-Package natbib Warning: Citation `10.11' on page 75 undefined on input line 760.
-
-
-Package natbib Warning: Citation `Jukier2023' on page 75 undefined on input line 760.
-
-
-Package natbib Warning: Citation `Chandler2011' on page 75 undefined on input line 760.
-
-
-Package natbib Warning: Citation `Gieger2000' on page 75 undefined on input line 763.
-
-
-Package natbib Warning: Citation `hep' on page 75 undefined on input line 763.
-
-
-Package natbib Warning: Citation `Chandler2011' on page 75 undefined on input line 766.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 769.
-
-
-Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 771.
-
-
-Package natbib Warning: Citation `10.11' on page 75 undefined on input line 774.
-
-
-
-[75]
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `Fantinati2021' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `Dr' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `vol16' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `Dr' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 780.
-
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 783.
-
-
-Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 783.
-
-
-Overfull \hbox (23.72064pt too wide) in paragraph at lines 783--784
-\OT1/phv/m/n/12 com os efeitos ad-ver-sos do feno-bar-bi-tal e []as restri[][]oes as-so-ci-adas []a sua classifica[][]ao
- []
-
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `Fantinati2021' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `Fantinati2021' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 789.
-
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 792.
-
-
-Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 792.
-
-
-Overfull \hbox (6.33131pt too wide) in paragraph at lines 792--793
-[]\OT1/phv/m/n/12 Ap[]os administra[][]ao, o brometo distribui-se pelo l[]^^Pquido ce-falor-raquid-i-ano (LCR)
- []
-
-
-
-[76]
-
-Package natbib Warning: Citation `Fantinati2021' on page 77 undefined on input line 797.
-
-
-Package natbib Warning: Citation `Gouveia2024' on page 77 undefined on input line 806.
-
-
-Package natbib Warning: Citation `foi' on page 77 undefined on input line 806.
-
-
-Package natbib Warning: Citation `foi' on page 77 undefined on input line 806.
-
-
-
-[77]
-
-Package natbib Warning: Citation `Fantinati2021' on page 78 undefined on input line 812.
-
-
-Overfull \hbox (13.22145pt too wide) in paragraph at lines 812--813
-[]\OT1/phv/m/n/12 A tox-i-ci-dade in-duzida por brometo, con-hecida como \bromismo", []e uma condi[][]ao
- []
-
-
-Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 818.
-
-
-Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 818.
-
-
-Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 818.
-
-
-Package natbib Warning: Citation `Volk2008' on page 78 undefined on input line 824.
-
-
-Package natbib Warning: Citation `Erath2020' on page 78 undefined on input line 824.
-
-
-Package natbib Warning: Citation `ajvr' on page 78 undefined on input line 824.
-
-
-Package natbib Warning: Citation `Volk2008' on page 78 undefined on input line 824.
-
-
-Package natbib Warning: Citation `Erath2020' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `ajvr' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `contreras' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `Deshpande2014' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `Kelly2017' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `celdran' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `celdran' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `Volk2008' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `contreras' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `Kelly2017' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `Packer2015' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `Linder2024' on page 78 undefined on input line 827.
-
-
-Package natbib Warning: Citation `Volk2008' on page 78 undefined on input line 827.
-
-
-
-[78]
-
-Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 830.
-
-
-Package natbib Warning: Citation `Kelly2017' on page 79 undefined on input line 830.
-
-
-Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 830.
-
-
-Package natbib Warning: Citation `Linder2024' on page 79 undefined on input line 830.
-
-
-Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 830.
-
-
-Package natbib Warning: Citation `Kelly2017' on page 79 undefined on input line 831.
-
-
-Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 831.
-
-
-Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 831.
-
-
-Package natbib Warning: Citation `Packer2015' on page 79 undefined on input line 834.
-
-
-Package natbib Warning: Citation `Diop2025' on page 79 undefined on input line 834.
-
-
-Package natbib Warning: Citation `ajvr' on page 79 undefined on input line 837.
-
-
-Overfull \hbox (30.41615pt too wide) in paragraph at lines 842--843
-\OT1/phv/m/n/12 cientes acabam por ser eu-tanasi-a-dos de-v-ido a uma re-sposta sub-o-timizada/insuficiente.
- []
-
-
-
-[79]
-Overfull \hbox (2.98288pt too wide) in paragraph at lines 866--867
-[]\OT1/phv/m/n/12 O pa-ciente foi ref-er-en-ci-ado para avalia[][]ao es-pe-cial-izada, de-v-ido []a per-sist[]encia
- []
-
-
-Overfull \hbox (12.62035pt too wide) in paragraph at lines 866--867
-\OT1/phv/m/n/12 dos sinais cl[]^^Pnicos e []a aus[]encia de mel-ho-ria cl[]^^Pnica com as abor-da-gens terap[]euticas
- []
-
-
-
-[80]
-Overfull \hbox (7.61809pt too wide) in paragraph at lines 883--884
-\OT1/phv/m/n/12 tant. Face []a aus[]encia de re-sposta terap[]eutica ad-e-quada, procedeu-se []a realiza[][]ao
- []
-
-
-
-[81]
-Overfull \hbox (13.43591pt too wide) in paragraph at lines 900--902
-[]\OT1/phv/m/n/12 Ap[]os a rece[][]ao e troca de informa[][]oes com os tu-tores, procedeu-se []a realiza[][]ao
- []
-
-
-Overfull \hbox (18.10281pt too wide) in paragraph at lines 907--911
-\OT1/phv/m/n/12 n[]ao ap-re-sen-tou altera[][]oes rel-e-vantes. \TS1/phv/m/n/12 ˆ \OT1/phv/m/n/12 Citolo-gia: n[]ao foram iden-ti-fi-cadas altera[][]oes
- []
-
-
-
-[82]
-
-[83]
-Overfull \hbox (15.11826pt too wide) in paragraph at lines 976--977
-\OT1/phv/m/n/12 ligeira-mente au-men-tada, biomar-cador es-pec[]^^Pfico de doen[]a hep[]atica e hipocalemia.
- []
-
-
-Package natbib Warning: Citation `Amorim2016' on page 84 undefined on input line 979.
-
-
-Package natbib Warning: Citation `Jergens2012' on page 84 undefined on input line 979.
-
-
-Overfull \hbox (3.54585pt too wide) in paragraph at lines 979--980
-[]\OT1/phv/m/n/12 Realizaram-se ex-ames de imagem- ecografia ab-dom-i-nal e ra-dio-grafia tor[]acica-
- []
-
-
-
-[84]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-[85]
-
-Package natbib Warning: Citation `Diop2025' on page 86 undefined on input line 988.
-
-
-Package natbib Warning: Citation `Diop2025' on page 86 undefined on input line 999.
-
-
-
-[86]
-
-Package natbib Warning: Citation `Diop2025' on page 87 undefined on input line 1005.
-
-
-Package natbib Warning: Citation `Wang2025' on page 87 undefined on input line 1008.
-
-
-Package natbib Warning: Citation `Lyon2024' on page 87 undefined on input line 1008.
-
-
-Package natbib Warning: Citation `Lyon2024' on page 87 undefined on input line 1008.
-
-
-Package natbib Warning: Citation `Everest2024' on page 87 undefined on input line 1008.
-
-
-Package natbib Warning: Citation `Luca2023' on page 87 undefined on input line 1008.
-
-
-Overfull \hbox (9.05894pt too wide) in paragraph at lines 1008--1009
-\OT1/phv/m/n/12 manece pouco uti-lizada de-v-ido []a aus[]encia de pro-to-co-los padroniza-dos, (2016wrzo)
- []
-
-
-Package natbib Warning: Citation `Wang2025' on page 87 undefined on input line 1011.
 
 
 Underfull \vbox (badness 1478) has occurred while \output is active []
 
 
 
+[54]
+
+Package natbib Warning: Citation `Dobson2011' on page 55 undefined on input line 417.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 55 undefined on input line 423.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 55 undefined on input line 423.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 55 undefined on input line 423.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 55 undefined on input line 425.
+
+
+Package natbib Warning: Citation `Han2016' on page 55 undefined on input line 427.
+
+
+Package natbib Warning: Citation `Hammer2001' on page 55 undefined on input line 427.
+
+
+Package natbib Warning: Citation `Dobson2011' on page 55 undefined on input line 427.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[55]
+
+Package natbib Warning: Citation `Hammer2001' on page 56 undefined on input line 430.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 56 undefined on input line 436.
+
+
+Package natbib Warning: Citation `reiter_bsava_2018' on page 56 undefined on input line 436.
+
+
+Overfull \hbox (26.54256pt too wide) in paragraph at lines 436--437
+\OT1/phv/m/n/12 sa-li-va-res, ca-rac-te-ri-zada his-to-lo-gi-ca-mente por ne-crose isqu[]emica lo-bu-lar das gl[]andulas
+ []
+
+
+Package natbib Warning: Citation `Han2016' on page 56 undefined on input line 439.
+
+
+Package natbib Warning: Citation `reiter_bsava_2018' on page 56 undefined on input line 439.
+
+
+Package natbib Warning: Citation `perez-ecija_granulomatous_2012' on page 56 undefined on input line 439.
+
+
+Package natbib Warning: Citation `reiter_bsava_2018' on page 56 undefined on input line 439.
+
+
+Package natbib Warning: Citation `schoroeder' on page 56 undefined on input line 439.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[56]
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 445.
+
+
+Package natbib Warning: Citation `reiter_bsava_2018' on page 57 undefined on input line 445.
+
+
+Package natbib Warning: Citation `reiter_bsava_2018' on page 57 undefined on input line 451.
+
+
+Package natbib Warning: Citation `schoroeder' on page 57 undefined on input line 454.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 454.
+
+
+Overfull \hbox (21.30537pt too wide) in paragraph at lines 454--455
+[]\OT1/phv/m/n/12 Deve ser con-si-de-rada a realiza[][]ao de ra-di-o-gra-fia tor[]acica e en-dos-co-pia esof[]agica,
+ []
+
+
+Package natbib Warning: Citation `bsava_2020_gastro' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `bsava_2020_gastro' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `reiter_bsava_2018' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `bsava_2020_gastro' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `Mukaratirwa2015' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `reiter_bsava_2018' on page 57 undefined on input line 460.
+
+
+Package natbib Warning: Citation `perez-ecija_granulomatous_2012' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `Ryan2008' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `perez-ecija_granulomatous_2012' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `perez-ecija_granulomatous_2012' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `Ryan2008' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 468.
+
+
+Package natbib Warning: Citation `Han2016' on page 57 undefined on input line 469.
+
+
+
+[57]
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 472.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 478.
+
+
+Package natbib Warning: Citation `perez-ecija_granulomatous_2012' on page 58 undefined on input line 478.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 478.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 58 undefined on input line 485.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 485.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 485.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 485.
+
+
+Package natbib Warning: Citation `perez-ecija_granulomatous_2012' on page 58 undefined on input line 485.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 491.
+
+
+Package natbib Warning: Citation `Ryan2008' on page 58 undefined on input line 491.
+
+
+Package natbib Warning: Citation `perez-ecija_granulomatous_2012' on page 58 undefined on input line 491.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 491.
+
+
+Package natbib Warning: Citation `Han2016' on page 58 undefined on input line 492.
+
+
+
+[58]
+
+Package natbib Warning: Citation `Leib2010' on page 59 undefined on input line 505.
+
+
+Package natbib Warning: Citation `Leib2010' on page 59 undefined on input line 505.
+
+
+
+[59]
+
+Package natbib Warning: Citation `Kovarikova2015' on page 60 undefined on input line 527.
+
+
+Package natbib Warning: Citation `Gori2020' on page 60 undefined on input line 530.
+
+
+Package natbib Warning: Citation `sdma' on page 60 undefined on input line 530.
+
+
+Overfull \hbox (4.14775pt too wide) in paragraph at lines 530--531
+[]\OT1/phv/m/n/12 Nessa pers-pe-tiva, torna-se re-ve-lante con-si-de-rar mar-ca-do-res al-ter-na-ti-vos como
+ []
+
+
+
+[60]
+Overfull \hbox (21.51212pt too wide) in paragraph at lines 542--543
+\OT1/phv/m/n/12 pre-sen-tes na mem-brana ca-na-li-cu-lar dos he-pat[]ocitos e s[]ao fun-da-men-tais na avalia[][]ao
+ []
+
+
+Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 549.
+
+
+Package natbib Warning: Citation `Kumar2017' on page 61 undefined on input line 549.
+
+
+Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 549.
+
+
+Package natbib Warning: Citation `Yadav2020' on page 61 undefined on input line 549.
+
+
+Package natbib Warning: Citation `Reine2005' on page 61 undefined on input line 549.
+
+
+Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 549.
+
+
+Package natbib Warning: Citation `Ristic2011' on page 61 undefined on input line 552.
+
+
+Package natbib Warning: Citation `Parrah2013' on page 61 undefined on input line 555.
+
+
+Package natbib Warning: Citation `Reine2005' on page 61 undefined on input line 556.
+
+
+Overfull \hbox (16.66139pt too wide) in paragraph at lines 555--557
+[]\OT1/phv/m/n/12 Este exame per-mite iden-ti-fi-car altera[][]oes com-pat[]^^Pveis com doen[]as me-tab[]olicas,
+ []
+
+
+
+[61]
+
+Package natbib Warning: Citation `Kim2024' on page 62 undefined on input line 561.
+
+
+Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 561.
+
+
+Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 561.
+
+
+Overfull \hbox (8.78969pt too wide) in paragraph at lines 561--562
+[]\OT1/phv/m/n/12 Lipase pan-cre[]atica ca-nina []e con-si-de-rada um dos bi-o-mar-ca-do-res mais sens[]^^Pveis
+ []
+
+
+Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 564.
+
+
+Overfull \hbox (2.01424pt too wide) in paragraph at lines 564--566
+[]\OT1/phv/m/n/12 Durante pro-ces-sos in-fla-mat[]orios pan-cre[]aticos, como a pan-cre-a-tite, a secre[][]ao
+ []
+
+
+Package natbib Warning: Citation `Cridge2021' on page 62 undefined on input line 568.
+
+
+Package natbib Warning: Citation `Kim2024' on page 62 undefined on input line 568.
+
+
+Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 568.
+
+
+Package natbib Warning: Citation `Cridge2021' on page 62 undefined on input line 571.
+
+
+Package natbib Warning: Citation `Kim2024' on page 62 undefined on input line 571.
+
+
+Package natbib Warning: Citation `Lim2022' on page 62 undefined on input line 571.
+
+
+Package natbib Warning: Citation `Liu2025' on page 62 undefined on input line 571.
+
+
+Package natbib Warning: Citation `Guzman-Ramos2022' on page 62 undefined on input line 577.
+
+
+Package natbib Warning: Citation `Wakayama2017' on page 62 undefined on input line 577.
+
+
+Package natbib Warning: Citation `Botsford2018' on page 62 undefined on input line 577.
+
+
+Package natbib Warning: Citation `Spence2018' on page 62 undefined on input line 577.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 62 undefined on input line 577.
+
+
+
+[62]
+
+Package natbib Warning: Citation `Guzman-Ramos2022' on page 63 undefined on input line 580.
+
+
+Package natbib Warning: Citation `Wakayama2017' on page 63 undefined on input line 580.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 580.
+
+
+Package natbib Warning: Citation `Botsford2018' on page 63 undefined on input line 580.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 580.
+
+
+Package natbib Warning: Citation `Wakayama2017' on page 63 undefined on input line 583.
+
+
+Package natbib Warning: Citation `Spence2018' on page 63 undefined on input line 583.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 583.
+
+
+Package natbib Warning: Citation `Guzman-Ramos2022' on page 63 undefined on input line 586.
+
+
+Overfull \hbox (6.27438pt too wide) in paragraph at lines 586--587
+[]\OT1/phv/m/n/12 Clinicamente, os ani-mais afe-ta-dos apre-sen-tam si-nais pouco es-pec[]^^Pficos, sendo
+ []
+
+
+Package natbib Warning: Citation `Spence2018' on page 63 undefined on input line 589.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 589.
+
+
+Package natbib Warning: Citation `Spence2018' on page 63 undefined on input line 589.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 590.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 590.
+
+
+Package natbib Warning: Citation `Wakayama2017' on page 63 undefined on input line 590.
+
+
+Package natbib Warning: Citation `Mooney2023' on page 63 undefined on input line 590.
+
+
+Package natbib Warning: Citation `Guzman-Ramos2022' on page 63 undefined on input line 590.
+
+
+Overfull \hbox (3.47806pt too wide) in paragraph at lines 589--591
+\OT1/phv/m/n/12 amos-tra ba-sal de san-gue, se-guida da administra[][]ao de 5 \TS1/phv/m/n/12 µ\OT1/phv/m/n/12 g/kg de ACTH sint[]etico,
+ []
+
+
+Package natbib Warning: Citation `boydell_sialadenosis_2000' on page 63 undefined on input line 595.
+
+
+
+[63]
+
+Package natbib Warning: Citation `mccarthy_veterinary_2021' on page 64 undefined on input line 608.
+
+
+Overfull \hbox (8.34334pt too wide) in paragraph at lines 608--609
+\OT1/phv/m/n/12 cr[]onico, como eso-fa-gite, h[]ernia do hi-ato, cor-pos es-tra-nhos esof[]agicos ou g[]astricos,
+ []
+
+
+Overfull \hbox (35.73395pt too wide) in paragraph at lines 608--609
+\OT1/phv/m/n/12 re-a-li-zada en-dos-co-pia di-ges-tiva alta, pro-ce-di-mento am-pla-mente uti-li-zado na investiga[][]ao
+ []
+
+
+Package natbib Warning: Citation `Sum2009' on page 64 undefined on input line 611.
+
+
+Package natbib Warning: Citation `Prasanna2019' on page 64 undefined on input line 611.
+
+
+Package natbib Warning: Citation `Rychlik2020' on page 64 undefined on input line 611.
+
+
+Package natbib Warning: Citation `Rychlik2020' on page 64 undefined on input line 611.
+
+
+Package natbib Warning: Citation `Jergens2016' on page 64 undefined on input line 611.
+
+
+
+[64]
+
+Package natbib Warning: Citation `lhermette_bsava_2021' on page 65 undefined on input line 614.
+
+
+Package natbib Warning: Citation `mccarthy_veterinary_2021' on page 65 undefined on input line 614.
+
+
+Package natbib Warning: Citation `lhermette_bsava_2021' on page 65 undefined on input line 617.
+
+
+Package natbib Warning: Citation `lhermette_bsava_2021' on page 65 undefined on input line 617.
+
+
+Package natbib Warning: Citation `Kim2021' on page 65 undefined on input line 617.
+
+
+Package natbib Warning: Citation `Broux2018' on page 65 undefined on input line 617.
+
+
+Package natbib Warning: Citation `vanderMerwe2008' on page 65 undefined on input line 617.
+
+
+Package natbib Warning: Citation `mylonakis_canine_2008' on page 65 undefined on input line 617.
+
+
+Package natbib Warning: Citation `Cerquetella2010' on page 65 undefined on input line 617.
+
+
+Overfull \hbox (0.9765pt too wide) in paragraph at lines 617--618
+[]\OT1/phv/m/n/12 A en-dos-co-pia di-ges-tiva alta per-mite a visualiza[][]ao di-reta da mu-cosa esof[]agica
+ []
+
+
+Overfull \hbox (3.16641pt too wide) in paragraph at lines 617--618
+\OT1/phv/m/n/12 e g[]astrica, sendo uma fer-ra-menta fun-da-men-tal na ex-clus[]ao de v[]arios di-agn[]osticos
+ []
+
+
+Package natbib Warning: Citation `mccarthy_veterinary_2021' on page 65 undefined on input line 620.
+
+
+Package natbib Warning: Citation `penninck_atlas_2015' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `penninck_atlas_2015' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `mattoon_small_2015' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `barr_bsava_2011' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `barr_bsava_2011' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `barr_bsava_2011' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `penninck_atlas_2015' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `seiler_acvr_2022' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `barr_bsava_2011' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `Gommeren2022' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `barr_bsava_2011' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `penninck_atlas_2015' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `seiler_acvr_2022' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `penninck_atlas_2015' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `mattoon_small_2015' on page 65 undefined on input line 624.
+
+
+Package natbib Warning: Citation `barr_bsava_2011' on page 65 undefined on input line 624.
+
+
+Overfull \hbox (4.08557pt too wide) in paragraph at lines 623--625
+[]\OT1/phv/m/n/12 Ecografia Eco-gra-fia ab-do-mi-nal []e um meio de di-agn[]ostico in-di-cado na avalia[][]ao
+ []
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[65]
+
+Package natbib Warning: Citation `boydell_sialadenosis_2000' on page 66 undefined on input line 627.
+
+
+Package natbib Warning: Citation `Gil2018' on page 66 undefined on input line 627.
+
+
+Overfull \hbox (15.96545pt too wide) in paragraph at lines 627--628
+[]\OT1/phv/m/n/12 Ultrassonografia pode tamb[]em ser usada na avalia[][]ao mor-fol[]ogica das gl[]andulas
+ []
+
+
+Package natbib Warning: Citation `thrall_textbook_2018' on page 66 undefined on input line 632.
+
+
+Package natbib Warning: Citation `thrall_textbook_2018' on page 66 undefined on input line 632.
+
+
+Package natbib Warning: Citation `Sharma2011' on page 66 undefined on input line 635.
+
+
+Package natbib Warning: Citation `Jaikumar2013' on page 66 undefined on input line 635.
+
+
+Overfull \hbox (28.22192pt too wide) in paragraph at lines 635--636
+\OT1/phv/m/n/12 altera[][]oes gas-tro-in-tes-ti-nais, con-ti-nua a ser fun-da-men-tal na identifica[][]ao de obstru[][]oes
+ []
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[66]
+
+Package natbib Warning: Citation `gibbon_phenobarbital-responsive_german_2004' on page 67 undefined on input line 638.
+
+
+Package natbib Warning: Citation `gil_anatomic_2018' on page 67 undefined on input line 644.
+
+
+Package natbib Warning: Citation `boydell_sialadenosis_2000' on page 67 undefined on input line 644.
+
+
+Package natbib Warning: Citation `gil_anatomic_2018' on page 67 undefined on input line 644.
+
+
+Package natbib Warning: Citation `boydell_sialadenosis_2000' on page 67 undefined on input line 644.
+
+
+Package natbib Warning: Citation `gil_anatomic_2018' on page 67 undefined on input line 644.
+
+
+Package natbib Warning: Citation `gil_anatomic_2018' on page 67 undefined on input line 647.
+
+
+Package natbib Warning: Citation `perez-ecija_granulomatous_2012' on page 67 undefined on input line 647.
+
+
+Package natbib Warning: Citation `gil_anatomic_2018' on page 67 undefined on input line 647.
+
+
+Package natbib Warning: Citation `durand_computed_2016' on page 67 undefined on input line 647.
+
+
+Package natbib Warning: Citation `durand_computed_2016' on page 67 undefined on input line 647.
+
+
+Package natbib Warning: Citation `seiler_acvr_2022' on page 67 undefined on input line 647.
+
+
+Package natbib Warning: Citation `durand_computed_2016' on page 67 undefined on input line 647.
+
+
+Package natbib Warning: Citation `durand_computed_2016' on page 67 undefined on input line 647.
+
+
+Overfull \hbox (3.35889pt too wide) in paragraph at lines 647--648
+\OT1/phv/m/n/12 de pa-to-lo-gias de gl[]andulas sa-li-va-res, so-bre-tudo quando os si-nais cl[]^^Pnicos e exame
+ []
+
+
+Package natbib Warning: Citation `gil_anatomic_2018' on page 67 undefined on input line 650.
+
+
+Package natbib Warning: Citation `seiler_acvr_2022' on page 67 undefined on input line 650.
+
+
+Package natbib Warning: Citation `kneissl_ct_2011' on page 67 undefined on input line 650.
+
+
+
+[67]
+
+Package natbib Warning: Citation `gil_anatomic_2018' on page 68 undefined on input line 653.
+
+
+Package natbib Warning: Citation `gil_anatomic_2018' on page 68 undefined on input line 653.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[68]
+Underfull \vbox (badness 3514) has occurred while \output is active []
+
+
+
+[69]
+
+Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 681.
+
+
+Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 681.
+
+
+Package natbib Warning: Citation `Luca2023' on page 70 undefined on input line 684.
+
+
+Package natbib Warning: Citation `Everest2024' on page 70 undefined on input line 687.
+
+
+Package natbib Warning: Citation `Luca2023' on page 70 undefined on input line 687.
+
+
+
+[70]
+
+Package natbib Warning: Citation `Loscher2022' on page 71 undefined on input line 690.
+
+
+Package natbib Warning: Citation `Loscher2022' on page 71 undefined on input line 700.
+
+
+Package natbib Warning: Citation `Loscher2022' on page 71 undefined on input line 701.
+
+
+Package natbib Warning: Citation `Loscher2022' on page 71 undefined on input line 701.
+
+
+Package natbib Warning: Citation `Royaux2017' on page 71 undefined on input line 704.
+
+
+
+[71]
+
+Package natbib Warning: Citation `Katzung2018' on page 72 undefined on input line 713.
+
+
+Package natbib Warning: Citation `Katzung2018' on page 72 undefined on input line 721.
+
+
+Overfull \hbox (8.15295pt too wide) in paragraph at lines 721--722
+[]\OT1/phv/m/n/12 Estas a[][]oes de-vem ser in-ter-pre-ta-das no con-texto de equil[]^^Pbrio en-tre a excita[][]ao
+ []
+
+
+Overfull \hbox (3.40656pt too wide) in paragraph at lines 721--722
+\OT1/phv/m/n/12 equil[]^^Pbrio []e com-pro-me-tido, fa-vo-re-cendo a excita[][]ao- quer por au-mento da mesma,
+ []
+
+
+Package natbib Warning: Citation `Kelly2017' on page 72 undefined on input line 724.
+
+
+
+[72]
+
+Package natbib Warning: Citation `Yasiry2012' on page 73 undefined on input line 728.
+
+
+Package natbib Warning: Citation `Jukier2023' on page 73 undefined on input line 728.
+
+
+Package natbib Warning: Citation `Papich2021' on page 73 undefined on input line 728.
+
+
+Package natbib Warning: Citation `Scott2021' on page 73 undefined on input line 728.
+
+
+Package natbib Warning: Citation `Papich2021' on page 73 undefined on input line 730.
+
+
+Package natbib Warning: Citation `Papich2021' on page 73 undefined on input line 731.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 731.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 734.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 73 undefined on input line 734.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 734.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 734.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 73 undefined on input line 735.
+
+
+Underfull \vbox (badness 1248) has occurred while \output is active []
+
+
+
+[73]
+
+Package natbib Warning: Citation `Trinka2023' on page 74 undefined on input line 738.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 738.
+
+
+Package natbib Warning: Citation `Loscher2012' on page 74 undefined on input line 738.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 738.
+
+
+Overfull \hbox (21.98842pt too wide) in paragraph at lines 738--739
+[]\OT1/phv/m/n/12 Outro me-ca-nismo po-ten-ci-al-mente im-por-tante dos bar-bit[]uricos em sta-tus epil[]eptico
+ []
+
+
+Package natbib Warning: Citation `Trinka2023' on page 74 undefined on input line 744.
+
+
+Package natbib Warning: Citation `Podell2016' on page 74 undefined on input line 744.
+
+
+Package natbib Warning: Citation `Jukier2023' on page 74 undefined on input line 747.
+
+
+Package natbib Warning: Citation `Jukier2023' on page 74 undefined on input line 747.
+
+
+Package natbib Warning: Citation `boydell_sialadenosis_2000' on page 74 undefined on input line 750.
+
+
+Package natbib Warning: Citation `boydell_sialadenosis_2000' on page 74 undefined on input line 750.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 74 undefined on input line 754.
+
+
+Package natbib Warning: Citation `Walton-Clark2022' on page 74 undefined on input line 754.
+
+
+
+[74]
+
+Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `Walton-Clark2022' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `Scott2021' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `Scott2021' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `Scott2021' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 757.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 758.
+
+
+Package natbib Warning: Citation `Walton-Clark2022' on page 75 undefined on input line 758.
+
+
+Package natbib Warning: Citation `Scott2021' on page 75 undefined on input line 758.
+
+
+Package natbib Warning: Citation `Scott2021' on page 75 undefined on input line 758.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 75 undefined on input line 758.
+
+
+Overfull \hbox (12.78777pt too wide) in paragraph at lines 758--759
+[]\OT1/phv/m/n/12 tipo B [\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ][\OT1/phv/b/n/12 ? \OT1/phv/m/n/12 ] (rea[][]oes idi-os-sincr[]aticas, in-de-pen-den-tes da dose) (Scott,pheno)
+ []
+
+
+Package natbib Warning: Citation `Walton-Clark2022' on page 75 undefined on input line 765.
+
+
+Package natbib Warning: Citation `Podell2016' on page 75 undefined on input line 765.
+
+
+Package natbib Warning: Citation `Walton-Clark2022' on page 75 undefined on input line 768.
+
+
+Package natbib Warning: Citation `Trinka2023' on page 75 undefined on input line 768.
+
+
+Package natbib Warning: Citation `Walton-Clark2022' on page 75 undefined on input line 768.
+
+
+Package natbib Warning: Citation `Jukier2023' on page 75 undefined on input line 768.
+
+
+Package natbib Warning: Citation `Chandler2011' on page 75 undefined on input line 768.
+
+
+Package natbib Warning: Citation `Gieger2000' on page 75 undefined on input line 771.
+
+
+Package natbib Warning: Citation `Muller2000' on page 75 undefined on input line 771.
+
+
+
+[75]
+
+Package natbib Warning: Citation `Chandler2011' on page 76 undefined on input line 774.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 76 undefined on input line 777.
+
+
+Package natbib Warning: Citation `Bersan2014' on page 76 undefined on input line 779.
+
+
+Package natbib Warning: Citation `Walton-Clark2022' on page 76 undefined on input line 782.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `Fantinati2021' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `Dr' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `vol16' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `Dr' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 788.
+
+
+Package natbib Warning: Citation `javmakbr' on page 76 undefined on input line 791.
+
+
+Package natbib Warning: Citation `Lichtenauer2022' on page 76 undefined on input line 791.
+
+
+Overfull \hbox (23.72064pt too wide) in paragraph at lines 791--792
+\OT1/phv/m/n/12 com os efei-tos ad-ver-sos do fe-no-bar-bi-tal e []as restri[][]oes as-so-ci-a-das []a sua classifica[][]ao
+ []
+
+
+
+[76]
+
+Package natbib Warning: Citation `javmakbr' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `javmakbr' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `Fantinati2021' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `javmakbr' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `Fantinati2021' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `javmakbr' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 77 undefined on input line 797.
+
+
+Package natbib Warning: Citation `javmakbr' on page 77 undefined on input line 800.
+
+
+Package natbib Warning: Citation `javmakbr' on page 77 undefined on input line 800.
+
+
+Overfull \hbox (6.33131pt too wide) in paragraph at lines 800--801
+[]\OT1/phv/m/n/12 Ap[]os administra[][]ao, o bro-meto distribui-se pelo l[]^^Pquido ce-fa-lor-ra-qui-di-ano (LCR)
+ []
+
+
+Package natbib Warning: Citation `Fantinati2021' on page 77 undefined on input line 805.
+
+
+
+[77]
+
+Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 814.
+
+
+Package natbib Warning: Citation `Fda2021' on page 78 undefined on input line 814.
+
+
+Package natbib Warning: Citation `Fda2021' on page 78 undefined on input line 814.
+
+
+Package natbib Warning: Citation `Fantinati2021' on page 78 undefined on input line 820.
+
+
+Overfull \hbox (13.22145pt too wide) in paragraph at lines 820--821
+[]\OT1/phv/m/n/12 A to-xi-ci-dade in-du-zida por bro-meto, co-nhe-cida como \bro-mismo", []e uma condi[][]ao
+ []
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 826.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 826.
+
+
+Package natbib Warning: Citation `Gouveia2024' on page 78 undefined on input line 826.
+
+
+
+[78]
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 832.
+
+
+Package natbib Warning: Citation `Erath2020' on page 79 undefined on input line 832.
+
+
+Package natbib Warning: Citation `ajvr' on page 79 undefined on input line 832.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 832.
+
+
+Package natbib Warning: Citation `Erath2020' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `ajvr' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Contreras-Garcia2022' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Deshpande2014' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Kelly2017' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `CeldranDeCastro2023' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `CeldranDeCastro2023' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Contreras-Garcia2022' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Kelly2017' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Packer2015' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Linder2024' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 835.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 838.
+
+
+Package natbib Warning: Citation `Kelly2017' on page 79 undefined on input line 838.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 838.
+
+
+Package natbib Warning: Citation `Linder2024' on page 79 undefined on input line 838.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 838.
+
+
+Package natbib Warning: Citation `Kelly2017' on page 79 undefined on input line 839.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 839.
+
+
+Package natbib Warning: Citation `Volk2008' on page 79 undefined on input line 839.
+
+
+Package natbib Warning: Citation `Packer2015' on page 79 undefined on input line 842.
+
+
+Package natbib Warning: Citation `Diop2025' on page 79 undefined on input line 842.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[79]
+
+Package natbib Warning: Citation `ajvr' on page 80 undefined on input line 845.
+
+
+
+[80]
+Overfull \hbox (2.98288pt too wide) in paragraph at lines 874--875
+[]\OT1/phv/m/n/12 O pa-ci-ente foi re-fe-ren-ci-ado para avalia[][]ao es-pe-ci-a-li-zada, de-vido []a per-sist[]encia
+ []
+
+
+Overfull \hbox (7.61809pt too wide) in paragraph at lines 891--892
+\OT1/phv/m/n/12 tant. Face []a aus[]encia de res-posta te-rap[]eutica ade-quada, procedeu-se []a realiza[][]ao
+ []
+
+
+
+[81]
+Overfull \hbox (13.43591pt too wide) in paragraph at lines 908--910
+[]\OT1/phv/m/n/12 Ap[]os a rece[][]ao e troca de informa[][]oes com os tu-to-res, procedeu-se []a realiza[][]ao
+ []
+
+
+
+[82]
+Overfull \hbox (18.10281pt too wide) in paragraph at lines 915--919
+\OT1/phv/m/n/12 n[]ao apre-sen-tou altera[][]oes re-le-van-tes. \TS1/phv/m/n/12 ˆ \OT1/phv/m/n/12 Ci-to-lo-gia: n[]ao fo-ram iden-ti-fi-ca-das altera[][]oes
+ []
+
+
+
+[83]
+
+[84]
+
+Package natbib Warning: Citation `Amorim2016' on page 85 undefined on input line 987.
+
+
+Package natbib Warning: Citation `Jergens2012' on page 85 undefined on input line 987.
+
+
+Overfull \hbox (3.54585pt too wide) in paragraph at lines 987--988
+[]\OT1/phv/m/n/12 Realizaram-se exa-mes de imagem- eco-gra-fia ab-do-mi-nal e ra-di-o-gra-fia tor[]acica-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[85]
+
+Package natbib Warning: Citation `Diop2025' on page 86 undefined on input line 996.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[86]
+
+Package natbib Warning: Citation `Diop2025' on page 87 undefined on input line 1007.
+
+
+Package natbib Warning: Citation `Diop2025' on page 87 undefined on input line 1013.
+
+
+Package natbib Warning: Citation `Wang2025' on page 87 undefined on input line 1016.
+
+
+Package natbib Warning: Citation `Lyon2024' on page 87 undefined on input line 1016.
+
+
+Package natbib Warning: Citation `Lyon2024' on page 87 undefined on input line 1016.
+
+
+Package natbib Warning: Citation `Everest2024' on page 87 undefined on input line 1016.
+
+
+Package natbib Warning: Citation `Luca2023' on page 87 undefined on input line 1016.
+
+
+
 [87]
 
-Package natbib Warning: Citation `Deshpande2014' on page 88 undefined on input line 1017.
+Package natbib Warning: Citation `Wang2025' on page 88 undefined on input line 1019.
 
 
-Package natbib Warning: Citation `ajvr' on page 88 undefined on input line 1017.
+Package natbib Warning: Citation `Deshpande2014' on page 88 undefined on input line 1025.
 
 
-Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1020.
+Package natbib Warning: Citation `ajvr' on page 88 undefined on input line 1025.
 
 
-Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1020.
+Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1028.
 
 
-Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1020.
+Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1028.
 
 
-Overfull \hbox (3.83502pt too wide) in paragraph at lines 1023--1024
-[]\OT1/phv/m/n/12 Paralelamente, o di-agn[]ostico pre-sun-tivo de gas-tro-duo-den-ite lin-fo-plas-mocit[]aria,
+Package natbib Warning: Citation `Diop2025' on page 88 undefined on input line 1028.
+
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+
+
+[88]
+Overfull \hbox (3.83502pt too wide) in paragraph at lines 1031--1032
+[]\OT1/phv/m/n/12 Paralelamente, o di-agn[]ostico pre-sun-tivo de gas-tro-du-o-de-nite lin-fo-plas-mo-cit[]aria,
  []
 
 
@@ -3316,14 +3419,10 @@ Underfull \vbox (badness 3514) has occurred while \output is active []
 
 
 
-[88])
+[89])
 
-[89]
-
-[90
-
-] (Results/Thesis_Results.tex
-Chapter 4.
+[90] (Results/Thesis_Results.tex
+Cap\'{\i }tulo 4.
 
 Underfull \vbox (badness 1867) has occurred while \output is active []
 
@@ -3331,12 +3430,13 @@ Underfull \vbox (badness 1867) has occurred while \output is active []
 
 [91
 
+
 ]
 File: ../Figures/Airbus_A350.jpg Graphic file (type jpg)
 <use ../Figures/Airbus_A350.jpg>
 Package pdftex.def Info: ../Figures/Airbus_A350.jpg  used on input line 53.
 (pdftex.def)             Requested size: 106.69783pt x 80.02141pt.
-<../Figures/Bombardier_CRJ200.png, id=863, 803.0pt x 602.25pt>
+<../Figures/Bombardier_CRJ200.png, id=546, 803.0pt x 602.25pt>
 File: ../Figures/Bombardier_CRJ200.png Graphic file (type png)
 <use ../Figures/Bombardier_CRJ200.png>
 Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 60.
@@ -3346,8 +3446,15 @@ File: ../Figures/Bombardier_CRJ200.png Graphic file (type png)
 Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 61.
 (pdftex.def)             Requested size: 209.1301pt x 156.8478pt.
 
+
+LaTeX Warning: Reference `fig:airbus1' on page 92 undefined on input line 67.
+
+
+LaTeX Warning: Reference `fig:aircrafts' on page 92 undefined on input line 67.
+
+
 Overfull \hbox (54.12527pt too wide) in paragraph at lines 69--70
-[]\OT1/phv/m/n/12 By de-fault, the sup-ported file types are \OT1/phv/m/sl/12 .png,.pdf,.jpg,.mps,.jpeg,.PNG,.PDF,.JPG,.JPEG\OT1/phv/m/n/12 . 
+[]\OT1/phv/m/n/12 By de-fault, the sup-por-ted file ty-pes are \OT1/phv/m/sl/12 .png,.pdf,.jpg,.mps,.jpeg,.PNG,.PDF,.JPG,.JPEG\OT1/phv/m/n/12 . 
  []
 
 
@@ -3356,12 +3463,46 @@ Overfull \hbox (1.91321pt too wide) in paragraph at lines 71--72
  []
 
 
+LaTeX Warning: Reference `fig:algorithm' on page 92 undefined on input line 80.
+
+
 
 [92]
 
 [93 <../Figures/Bombardier_CRJ200.png>]
 
+LaTeX Warning: Reference `eq:continuity' on page 94 undefined on input line 150.
+
+
+LaTeX Warning: Reference `eq:momentum' on page 94 undefined on input line 150.
+
+
+LaTeX Warning: Reference `eq:energy' on page 94 undefined on input line 150.
+
+
+LaTeX Warning: Reference `eq:NavierStokes' on page 94 undefined on input line 150.
+
+
+
 [94]
+
+LaTeX Warning: Reference `tab:aeroCoeff' on page 95 undefined on input line 201.
+
+
+LaTeX Warning: Reference `tab:memory' on page 95 undefined on input line 203.
+
+
+LaTeX Warning: Reference `tab:multipleColumns' on page 95 undefined on input line 203.
+
+
+LaTeX Warning: Reference `tab:multipleRows' on page 95 undefined on input line 248.
+
+
+LaTeX Warning: Reference `tab:scale' on page 95 undefined on input line 266.
+
+
+LaTeX Warning: Reference `fig:side_by_side' on page 95 undefined on input line 289.
+
 File: ../Figures/Bombardier_CRJ200.png Graphic file (type png)
 <use ../Figures/Bombardier_CRJ200.png>
 Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 294.
@@ -3371,7 +3512,7 @@ Package pdftex.def Info: ../Figures/Bombardier_CRJ200.png  used on input line 29
 [95]
 
 [96] (Conclusions/Thesis_Conclusions.tex
-Chapter 5.
+Cap\'{\i }tulo 5.
 )
 Underfull \vbox (badness 1867) has occurred while \output is active []
 
@@ -3382,8 +3523,8 @@ Underfull \vbox (badness 1867) has occurred while \output is active []
 
 ]
 
-[98] (Appendix_A/Thesis_Appendix_A.tex
-Appendix A.
+[98] (Thesis.bbl) (Appendix_A/Thesis_Appendix_A.tex
+Ap\^endice A.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3451,13 +3592,13 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 [102
 
 ] (Appendix_B/Thesis_Appendix_B.tex
-Appendix B.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=946, 597.50829pt x 845.0471pt>
+Ap\^endice B.
+<../Figures/SolarCell_Sunpower_C60.pdf, id=638, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf>
 Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf  used on input line 22.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=948, page=1, 597.50829pt x 845.0471pt>
+<../Figures/SolarCell_Sunpower_C60.pdf, id=640, page=1, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
 Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
@@ -3479,7 +3620,7 @@ File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 1>
 Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 211.24623pt x 298.7624pt.
-<../Figures/SolarCell_Sunpower_C60.pdf, id=953, page=2, 597.50829pt x 845.0471pt>
+<../Figures/SolarCell_Sunpower_C60.pdf, id=648, page=2, 597.50829pt x 845.0471pt>
 File: ../Figures/SolarCell_Sunpower_C60.pdf Graphic file (type pdf)
 <use ../Figures/SolarCell_Sunpower_C60.pdf, page 2>
 Package pdftex.def Info: ../Figures/SolarCell_Sunpower_C60.pdf , page2 used on input line 22.
@@ -3514,23 +3655,32 @@ L3 programming layer <2025-08-13>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 014FE11E63F287FD75BF5AD512AA0C48;7392.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Thesis.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  B4E8D28D9DA9B16A404C25B466A2C9FD;7444.
  ) 
 Here is how much of TeX's memory you used:
- 30666 strings out of 468132
- 591656 string characters out of 5440762
- 1155160 words of memory out of 5000000
- 58442 multiletter control sequences out of 15000+600000
+ 30656 strings out of 468132
+ 591535 string characters out of 5440762
+ 1133100 words of memory out of 5000000
+ 58440 multiletter control sequences out of 15000+600000
  658764 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,17n,110p,2046b,2639s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,17n,110p,2187b,2643s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Thesis.pdf (124 pages, 2363349 bytes).
+Output written on Thesis.pdf (122 pages, 2371739 bytes).
 PDF statistics:
- 1119 PDF objects out of 1200 (max. 8388607)
- 232 named destinations out of 1000 (max. 500000)
- 400 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 813 PDF objects out of 1000 (max. 8388607)
+ 231 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
