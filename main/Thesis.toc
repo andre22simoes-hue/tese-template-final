@@ -1,0 +1,97 @@
+\babel@toc {portuguese}{}\relax 
+\contentsline {section}{Agradecimentos}{v}{Doc-Start}%
+\contentsline {section}{Resumo}{vii}{Doc-Start}%
+\contentsline {section}{Abstract}{ix}{Doc-Start}%
+\contentsline {section}{Lista de Tabelas}{xiii}{section*.2}%
+\contentsline {section}{Lista de Figuras}{xvii}{section*.4}%
+\contentsline {chapter}{List of Acronyms}{xix}{chapter*.6}%
+\contentsline {section}{Lista de S\'{i}mbolos}{xxi}{section*.7}%
+\contentsline {section}{Gloss\'ario}{xxiii}{section*.9}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Casuística}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Descrição do local de estágio}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Análise de Casuística}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Distribuição da Casuística por espécie animal}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Distribuição da Casuística por área clínica}{6}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Medicina Preventiva}{7}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Clínica Médica}{8}{subsection.2.4.2}%
+\contentsline {subsubsection}{Gastroenterologia e Glândulas Anexas}{8}{table.2.3}%
+\contentsline {subsubsection}{Nefrologia e Urologia}{9}{table.2.4}%
+\contentsline {subsubsection}{Cardiologia}{11}{table.2.5}%
+\contentsline {subsubsection}{Oncologia}{11}{table.2.6}%
+\contentsline {subsubsection}{Doenças Infeciosas e Parasitárias}{12}{table.2.7}%
+\contentsline {subsubsection}{Endocrinologia}{14}{table.2.8}%
+\contentsline {subsubsection}{Dermatologia}{15}{table.2.9}%
+\contentsline {subsubsection}{Neurologia}{16}{table.2.10}%
+\contentsline {subsubsection}{Pneumologia}{16}{table.2.11}%
+\contentsline {subsubsection}{Otorrinolaringologia}{18}{table.2.12}%
+\contentsline {subsubsection}{Oftalmologia}{18}{table.2.13}%
+\contentsline {subsubsection}{Teriogenologia}{19}{table.2.14}%
+\contentsline {subsubsection}{Traumatologia e Doenças Musculoesqueléticas}{20}{table.2.15}%
+\contentsline {subsubsection}{Hematologia}{20}{table.2.16}%
+\contentsline {subsubsection}{Toxicologia}{21}{table.2.17}%
+\contentsline {subsection}{\numberline {2.4.3}Clínica Cirúrgica}{22}{subsection.2.4.3}%
+\contentsline {subsubsection}{Cirurgia de Tecidos Moles}{23}{table.2.19}%
+\contentsline {subsubsection}{Cirurgia odontológica}{23}{table.2.20}%
+\contentsline {subsubsection}{Neurocirurgia}{25}{table.2.21}%
+\contentsline {subsubsection}{Cirurgia Ortopédica}{25}{table.2.22}%
+\contentsline {subsection}{\numberline {2.4.4}Procedimentos Médicos}{26}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Exames Complementares de Diagnóstico}{26}{subsection.2.4.5}%
+\contentsline {chapter}{\numberline {3}Monografia:Sialoadenose responsiva a fenobarbital}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introdução ao tema}{30}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Glândulas salivares}{30}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Anatomia e Fisiologia das glândulas salivares}{30}{subsection.3.2.1}%
+\contentsline {subsubsection}{Classificação e localização das glândulas salivares em cães}{31}{subsection.3.2.1}%
+\contentsline {subsubsection}{Glândula parótida}{31}{Item.7}%
+\contentsline {subsubsection}{Glândula mandibular}{33}{Item.7}%
+\contentsline {subsubsection}{Glândula sublingual}{35}{figure.3.1}%
+\contentsline {subsubsection}{Glândula zigomática}{36}{figure.3.1}%
+\contentsline {subsection}{\numberline {3.2.2}Função da saliva}{37}{subsection.3.2.2}%
+\contentsline {subsubsection}{Composição e pH da saliva}{38}{subsection.3.2.2}%
+\contentsline {subsubsection}{Composição da saliva}{38}{subsection.3.2.2}%
+\contentsline {subsubsection}{Ph da saliva}{38}{subsection.3.2.2}%
+\contentsline {subsubsection}{Controlo nervoso da secreção salivar}{39}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Sialoadenose em cães}{40}{subsection.3.2.3}%
+\contentsline {subsubsection}{Definição}{40}{subsection.3.2.3}%
+\contentsline {subsubsection}{Fisiopatologia}{40}{subsection.3.2.3}%
+\contentsline {subsubsection}{Etiologia e hipótese neurológica: Epilepsia límbica}{41}{subsection.3.2.3}%
+\contentsline {subsubsection}{Epilepsia}{41}{subsection.3.2.3}%
+\contentsline {subsubsection}{Epilepsia límbica}{42}{Item.9}%
+\contentsline {subsubsection}{Sinais clínicos}{44}{Item.9}%
+\contentsline {subsubsection}{Aumento bilateral das glândulas salivares}{45}{Item.9}%
+\contentsline {subsubsection}{Ptialismo}{45}{Item.9}%
+\contentsline {subsubsection}{Ânsia de vómito, engasgo e vómito crónico}{46}{Item.9}%
+\contentsline {subsubsection}{Regurgitação}{48}{Item.9}%
+\contentsline {subsubsection}{Hiporrexia, anorexia e perda de peso}{48}{Item.9}%
+\contentsline {subsubsection}{Diagnósticos diferenciais}{49}{Item.9}%
+\contentsline {subsubsection}{Alterações esofágicas como diagnóstico diferencial}{50}{table.3.1}%
+\contentsline {subsubsection}{Principais sialopatias em cães}{51}{table.3.1}%
+\contentsline {subsubsection}{Sialocele}{51}{table.3.1}%
+\contentsline {subsubsection}{Definição e etiopatogenia}{51}{table.3.1}%
+\contentsline {subsubsection}{Sinais clínicos}{51}{table.3.1}%
+\contentsline {subsubsection}{Diagnóstico}{52}{table.3.1}%
+\contentsline {subsubsection}{Tratamento e prognóstico}{52}{table.3.1}%
+\contentsline {subsubsection}{Definição e etiopatogenia}{52}{table.3.1}%
+\contentsline {subsubsection}{Sinais clínicos}{53}{table.3.1}%
+\contentsline {subsubsection}{Tratamento e prognóstico}{53}{table.3.1}%
+\contentsline {chapter}{\numberline {4}Results}{91}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Problem Description}{91}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Baseline Solution}{92}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Enhanced Solution}{92}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Figures}{92}{subsection.4.3.1}%
+\contentsline {subsubsection}{Images}{92}{subsection.4.3.1}%
+\contentsline {subsubsection}{Drawings}{92}{figure.4.2}%
+\contentsline {subsection}{\numberline {4.3.2}Equations}{92}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Tables}{94}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Mixing}{95}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {5}Conclusions}{97}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Achievements}{97}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Future Work}{98}{section.5.2}%
+\contentsline {chapter}{Bibliografia}{99}{section*.11}%
+\contentsline {chapter}{\numberline {A}Vector calculus}{117}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Vector identities}{118}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Theoretical Overview}{118}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Theoretical Model 1}{118}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Theoretical Model 2}{119}{section.A.4}%
+\contentsline {chapter}{\numberline {B}Technical Datasheets}{121}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Some Datasheet}{121}{section.B.1}%
