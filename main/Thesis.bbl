@@ -1,4 +1,4 @@
-\begin{thebibliography}{129}
+\begin{thebibliography}{142}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -18,15 +18,18 @@ G.~B. Proctor and G.~H. Carpenter.
 \newblock ISSN 15660702.
 \newblock \doi{10.1016/j.autneu.2006.10.006}.
 
-\bibitem[cun()]{cunningham}
-Cunningham's {Textbook} of {Veterinary} {Physiology}.
-\newblock URL
-  \url{https://www.sciencedirect.com/book/9780323552271/cunninghams-textbook-of-veterinary-physiology}.
+\bibitem[Cunningham(2020)]{cunningham}
+J.~G. Cunningham.
+\newblock \emph{Cunningham's textbook of veterinary physiology}.
+\newblock Elsevier, St. Louis, Missouri, sixth edition. edition, 2020.
+\newblock ISBN 9780323552271.
+\newblock OCLC: 1084316318.
 
-\bibitem[Das et~al.(2021)Das, Sejian, Mukherjee, and Banerjee]{Das_Textbook}
-P.~K. Das, V.~Sejian, J.~Mukherjee, and D.~Banerjee.
-\newblock \emph{{Textbook of Veterinary Physiology}}.
-\newblock Satish Serial Publishing House, 2021.
+\bibitem[Das et~al.(2023)Das, Sejian, Mukherjee, and Banerjee]{Das_Textbook}
+P.~K. Das, V.~Sejian, J.~Mukherjee, and D.~Banerjee, editors.
+\newblock \emph{Textbook of veterinary physiology}.
+\newblock Springer, Singapore, 2023.
+\newblock ISBN 9789811994104 9789811994128.
 
 \bibitem[Singh(2017)]{Singh2017}
 B.~Singh.
@@ -41,6 +44,21 @@ M.~G. Cappai, S.~Aboling, and C.~Dall’aglio.
 \newblock \emph{Agriculture (Switzerland)}, 11\penalty0 (9), 2021.
 \newblock ISSN 20770472.
 \newblock \doi{10.3390/agriculture11090817}.
+
+\bibitem[Liebich(2019)]{liebich_veterinary_2019}
+H.-G. Liebich.
+\newblock \emph{Veterinary histology of domestic mammals and birds: textbook
+  and colour atlas}.
+\newblock 5m Publishing, Sheffield, 5th edition edition, 2019.
+\newblock ISBN 9781789180091.
+
+\bibitem[König and Liebich(2020)]{konig_veterinary_2020}
+H.~E. König and H.-G. Liebich, editors.
+\newblock \emph{Veterinary {Anatomy} of {Domestic} {Animals}: {Textbook} and
+  {Colour} {Atlas}}.
+\newblock Thieme, Stuttgart, 7. 7th, updated and extended edition edition,
+  2020.
+\newblock ISBN 9783132429338 9783132429345.
 
 \bibitem[Evans(2012)]{evans_millers_2012}
 H.~E. Evans.
@@ -87,13 +105,37 @@ J.~P. Damián, L.~Bengoa, P.~Pessina, S.~Martínez, and F.~Fumagalli.
 \newblock \doi{10.4314/ovj.v8i3.1}.
 
 \bibitem[Pasha et~al.(2018)Pasha, Inui, Chapple, Harris, Holcombe, and
-  Grant]{Pasha2018}
+  Grant]{pasha_saliva_2018}
 S.~Pasha, T.~Inui, I.~Chapple, S.~Harris, L.~Holcombe, and M.~M. Grant.
-\newblock {The Saliva Proteome of Dogs: Variations Within and Between Breeds
-  and Between Species}.
-\newblock \emph{Proteomics}, 18\penalty0 (3-4), 2 2018.
-\newblock ISSN 16159861.
+\newblock The {Saliva} {Proteome} of {Dogs}: {Variations} {Within} and
+  {Between} {Breeds} and {Between} {Species}.
+\newblock \emph{PROTEOMICS}, 18\penalty0 (3-4):\penalty0 1700293, Feb. 2018.
+\newblock ISSN 1615-9853, 1615-9861.
 \newblock \doi{10.1002/pmic.201700293}.
+\newblock URL
+  \url{https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/pmic.201700293}.
+
+\bibitem[Contreras-Aguilar et~al.(2017)Contreras-Aguilar, Tecles,
+  Martínez-Subiela, Escribano, Bernal, and Cerón]{Contreras-Aguilar2017}
+M.~D. Contreras-Aguilar, F.~Tecles, S.~Martínez-Subiela, D.~Escribano, L.~J.
+  Bernal, and J.~J. Cerón.
+\newblock {Detection and measurement of alpha-amylase in canine saliva and
+  changes after an experimentally induced sympathetic activation}.
+\newblock \emph{BMC Veterinary Research}, 13\penalty0 (1), 8 2017.
+\newblock ISSN 17466148.
+\newblock \doi{10.1186/s12917-017-1191-4}.
+
+\bibitem[Hong et~al.(2019)Hong, Oh, Kim, and Seo]{Hong2019}
+H.~R. Hong, Y.~I. Oh, Y.~J. Kim, and K.~W. Seo.
+\newblock {Salivary alpha-amylase as a stress biomarker in diseased dogs}.
+\newblock \emph{Journal of Veterinary Science}, 20\penalty0 (5), 2019.
+\newblock ISSN 1976555X.
+\newblock \doi{10.4142/jvs.2019.20.e46}.
+
+\bibitem[Hornbuckle et~al.(2008)Hornbuckle, Simpson, and
+  Tennant]{Hornbuckle2008}
+W.~E. Hornbuckle, K.~W. Simpson, and B.~C. Tennant.
+\newblock Gastrointestinal function chapter 14, 2008.
 
 \bibitem[Poirier et~al.(2018)Poirier, Mayer-Stankeová, Buchholz, Vail, and
   Kaser~Hotz]{Poirier2018}
@@ -385,6 +427,13 @@ A.~S. Zadeh and E.~Snead.
 \newblock ISSN 20526121.
 \newblock \doi{10.1002/vrc2.1065}.
 
+\bibitem[Mullins(2024)]{_salivary_}
+R.~A. Mullins.
+\newblock Salivary mucocoele in dogs: aetiology, diagnosis, and management, sep
+  2024.
+\newblock URL
+  \url{https://www.veterinaryirelandjournal.com/small-animal/375-salivary-mucocoele-in-dogs-aetiology-diagnosis-and-management}.
+
 \bibitem[Kumar et~al.(2017)Kumar, Tufani, Singh, and Rajora]{Kumar2017}
 M.~Kumar, N.~Tufani, J.~Singh, and V.~Rajora.
 \newblock {Diagnostic evaluation of renal failure in canine with special
@@ -392,6 +441,15 @@ M.~Kumar, N.~Tufani, J.~Singh, and V.~Rajora.
 \newblock \emph{Journal of Entomology and Zoology Studies}, 5\penalty0
   (6):\penalty0 2354--2364, 2017.
 \newblock ISSN 2320-7078.
+
+\bibitem[McGill et~al.(2009)McGill, Lester, McLachlan, and
+  Mansfield]{McGill2009}
+S.~McGill, N.~Lester, A.~McLachlan, and C.~Mansfield.
+\newblock {Concurrent sialocoele and necrotising sialadenitis in a dog}.
+\newblock \emph{Journal of Small Animal Practice}, 50\penalty0 (3):\penalty0
+  151--156, 3 2009.
+\newblock ISSN 00224510.
+\newblock \doi{10.1111/j.1748-5827.2009.00706.x}.
 
 \bibitem[Enache et~al.(2025)Enache, Maini, Pivetta, Jeanes, Fleming, Hartley,
   and Tetas~Pont]{Enache2025}
@@ -403,14 +461,26 @@ A.~E. Enache, S.~Maini, M.~Pivetta, E.~Jeanes, L.~Fleming, C.~Hartley, and
 \newblock ISSN 17485827.
 \newblock \doi{10.1111/jsap.13844}.
 
-\bibitem[McGill et~al.(2009)McGill, Lester, McLachlan, and
-  Mansfield]{McGill2009}
-S.~McGill, N.~Lester, A.~McLachlan, and C.~Mansfield.
-\newblock {Concurrent sialocoele and necrotising sialadenitis in a dog}.
-\newblock \emph{Journal of Small Animal Practice}, 50\penalty0 (3):\penalty0
-  151--156, 3 2009.
-\newblock ISSN 00224510.
-\newblock \doi{10.1111/j.1748-5827.2009.00706.x}.
+\bibitem[Babicsak et~al.(2013)Babicsak, ARRUDA, Silva, Lourenço, Rocha,
+  Carlos, and Mamprim]{supurativa}
+V.~Babicsak, V.~ARRUDA, M.~C. Silva, M.~L. Lourenço, N.~Rocha, V.~Carlos, and
+  M.~Mamprim.
+\newblock Suppurative sialadenitis in mandibular gland of a dog -
+  ultrasonographic aspect.
+\newblock \emph{Veterinária e Zootecnia}, 01 2013.
+
+\bibitem[Cannon et~al.(2011)Cannon, Paglia, Zwingenberger, Boroffka,
+  Hollingsworth, and Wisner]{11cases}
+M.~S. Cannon, D.~Paglia, A.~L. Zwingenberger, S.~A. E.~B. Boroffka, S.~R.
+  Hollingsworth, and E.~R. Wisner.
+\newblock Clinical and diagnostic imaging findings in dogs with zygomatic
+  sialadenitis: 11 cases (1990–2009).
+\newblock \emph{Journal of the American Veterinary Medical Association},
+  239\penalty0 (9):\penalty0 1211--1218, Nov. 2011.
+\newblock ISSN 0003-1488.
+\newblock \doi{10.2460/javma.239.9.1211}.
+\newblock URL
+  \url{https://avmajournals.avma.org/view/journals/javma/239/9/javma.239.9.1211.xml}.
 
 \bibitem[Martinez et~al.(2018)Martinez, Carter, Gaschen, and
   Ryan]{Martinez2018}
@@ -498,6 +568,26 @@ A.~Pérez-Écija, J.~C. Estepa, and F.~J. Mendoza.
 \newblock \emph{The Canadian Veterinary Journal = La Revue Veterinaire
   Canadienne}, 53\penalty0 (11):\penalty0 1211--1213, Nov. 2012.
 \newblock ISSN 0008-5286.
+
+\bibitem[Schroeder and Berry(1998)]{schroeder_salivary_1998}
+H.~Schroeder and W.~L. Berry.
+\newblock Salivary gland necrosis in dogs: a retrospective study of 19 cases.
+\newblock \emph{Journal of Small Animal Practice}, 39\penalty0 (3):\penalty0
+  121--125, Mar. 1998.
+\newblock ISSN 0022-4510, 1748-5827.
+\newblock \doi{10.1111/j.1748-5827.1998.tb03615.x}.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/10.1111/j.1748-5827.1998.tb03615.x}.
+
+\bibitem[Van~der Merwe et~al.(2012)Van~der Merwe, Christie, Clift, and
+  Dvir]{vanderMerwe2012}
+L.~L. Van~der Merwe, J.~Christie, S.~J. Clift, and E.~Dvir.
+\newblock {Salivary gland enlargement and sialorrhoea in dogs with
+  spirocercosis: A retrospective and prospective study of 298 cases}.
+\newblock \emph{Journal of the South African Veterinary Association},
+  83\penalty0 (1), 2012.
+\newblock ISSN 22249435.
+\newblock \doi{10.4102/jsava.v83i1.920}.
 
 \bibitem[Ryan et~al.(2008)Ryan, Welsh, McGorum, and Yool]{Ryan2008}
 T.~Ryan, E.~Welsh, I.~McGorum, and D.~Yool.
@@ -967,6 +1057,18 @@ P.~B. Müller, J.~Taboada, G.~Hosgood, B.~P. Partington, J.~L. VanSteenhouse,
 \newblock ISSN 08916640.
 \newblock \doi{10.1111/j.1939-1676.2000.tb02231.x}.
 
+\bibitem[Baird-Heinz et~al.(2012)Baird-Heinz, Van~Schoick, Pelsor, Ranivand,
+  and Hungerford]{baird-heinz_systematic_2012}
+H.~E. Baird-Heinz, A.~L. Van~Schoick, F.~R. Pelsor, L.~Ranivand, and L.~L.
+  Hungerford.
+\newblock A systematic review of the safety of potassium bromide in dogs.
+\newblock \emph{Journal of the American Veterinary Medical Association},
+  240\penalty0 (6):\penalty0 705--715, Mar. 2012.
+\newblock ISSN 0003-1488.
+\newblock \doi{10.2460/javma.240.6.705}.
+\newblock URL
+  \url{https://avmajournals.avma.org/view/journals/javma/240/6/javma.240.6.705.xml}.
+
 \bibitem[Lichtenauer et~al.(2022)Lichtenauer, Evers, van~den Broek, and
   Mandigers]{Lichtenauer2022}
 E.~A. Lichtenauer, B.~Evers, J.~van~den Broek, and P.~J. Mandigers.
@@ -993,6 +1095,13 @@ D.~Gouveia, P.~Mandigers, and G.~B. Cherubini.
 \newblock ISSN 22971769.
 \newblock \doi{10.3389/fvets.2024.1433191}.
 
+\bibitem[Togawa et~al.(2018)Togawa, Saito, Iwata, Watanabe, and Orito]{vol16}
+G.~Togawa, M.~Saito, S.~Iwata, N.~Watanabe, and K.~Orito.
+\newblock Effects of chloride in the diet on serum bromide concentrations in
+  dogs.
+\newblock \emph{The journal of applied research}, 16:\penalty0 197--202, 11
+  2018.
+
 \bibitem[{FDA CVM}(2021)]{Fda2021}
 {FDA CVM}.
 \newblock {FREEDOM OF INFORMATION SUMMARY APPLICATION FOR CONDITIONAL APPROVAL
@@ -1018,6 +1127,19 @@ J.~R. Erath, J.~N. Nessler, F.~Riese, E.~Hünerfauth, K.~Rohn, and A.~Tipold.
 \newblock \emph{Frontiers in Veterinary Science}, 7, 4 2020.
 \newblock ISSN 22971769.
 \newblock \doi{10.3389/fvets.2020.00169}.
+
+\bibitem[Boozer et~al.(2015)Boozer, Platt, Haley, Linville, Kent, Barron, Nie,
+  and Arnold]{ajvr}
+L.~B. Boozer, S.~R. Platt, A.~C. Haley, A.~V. Linville, M.~Kent, L.~E. Barron,
+  B.~Nie, and R.~D. Arnold.
+\newblock Pharmacokinetic evaluation of immediate- and extended-release
+  formulations of levetiracetam in dogs.
+\newblock \emph{American Journal of Veterinary Research}, 76\penalty0
+  (8):\penalty0 719--723, Aug. 2015.
+\newblock ISSN 0002-9645.
+\newblock \doi{10.2460/ajvr.76.8.719}.
+\newblock URL
+  \url{https://avmajournals.avma.org/view/journals/ajvr/76/8/ajvr.76.8.719.xml}.
 
 \bibitem[Contreras-Garc{\\'i}a et~al.(2022)Contreras-Garc{\\'i}a,
   C{\\'a}rdenas-Rodr{\\'i}guez, Romo-Mancillas, Bandala, Zamudio,
