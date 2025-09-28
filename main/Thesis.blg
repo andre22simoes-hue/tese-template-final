@@ -1,63 +1,55 @@
-This is BibTeX, Version 0.99d (TeX Live 2025)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
 The style file: abbrvunsrtnat.bst
+Reallocating 'name_of_file' (item size: 1) to 17 items.
 Database file #1: ../Thesis_bib_DB.bib
-Warning--I didn't find a database entry for "_canine_gastro_2013"
-Warning--I didn't find a database entry for "rfeu"
-Warning--I didn't find a database entry for "sa_"
-Warning--I didn't find a database entry for "supurativa"
-Warning--I didn't find a database entry for "11cases"
 Warning--I didn't find a database entry for "sialadenite"
 Warning--I didn't find a database entry for "schoroeder"
 Warning--I didn't find a database entry for "sdma"
-Warning--I didn't find a database entry for "javmakbr"
-Warning--I didn't find a database entry for "Dr"
-Warning--I didn't find a database entry for "vol16"
-Warning--I didn't find a database entry for "ajvr"
-Warning--empty year in cunningham
 Warning--empty year in jameson:adjointns
 Warning--empty year in nocedal:opt
 Warning--empty year in marta:ijcfd
-You've used 129 entries,
+You've used 142 entries,
             2481 wiz_defined-function locations,
-            1526 strings with 34888 characters,
-and the built_in function-call counts, 54580 in all, are:
-= -- 4628
-> -- 3396
-< -- 38
-+ -- 1276
-- -- 1016
-* -- 4944
-:= -- 9168
-add.period$ -- 600
-call.type$ -- 129
-change.case$ -- 252
-chr.to.int$ -- 127
-cite$ -- 138
-duplicate$ -- 2414
-empty$ -- 4458
-format.name$ -- 1180
-if$ -- 11270
+            1602 strings with 38266 characters,
+and the built_in function-call counts, 60107 in all, are:
+= -- 5082
+> -- 3764
+< -- 43
++ -- 1412
+- -- 1126
+* -- 5440
+:= -- 10124
+add.period$ -- 663
+call.type$ -- 142
+change.case$ -- 278
+chr.to.int$ -- 140
+cite$ -- 149
+duplicate$ -- 2657
+empty$ -- 4899
+format.name$ -- 1308
+if$ -- 12407
 int.to.chr$ -- 3
-int.to.str$ -- 130
-missing$ -- 133
-newline$ -- 865
-num.names$ -- 380
-pop$ -- 816
+int.to.str$ -- 143
+missing$ -- 146
+newline$ -- 954
+num.names$ -- 424
+pop$ -- 898
 preamble$ -- 1
-purify$ -- 129
+purify$ -- 142
 quote$ -- 0
-skip$ -- 1305
+skip$ -- 1432
 stack$ -- 0
-substring$ -- 2079
-swap$ -- 347
+substring$ -- 2252
+swap$ -- 381
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 849
-warning$ -- 4
-while$ -- 399
+type$ -- 931
+warning$ -- 3
+while$ -- 437
 width$ -- 0
-write$ -- 2104
-(There were 16 warnings)
+write$ -- 2324
+(There were 6 warnings)

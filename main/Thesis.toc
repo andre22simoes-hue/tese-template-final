@@ -2,11 +2,11 @@
 \contentsline {section}{Agradecimentos}{v}{Doc-Start}%
 \contentsline {section}{Resumo}{vii}{Doc-Start}%
 \contentsline {section}{Abstract}{ix}{Doc-Start}%
-\contentsline {section}{Lista de Tabelas}{xiii}{section*.2}%
-\contentsline {section}{Lista de Figuras}{xvii}{section*.4}%
-\contentsline {chapter}{List of Acronyms}{xix}{chapter*.6}%
-\contentsline {section}{Lista de S\'{i}mbolos}{xxi}{section*.7}%
-\contentsline {section}{Gloss\'ario}{xxiii}{section*.9}%
+\contentsline {section}{Lista de Tabelas}{xv}{section*.2}%
+\contentsline {section}{Lista de Figuras}{xix}{section*.4}%
+\contentsline {chapter}{List of Acronyms}{xxi}{chapter*.6}%
+\contentsline {section}{Lista de S\'{i}mbolos}{xxiii}{section*.7}%
+\contentsline {section}{Gloss\'ario}{xxv}{section*.9}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Casuística}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Descrição do local de estágio}{3}{section.2.1}%
@@ -42,56 +42,105 @@
 \contentsline {section}{\numberline {3.2}Glândulas salivares}{30}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Anatomia e Fisiologia das glândulas salivares}{30}{subsection.3.2.1}%
 \contentsline {subsubsection}{Classificação e localização das glândulas salivares em cães}{31}{subsection.3.2.1}%
-\contentsline {subsubsection}{Glândula parótida}{31}{Item.7}%
-\contentsline {subsubsection}{Glândula mandibular}{33}{Item.7}%
+\contentsline {subsubsection}{Glândula parótida}{31}{figure.3.1}%
+\contentsline {subsubsection}{Glândula mandibular}{34}{figure.3.1}%
 \contentsline {subsubsection}{Glândula sublingual}{35}{figure.3.1}%
 \contentsline {subsubsection}{Glândula zigomática}{36}{figure.3.1}%
 \contentsline {subsection}{\numberline {3.2.2}Função da saliva}{37}{subsection.3.2.2}%
 \contentsline {subsubsection}{Composição e pH da saliva}{38}{subsection.3.2.2}%
 \contentsline {subsubsection}{Composição da saliva}{38}{subsection.3.2.2}%
-\contentsline {subsubsection}{Ph da saliva}{38}{subsection.3.2.2}%
-\contentsline {subsubsection}{Controlo nervoso da secreção salivar}{39}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Sialoadenose em cães}{40}{subsection.3.2.3}%
-\contentsline {subsubsection}{Definição}{40}{subsection.3.2.3}%
-\contentsline {subsubsection}{Fisiopatologia}{40}{subsection.3.2.3}%
-\contentsline {subsubsection}{Etiologia e hipótese neurológica: Epilepsia límbica}{41}{subsection.3.2.3}%
-\contentsline {subsubsection}{Epilepsia}{41}{subsection.3.2.3}%
-\contentsline {subsubsection}{Epilepsia límbica}{42}{Item.9}%
-\contentsline {subsubsection}{Sinais clínicos}{44}{Item.9}%
-\contentsline {subsubsection}{Aumento bilateral das glândulas salivares}{45}{Item.9}%
-\contentsline {subsubsection}{Ptialismo}{45}{Item.9}%
-\contentsline {subsubsection}{Ânsia de vómito, engasgo e vómito crónico}{46}{Item.9}%
-\contentsline {subsubsection}{Regurgitação}{48}{Item.9}%
-\contentsline {subsubsection}{Hiporrexia, anorexia e perda de peso}{48}{Item.9}%
-\contentsline {subsubsection}{Diagnósticos diferenciais}{49}{Item.9}%
-\contentsline {subsubsection}{Alterações esofágicas como diagnóstico diferencial}{50}{table.3.1}%
-\contentsline {subsubsection}{Principais sialopatias em cães}{51}{table.3.1}%
-\contentsline {subsubsection}{Sialocele}{51}{table.3.1}%
-\contentsline {subsubsection}{Definição e etiopatogenia}{51}{table.3.1}%
-\contentsline {subsubsection}{Sinais clínicos}{51}{table.3.1}%
-\contentsline {subsubsection}{Diagnóstico}{52}{table.3.1}%
-\contentsline {subsubsection}{Tratamento e prognóstico}{52}{table.3.1}%
-\contentsline {subsubsection}{Definição e etiopatogenia}{52}{table.3.1}%
-\contentsline {subsubsection}{Sinais clínicos}{53}{table.3.1}%
-\contentsline {subsubsection}{Tratamento e prognóstico}{53}{table.3.1}%
-\contentsline {chapter}{\numberline {4}Results}{91}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Problem Description}{91}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Baseline Solution}{92}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Enhanced Solution}{92}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Figures}{92}{subsection.4.3.1}%
-\contentsline {subsubsection}{Images}{92}{subsection.4.3.1}%
-\contentsline {subsubsection}{Drawings}{92}{figure.4.2}%
-\contentsline {subsection}{\numberline {4.3.2}Equations}{92}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Tables}{94}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}Mixing}{95}{subsection.4.3.4}%
-\contentsline {chapter}{\numberline {5}Conclusions}{97}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Achievements}{97}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Future Work}{98}{section.5.2}%
-\contentsline {chapter}{Bibliografia}{99}{section*.11}%
-\contentsline {chapter}{\numberline {A}Vector calculus}{117}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Vector identities}{118}{section.A.1}%
-\contentsline {section}{\numberline {A.2}Theoretical Overview}{118}{section.A.2}%
-\contentsline {section}{\numberline {A.3}Theoretical Model 1}{118}{section.A.3}%
-\contentsline {section}{\numberline {A.4}Theoretical Model 2}{119}{section.A.4}%
-\contentsline {chapter}{\numberline {B}Technical Datasheets}{121}{appendix.B}%
-\contentsline {section}{\numberline {B.1}Some Datasheet}{121}{section.B.1}%
+\contentsline {subsubsection}{Ph da saliva}{38}{table.3.1}%
+\contentsline {subsubsection}{Controlo nervoso da secreção salivar}{39}{table.3.1}%
+\contentsline {section}{\numberline {3.3}Sialoadenose em cães}{40}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Definição}{40}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Fisiopatologia}{40}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Etiologia e hipótese neurológica: Epilepsia límbica}{41}{subsection.3.3.3}%
+\contentsline {subsubsection}{Epilepsia}{41}{subsection.3.3.3}%
+\contentsline {subsubsection}{Epilepsia límbica}{43}{Item.9}%
+\contentsline {subsection}{\numberline {3.3.4}Sinais clínicos}{44}{subsection.3.3.4}%
+\contentsline {subsubsection}{Aumento bilateral das glândulas salivares}{45}{subsection.3.3.4}%
+\contentsline {subsubsection}{Ptialismo}{45}{subsection.3.3.4}%
+\contentsline {subsubsection}{Ânsia de vómito, engasgo e vómito crónico}{46}{subsection.3.3.4}%
+\contentsline {subsubsection}{Regurgitação}{48}{subsection.3.3.4}%
+\contentsline {subsubsection}{Hiporexia, anorexia e perda de peso}{48}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Diagnósticos diferenciais}{49}{subsection.3.3.5}%
+\contentsline {subsubsection}{Alterações esofágicas como diagnóstico diferencial}{50}{table.3.2}%
+\contentsline {subsubsection}{Principais sialopatias em cães}{51}{table.3.2}%
+\contentsline {subsubsection}{Sialocele}{51}{table.3.2}%
+\contentsline {subsubsection}{Definição e etiopatogenia}{51}{table.3.2}%
+\contentsline {subsubsection}{Sinais clínicos}{51}{table.3.2}%
+\contentsline {subsubsection}{Diagnóstico}{52}{table.3.2}%
+\contentsline {subsubsection}{Tratamento e prognóstico}{52}{table.3.2}%
+\contentsline {subsubsection}{Sialoadenite}{52}{table.3.2}%
+\contentsline {subsubsection}{Definição e etiopatogenia}{52}{table.3.2}%
+\contentsline {subsubsection}{Sinais clínicos}{53}{table.3.2}%
+\contentsline {subsubsection}{Tratamento e prognóstico}{54}{table.3.2}%
+\contentsline {subsubsection}{Neoplasias das glândulas salivares}{54}{table.3.2}%
+\contentsline {subsubsection}{Definição e etiopatogenia}{54}{table.3.2}%
+\contentsline {subsubsection}{Sinais clínicos}{55}{table.3.2}%
+\contentsline {subsubsection}{Diagnóstico}{55}{table.3.2}%
+\contentsline {subsubsection}{Sialometaplasia necrosante}{56}{table.3.2}%
+\contentsline {subsubsection}{Definição e etiopatogenia}{56}{table.3.2}%
+\contentsline {subsubsection}{Sinais clínicos}{57}{table.3.2}%
+\contentsline {subsubsection}{Diagnóstico}{57}{table.3.2}%
+\contentsline {subsubsection}{Tratamento e prognóstico}{58}{table.3.2}%
+\contentsline {subsubsection}{Sialolitíase}{58}{table.3.2}%
+\contentsline {subsubsection}{Definição e etiopatogenia}{58}{table.3.2}%
+\contentsline {subsubsection}{Sinais clínicos}{58}{table.3.2}%
+\contentsline {subsubsection}{Diagnóstico}{59}{table.3.2}%
+\contentsline {subsubsection}{Tratamento e prognóstico}{59}{table.3.2}%
+\contentsline {subsection}{\numberline {3.3.6}Exames Complementares e Diagnóstico de Sialoadenose de origem neurológica}{59}{subsection.3.3.6}%
+\contentsline {subsubsection}{Hemograma + Perfil bioquímico sérico (Painel analítico geral??)}{61}{subsection.3.3.6}%
+\contentsline {subsubsection}{Avaliação da função renal}{61}{subsection.3.3.6}%
+\contentsline {subsubsection}{Avaliação da função hepática}{61}{subsection.3.3.6}%
+\contentsline {subsubsection}{Urinálise}{62}{subsection.3.3.6}%
+\contentsline {subsubsection}{Mensuração de Lípase pancreática canina}{63}{subsection.3.3.6}%
+\contentsline {subsubsection}{Teste de estimulação da hormona adrenocorticotrófica (ACTH)}{63}{subsection.3.3.6}%
+\contentsline {subsubsection}{Patologia clínica}{64}{subsection.3.3.6}%
+\contentsline {subsubsection}{Anomalias eletrolíticas}{65}{subsection.3.3.6}%
+\contentsline {subsubsection}{Endoscopia}{65}{subsection.3.3.6}%
+\contentsline {subsubsection}{Ecografia}{67}{subsection.3.3.6}%
+\contentsline {subsubsection}{Radiografia torácica}{67}{subsection.3.3.6}%
+\contentsline {subsubsection}{Tomografia computorizada e Ressonância Magnética}{68}{subsection.3.3.6}%
+\contentsline {subsubsection}{Citologia/histopatologia da glândula salivar}{69}{subsection.3.3.6}%
+\contentsline {subsubsection}{Eletroencefalografia}{71}{subsection.3.3.6}%
+\contentsline {subsubsection}{Resposta favorável após instituição de tratamento com fenobarbital}{72}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.3.7}Opções Terapêuticas e Maneio Clínico}{73}{subsection.3.3.7}%
+\contentsline {subsubsection}{Fármacos antiepiléticos}{73}{subsection.3.3.7}%
+\contentsline {subsubsection}{Fenobarbital}{74}{Item.12}%
+\contentsline {subsubsection}{Mecanismo de ação}{74}{Item.12}%
+\contentsline {subsubsection}{Metabolização}{75}{Item.14}%
+\contentsline {subsubsection}{Monitorização}{77}{Item.16}%
+\contentsline {subsubsection}{Brometo de Potássio}{78}{Item.16}%
+\contentsline {subsubsection}{Mecanismo de ação}{78}{Item.16}%
+\contentsline {subsubsection}{Metabolização}{79}{Item.16}%
+\contentsline {subsubsection}{Uso em casos de sialoadenose em cães}{79}{Item.16}%
+\contentsline {subsubsection}{Efeitos adversos}{80}{Item.16}%
+\contentsline {subsubsection}{Monitorização}{80}{Item.16}%
+\contentsline {subsubsection}{Levetiracetam}{81}{Item.16}%
+\contentsline {subsection}{\numberline {3.3.8}Prognóstico}{82}{subsection.3.3.8}%
+\contentsline {section}{\numberline {3.4}Caso clínico}{82}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Identificação do paciente}{82}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Anamnese e exame físico}{83}{subsection.3.4.2}%
+\contentsline {subsubsection}{Historial clínico}{83}{subsection.3.4.2}%
+\contentsline {chapter}{\numberline {4}Results}{93}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Problem Description}{93}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Baseline Solution}{94}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Enhanced Solution}{94}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Figures}{94}{subsection.4.3.1}%
+\contentsline {subsubsection}{Images}{94}{subsection.4.3.1}%
+\contentsline {subsubsection}{Drawings}{94}{figure.4.2}%
+\contentsline {subsection}{\numberline {4.3.2}Equations}{94}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Tables}{96}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Mixing}{97}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {5}Conclusions}{99}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Achievements}{99}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Future Work}{100}{section.5.2}%
+\contentsline {chapter}{Bibliografia}{101}{section*.11}%
+\contentsline {chapter}{\numberline {A}Vector calculus}{121}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Vector identities}{122}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Theoretical Overview}{122}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Theoretical Model 1}{122}{section.A.3}%
+\contentsline {section}{\numberline {A.4}Theoretical Model 2}{123}{section.A.4}%
+\contentsline {chapter}{\numberline {B}Technical Datasheets}{125}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Some Datasheet}{125}{section.B.1}%
